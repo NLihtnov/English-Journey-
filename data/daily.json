@@ -9,8 +9,8 @@
      "en": "here",
      "pt": "aqui",
      "ipa": "",
-     "example": "I am a student.",
-     "example_pt": "Eu sou estudante."
+     "example": "",
+     "example_pt": ""
     },
     {
      "en": "tired",
@@ -23,22 +23,22 @@
      "en": "busy",
      "pt": "ocupado",
      "ipa": "",
-     "example": "Are you ready?",
-     "example_pt": "Você está pronto?"
+     "example": "",
+     "example_pt": ""
     },
     {
      "en": "late",
      "pt": "atrasado",
      "ipa": "",
-     "example": "It is very hot today.",
-     "example_pt": "Está muito quente hoje."
+     "example": "",
+     "example_pt": ""
     },
     {
      "en": "student",
      "pt": "estudante",
      "ipa": "",
-     "example": "We are friends.",
-     "example_pt": "Nós somos amigos."
+     "example": "I am a student.",
+     "example_pt": "Eu sou estudante."
     }
    ],
    "phrase": {
@@ -112,8 +112,8 @@
      "en": "lately",
      "pt": "ultimamente",
      "ipa": "",
-     "example": "I've never tried sushi.",
-     "example_pt": "Nunca experimentei sushi."
+     "example": "",
+     "example_pt": ""
     },
     {
      "en": "just",
@@ -126,15 +126,15 @@
      "en": "never",
      "pt": "nunca",
      "ipa": "",
-     "example": "I've lived here for five years.",
-     "example_pt": "Moro aqui há cinco anos."
+     "example": "I've never tried sushi.",
+     "example_pt": "Nunca experimentei sushi."
     },
     {
      "en": "since",
      "pt": "desde",
      "ipa": "",
-     "example": "Have you finished yet?",
-     "example_pt": "Você já terminou?"
+     "example": "",
+     "example_pt": ""
     }
    ],
    "phrase": {
@@ -201,22 +201,22 @@
      "en": "audience",
      "pt": "público",
      "ipa": "",
-     "example": "Today I'd like to talk about three things.",
-     "example_pt": "Hoje gostaria de falar sobre três coisas."
+     "example": "",
+     "example_pt": ""
     },
     {
      "en": "outline",
      "pt": "estrutura/roteiro",
      "ipa": "",
-     "example": "Let me give you an example.",
-     "example_pt": "Deixe-me dar um exemplo."
+     "example": "",
+     "example_pt": ""
     },
     {
      "en": "insight",
      "pt": "percepção",
      "ipa": "",
-     "example": "Moving on to my next point…",
-     "example_pt": "Passando para o próximo ponto…"
+     "example": "",
+     "example_pt": ""
     },
     {
      "en": "takeaway",
@@ -229,8 +229,8 @@
      "en": "key point",
      "pt": "ponto principal",
      "ipa": "",
-     "example": "That's a great question. Let me get back to you on that.",
-     "example_pt": "Ótima pergunta. Vou verificar e te retorno."
+     "example": "The key takeaway is…",
+     "example_pt": "A principal lição é…"
     }
    ],
    "phrase": {

@@ -1,1 +1,2671 @@
-{"updated": null, "lessons": {}}
+{
+ "updated": "2026-11-24",
+ "lessons": {
+  "u01": {
+   "English alphabet pronunciation for beginners English with Lucy": {
+    "label": "Alfabeto em inglês (pronúncia)",
+    "checked": "2026-11-24",
+    "results": [
+     {
+      "id": "um3YrKRfsr0",
+      "title": "English Alphabet Pronunciation | English Alphabet for Beginners",
+      "channel": "English with Al",
+      "duration": "1:30"
+     },
+     {
+      "id": "K0xYMBmdUsI",
+      "title": "DON'T pronounce this letter in British English ✋",
+      "channel": "English with Lucy",
+      "duration": "12:51"
+     },
+     {
+      "id": "JzBz0fjhhQg",
+      "title": "DON'T pronounce this letter in British English ✋",
+      "channel": "English with Lucy",
+      "duration": "13:10"
+     },
+     {
+      "id": "X627czLUsGY",
+      "title": "Say These 100 DAILY WORDS in a British Accent! (MODERN RP)",
+      "channel": "English with Lucy",
+      "duration": "21:02"
+     }
+    ]
+   },
+   "sons do inglês para brasileiros pronúncia iniciantes": {
+    "label": "Sons do inglês para brasileiros",
+    "checked": "2026-11-24",
+    "results": [
+     {
+      "id": "o9YAakiCi3k",
+      "title": "5 TRUQUES para nunca mais errar a pronúncia do inglês | English in Brazil",
+      "channel": "English in Brazil by Carina Fragozo",
+      "duration": "10:47"
+     },
+     {
+      "id": "4loRMIrdDro",
+      "title": "Phonetics of the Alphabet in English",
+      "channel": "Amanda, Sua Professora Americana",
+      "duration": "5:16"
+     },
+     {
+      "id": "IvvHC3NoYXI",
+      "title": "PHONETICS - ENGLISH VOWEL SOUNDS - LESSON 42 FOR BEGINNERS - PROFESSOR KENNY",
+      "channel": "PROFESSOR KENNY",
+      "duration": "10:06"
+     },
+     {
+      "id": "fkKVtjDVaus",
+      "title": "PRONUNCIATION TIPS FOR BEGINNERS | IMPROVE YOUR ENGLISH PRONUNCIATION AND ACCENT NOW! Part 1",
+      "channel": "Inglês Com Fabiano",
+      "duration": "6:46"
+     }
+    ]
+   },
+   "how to pronounce TH sound Rachel's English": {
+    "label": "Som do TH",
+    "checked": "2026-11-24",
+    "results": [
+     {
+      "id": "nlKNo1TGALA",
+      "title": "English Sounds - The Two TH Consonants [θ] and [ð]",
+      "channel": "Rachel's English",
+      "duration": "5:10"
+     },
+     {
+      "id": "beo1mezedJw",
+      "title": "How to Link the TH Sound: American English Pronunciation",
+      "channel": "Rachel's English",
+      "duration": "8:38"
+     },
+     {
+      "id": "1Tor0LDdVKY",
+      "title": "PERFECT PRONUNCIATION | 5 Powerful Tips for the TH Sound | Learn English Fluently | Rachel’s English",
+      "channel": "Rachel's English",
+      "duration": "14:39"
+     },
+     {
+      "id": "lFXzo7Kh8gs",
+      "title": "TH Sound - Practice Tip - Tom Kelley - Rachel's English",
+      "channel": "Rachel's English",
+      "duration": "5:02"
+     }
+    ]
+   }
+  },
+  "u02": {
+   "greetings in English for beginners BBC Learning English": {
+    "label": "Cumprimentos em inglês",
+    "checked": "2026-11-24",
+    "results": [
+     {
+      "id": "I_tRSrPru94",
+      "title": "How to introduce yourself: Easy English Conversations 💬 Episode 1",
+      "channel": "BBC Learning English",
+      "duration": "2:38"
+     },
+     {
+      "id": "aI_fREymNjI",
+      "title": "How to... greet people informally",
+      "channel": "BBC Learning English",
+      "duration": "5:59"
+     },
+     {
+      "id": "o5ghhSAxopw",
+      "title": "How to... greet people formally",
+      "channel": "BBC Learning English",
+      "duration": "6:02"
+     },
+     {
+      "id": "fI8EsEXS59w",
+      "title": "Learn Basic English Greetings – How to Greet Someone for the First Time | Beginner Speaking Practice",
+      "channel": "Professor Korten | English Language Academy ",
+      "duration": "5:59"
+     }
+    ]
+   },
+   "how to introduce yourself in English beginner": {
+    "label": "Como se apresentar",
+    "checked": "2026-11-24",
+    "results": [
+     {
+      "id": "I_tRSrPru94",
+      "title": "How to introduce yourself: Easy English Conversations 💬 Episode 1",
+      "channel": "BBC Learning English",
+      "duration": "2:38"
+     },
+     {
+      "id": "hCon8Uq_Bas",
+      "title": "Learn How to Talk About Yourself in English | Easy Introductions for Beginners | English Podcast",
+      "channel": "Mr. English Channel",
+      "duration": "18:49"
+     },
+     {
+      "id": "5c5P8YQeymI",
+      "title": "A Formula for Introducing Yourself Perfectly Every Time",
+      "channel": "Vanessa Van Edwards",
+      "duration": "5:10"
+     },
+     {
+      "id": "5StvZZccECg",
+      "title": "Learn how to introduce yourself in English - A1 [with Brian and Emily]",
+      "channel": "lingoni ENGLISH",
+      "duration": "2:35"
+     }
+    ]
+   },
+   "basic English conversation for beginners introductions": {
+    "label": "Conversa básica",
+    "checked": "2026-11-24",
+    "results": [
+     {
+      "id": "I_tRSrPru94",
+      "title": "How to introduce yourself: Easy English Conversations 💬 Episode 1",
+      "channel": "BBC Learning English",
+      "duration": "2:38"
+     },
+     {
+      "id": "amxeGGNwwzE",
+      "title": "Learn English Greetings - English Greetings Explained in Detail",
+      "channel": "Learn English with Bob the Canadian",
+      "duration": "10:30"
+     },
+     {
+      "id": "iloCBoEpEDQ",
+      "title": "Basic English Dialogs Introducing Yourself",
+      "channel": "All Things Grammar",
+      "duration": "4:08"
+     },
+     {
+      "id": "o-cVnzdhD_8",
+      "title": "Introducing Yourself in English | English Conversation Practice | Speak English. #speakingpractice",
+      "channel": "Speak English",
+      "duration": "6:57"
+     }
+    ]
+   }
+  },
+  "u03": {
+   "verbo to be aula completa iniciantes": {
+    "label": "Verbo to be em português",
+    "checked": "2026-11-24",
+    "results": [
+     {
+      "id": "8iLPYo9p3I0",
+      "title": "Verbo TO BE - Domínalo de una vez por todas. 💥",
+      "channel": "Kale Anders",
+      "duration": "20:28"
+     },
+     {
+      "id": "bSeZlT7Og8I",
+      "title": "Aprenda o VERBO TO BE! | Aula 01 - English in Brazil",
+      "channel": "English in Brazil by Carina Fragozo",
+      "duration": "11:52"
+     },
+     {
+      "id": "KRyK79yP0oA",
+      "title": "EL VERBO TO BE EN INGLÉS DE MANERA FÁCIL Y RÁPIDA | CLASE DE INGLÉS AMIGO MUMU",
+      "channel": "Amigo Mumu Español",
+      "duration": "7:00"
+     },
+     {
+      "id": "10ffzPn1rdw",
+      "title": "Aprende a usar el verbo TO BE en inglés",
+      "channel": "Fluent Julia 🇺🇸",
+      "duration": "16:20"
+     }
+    ]
+   }
+  },
+  "u04": {
+   "thirteen vs thirty pronunciation English": {
+    "label": "Teen x ty",
+    "checked": "2026-11-24",
+    "results": [
+     {
+      "id": "wVBdVYts-6A",
+      "title": "\"Thirteen or Thirty?\" Pronounce Difficult Numbers - Learn English",
+      "channel": "ESLTeacherTom",
+      "duration": "5:26"
+     },
+     {
+      "id": "bFqRf03sAzw",
+      "title": "Thirteen or Thirty? | American English Pronunciation",
+      "channel": "Accent's Way English with Hadar",
+      "duration": "3:00"
+     },
+     {
+      "id": "UvnVXHqkJfw",
+      "title": "Learn to Pronounce 3 THREE | 13 THIRTEEN | 30 THIRTY - American English Pronunciation #learnenglish",
+      "channel": "Tarle Speech - English Pronunciation",
+      "duration": "4:43"
+     },
+     {
+      "id": "Zo46-veoqGM",
+      "title": "Thirteen and Thirty - How To Hear and Pronounce the Difference",
+      "channel": "Happy English with Michael DiGiacomo",
+      "duration": "4:39"
+     }
+    ]
+   },
+   "how to say your age and phone number in English": {
+    "label": "Idade e telefone",
+    "checked": "2026-11-24",
+    "results": [
+     {
+      "id": "2OX8znJHNo0",
+      "title": "How to Say Your Phone Number in English in a Clear and Concise Way",
+      "channel": "Clear English Academy with Keenyn Rhodes",
+      "duration": "4:52"
+     },
+     {
+      "id": "k8KASxxzn-Y",
+      "title": "Are You Saying Your Age WRONG in English? | Speak Naturally Like a Native (American English)",
+      "channel": "Learn English with Ashley",
+      "duration": "3:24"
+     },
+     {
+      "id": "Dw8SuB7gKk4",
+      "title": "English for Beginners #8: Numbers, Telephone Numbers and Age | Easy English at Home",
+      "channel": "Easy English at Home",
+      "duration": "8:54"
+     },
+     {
+      "id": "EYSp2PsqKaA",
+      "title": "Numbers 0-20 in English: Say Your Age & Phone Number",
+      "channel": "English With Ease",
+      "duration": "23:32"
+     }
+    ]
+   }
+  },
+  "u05": {
+   "plural nouns English grammar beginners": {
+    "label": "Plural em inglês",
+    "checked": "2026-11-24",
+    "results": [
+     {
+      "id": "174ycaguljc",
+      "title": "PLURAL NOUNS 🦸‍♀️ Grammar and Spelling for Kids 📝 Superlexia ⭐ Episode 4",
+      "channel": "Smile and Learn - English",
+      "duration": "4:59"
+     },
+     {
+      "id": "2fFc_hdmy0o",
+      "title": "Singular and Plural Nouns | Learn the Rules to Make Plurals",
+      "channel": "Tutoring Hour",
+      "duration": "3:25"
+     },
+     {
+      "id": "L4B7XxuJO6A",
+      "title": "Singular & Plural Nouns – English Grammar Lessons",
+      "channel": "Ellii (formerly ESL Library)",
+      "duration": "4:55"
+     },
+     {
+      "id": "UJNsuNMTvgE",
+      "title": "Singular and Plural Nouns - s, es, and ies endings",
+      "channel": "Tiny Teaching Tube",
+      "duration": "6:01"
+     }
+    ]
+   },
+   "subject pronouns English for beginners": {
+    "label": "Pronomes pessoais",
+    "checked": "2026-11-24",
+    "results": [
+     {
+      "id": "Dr8GIp94GgA",
+      "title": "Subject Pronouns – English Grammar Lessons",
+      "channel": "Ellii (formerly ESL Library)",
+      "duration": "3:56"
+     },
+     {
+      "id": "WZWqZnxpYLA",
+      "title": "Learn Subject Pronouns | Basic English Grammar Course",
+      "channel": "Shaw English Online",
+      "duration": "6:27"
+     },
+     {
+      "id": "OrSlh0Cjmmo",
+      "title": "Learn Subject Pronouns Easily! 😃 | English Grammar for Beginners (EFL/ESL)",
+      "channel": "EFL / ESL",
+      "duration": "2:19"
+     },
+     {
+      "id": "B2CO4TvynYA",
+      "title": "Pronouns Part 1: Subject Pronoun | Subject Pronouns | English For Kids | Mind Blooming",
+      "channel": "Mind Blooming",
+      "duration": "3:30"
+     }
+    ]
+   }
+  },
+  "u06": {
+   "colors in English vocabulary pronunciation": {
+    "label": "Cores em inglês",
+    "checked": "2026-11-24",
+    "results": [
+     {
+      "id": "qhOTU8_1Af4",
+      "title": "Learn Colors - Preschool Chant - Colors Song for Preschool by ELF Learning - ELF Kids Videos",
+      "channel": "ELF Kids Videos",
+      "duration": "2:58"
+     },
+     {
+      "id": "_41dVrIpcPk",
+      "title": "Common Colors | A1-A2 American English Vocabulary and Pronunciation",
+      "channel": "Learn to Decode English",
+      "duration": "4:48"
+     },
+     {
+      "id": "vI_0sBpMcbw",
+      "title": "How to Say Colors in English - 45 Different Color Vocabulary in English",
+      "channel": "Teacher Meysam",
+      "duration": "4:41"
+     },
+     {
+      "id": "ym3y24xyA7Y",
+      "title": "Advanced Color Vocabulary to Brighten Up Your Conversations 🌈",
+      "channel": "Interactive English",
+      "duration": "8:49"
+     }
+    ]
+   },
+   "adjective order English basic": {
+    "label": "Ordem dos adjetivos",
+    "checked": "2026-11-24",
+    "results": [
+     {
+      "id": "qcOfYlMfDz0",
+      "title": "Adjective Order in English - English Grammar Lesson",
+      "channel": "Oxford Online English",
+      "duration": "8:01"
+     },
+     {
+      "id": "4RYS8olRJjE",
+      "title": "How to Correctly Order Adjectives | EasyTeaching",
+      "channel": "EasyTeaching",
+      "duration": "5:03"
+     },
+     {
+      "id": "mTm1tJYr5_M",
+      "title": "Adjectival Order: Why A \"Big Red Balloon\", not a \"Red Big Balloon\"?",
+      "channel": "Tom Scott",
+      "duration": "2:07"
+     },
+     {
+      "id": "7sHbB9VQBgo",
+      "title": "Adjective order | The parts of speech | Grammar | Khan Academy",
+      "channel": "Khan Academy",
+      "duration": "5:49"
+     }
+    ]
+   }
+  },
+  "u07": {
+   "family members vocabulary English": {
+    "label": "Família em inglês",
+    "checked": "2026-11-24",
+    "results": [
+     {
+      "id": "RhqBZkAwh8c",
+      "title": "ENGLISH VOCABULARY - Family Vocabulary!  This Vocabulary Builder teaches you all about family",
+      "channel": "Rachel's English",
+      "duration": "19:50"
+     },
+     {
+      "id": "-vyYBH0vQrI",
+      "title": "Family Members + Practice | American English for Adult Beginners",
+      "channel": "English Explained Vids",
+      "duration": "5:40"
+     },
+     {
+      "id": "uqNzV213Wc8",
+      "title": "Members of the Family in English | Learn English Vocabulary | Family Tree in English",
+      "channel": "Woodward English",
+      "duration": "5:33"
+     },
+     {
+      "id": "24GWC1dDyUM",
+      "title": "Learn Family Members in English | Family Vocabulary | Fun Kids English",
+      "channel": "Fun Kids English",
+      "duration": "3:21"
+     }
+    ]
+   },
+   "possessive adjectives my your his her English": {
+    "label": "Possessive adjectives",
+    "checked": "2026-11-24",
+    "results": [
+     {
+      "id": "G4J4f3hQsyA",
+      "title": "🇺🇸 POSSESSIVE ADJECTIVES IN ENGLISH / EXAMPLES AND EXERCISES / POSSESSIVE ADJECTIVES IN ENGLISH",
+      "channel": "The Gringlish Academy",
+      "duration": "6:24"
+     },
+     {
+      "id": "oBYfoG5wBP8",
+      "title": "English Grammar: Possessive Adjectives",
+      "channel": "Shaw English Online",
+      "duration": "8:02"
+     },
+     {
+      "id": "yL_dZKeqx0U",
+      "title": "My, Your, His and Her 🎵 Possessive Adjectives Song for Kids | Learn English",
+      "channel": "House of Miracles Learning Adventures",
+      "duration": "1:43"
+     },
+     {
+      "id": "UyT8Cv_3TSU",
+      "title": "Possessive Adjectives - My, Your, His, Her, Its, Our, Their| English grammar",
+      "channel": "M.E.B English",
+      "duration": "5:38"
+     }
+    ]
+   },
+   "possessive apostrophe s English grammar": {
+    "label": "Apóstrofo 's",
+    "checked": "2026-11-24",
+    "results": [
+     {
+      "id": "vc5quu-Ma7U",
+      "title": "Apostrophes for Possession | Possessive Nouns | EasyTeaching",
+      "channel": "EasyTeaching",
+      "duration": "6:51"
+     },
+     {
+      "id": "1LmIxiETWgM",
+      "title": "Apostrophe S - Possessive Nouns in English | When to use an apostrophe in English | English Grammar",
+      "channel": "Woodward English",
+      "duration": "23:20"
+     },
+     {
+      "id": "gItYElYA_1s",
+      "title": "Apostrophe S | 's or s' | Possessive Nouns in English | How to Form Plural and Singular Possessives",
+      "channel": "Sparkle English",
+      "duration": "13:24"
+     },
+     {
+      "id": "HPq_HUZlNqI",
+      "title": "SAT English Hacks | Apostrophes",
+      "channel": "Penguin SAT Prep ",
+      "duration": "12:48"
+     }
+    ]
+   }
+  },
+  "u08": {
+   "present simple tense English grammar lesson beginners": {
+    "label": "Present simple completo",
+    "checked": "2026-11-24",
+    "results": [
+     {
+      "id": "nvVdIJ0las0",
+      "title": "Simple Present – Grammar & Verb Tenses",
+      "channel": "Ellii (formerly ESL Library)",
+      "duration": "4:50"
+     },
+     {
+      "id": "Z19NAX_gWxI",
+      "title": "Learn English Tenses: PRESENT SIMPLE",
+      "channel": "Learn English with Rebecca · engVid",
+      "duration": "36:09"
+     },
+     {
+      "id": "47LEelX7nhg",
+      "title": "Learn Present Simple Tense | English Grammar Course 1",
+      "channel": "Shaw English Online",
+      "duration": "10:27"
+     },
+     {
+      "id": "PbLITiBi8uY",
+      "title": "Basic English Grammar Course 1 | Present Simple Tense | Learn and Practice",
+      "channel": "Shaw English Online",
+      "duration": "23:45"
+     }
+    ]
+   },
+   "daily routine vocabulary English speaking": {
+    "label": "Daily routine",
+    "checked": "2026-11-24",
+    "results": [
+     {
+      "id": "ecF1y2bI2T4",
+      "title": "Learn How To Talk About Your Daily Routine in English by Watching Me Act Out Mine",
+      "channel": "Learn English with Bob the Canadian",
+      "duration": "7:45"
+     },
+     {
+      "id": "K10t0zPaP0g",
+      "title": "100 Daily Routine English Sentences | First Words for Babies | English Vocabulary for Beginners",
+      "channel": "Happy Toddler Learning with Miss Kaye",
+      "duration": "27:32"
+     },
+     {
+      "id": "sMkzwmMs0jM",
+      "title": "Daily Routine | A1 English | Talk About Your Day | English Podcast",
+      "channel": "Mr. English Channel",
+      "duration": "11:04"
+     },
+     {
+      "id": "CogzJS0byzQ",
+      "title": "Talking About Daily Routines in English Conversations | Learn English Vocabulary",
+      "channel": "English Easy Practice",
+      "duration": "14:39"
+     }
+    ]
+   },
+   "do does questions present simple": {
+    "label": "Do x does",
+    "checked": "2026-11-24",
+    "results": [
+     {
+      "id": "htX6frsv1Wc",
+      "title": "Do/ Does Present Simple Questions Quiz: Beginner Level English Grammar for ESL Students",
+      "channel": "Tom's Magic English",
+      "duration": "4:38"
+     },
+     {
+      "id": "x-X9sURtFB8",
+      "title": "Do and Does in English | Simple Present Tense Questions | Learn English DO vs. DOES",
+      "channel": "Woodward English",
+      "duration": "11:09"
+     },
+     {
+      "id": "Mw-kK0eyxWM",
+      "title": "25 DO / DOES English Grammar Questions | Simple Present Tense",
+      "channel": "Shaw English Online",
+      "duration": "1:54"
+     },
+     {
+      "id": "EfTbCcDF7xE",
+      "title": "[05] present simple questions | Do vs Does | English grammar Quiz",
+      "channel": "English Pop Quiz",
+      "duration": "3:01"
+     }
+    ]
+   }
+  },
+  "u09": {
+   "telling the time in English lesson": {
+    "label": "Telling the time",
+    "checked": "2026-11-24",
+    "results": [
+     {
+      "id": "9p_pdjhPfMs",
+      "title": "How to tell the time in English | English lesson",
+      "channel": "Crown Academy of English",
+      "duration": "26:37"
+     },
+     {
+      "id": "WLAZpKY-9Ks",
+      "title": "Telling the time in English",
+      "channel": "ETB Education",
+      "duration": "3:23"
+     },
+     {
+      "id": "fq2tRfHu5s8",
+      "title": "Telling the Time in English | Learn how to tell the time in English with Pronunciation",
+      "channel": "Woodward English",
+      "duration": "3:57"
+     },
+     {
+      "id": "NfQ37VMYsig",
+      "title": "What time is it? Telling the Time in English Exercises | Tell the time with an analogue clock",
+      "channel": "Woodward English",
+      "duration": "5:13"
+     }
+    ]
+   },
+   "prepositions of time in on at English": {
+    "label": "In on at",
+    "checked": "2026-11-24",
+    "results": [
+     {
+      "id": "92XBCRYZ1S8",
+      "title": "IN / ON / AT - Prepositions of PLACE AND TIME | English Grammar Lesson (+ Free PDF & Quiz)",
+      "channel": "English with Lucy",
+      "duration": "13:57"
+     },
+     {
+      "id": "fRrVkXG0-v4",
+      "title": "Prepositions of Time – English Grammar Lessons",
+      "channel": "Ellii (formerly ESL Library)",
+      "duration": "5:25"
+     },
+     {
+      "id": "k8JRYf8vy2A",
+      "title": "Prepositions of TIME 👉 IN / ON / AT / BY 👈 Common English Grammar Mistakes",
+      "channel": "mmmEnglish",
+      "duration": "15:16"
+     },
+     {
+      "id": "N8StPJmc7Gg",
+      "title": "IN, ON, AT - PREPOSICIONES DE TIEMPO (PREPOSITIONS OF TIME) - INGLÉS PARA NIÑOS CON MR.PEA",
+      "channel": "Inglés para niños con Mr Pea",
+      "duration": "5:43"
+     }
+    ]
+   },
+   "days of the week months pronunciation English": {
+    "label": "Dias e meses",
+    "checked": "2026-11-24",
+    "results": [
+     {
+      "id": "ZGG7j9m3-EI",
+      "title": "Days and Months in English (Are you pronouncing them correctly?)",
+      "channel": "Teacher Mike English",
+      "duration": "4:32"
+     },
+     {
+      "id": "wOfwDOnO2c4",
+      "title": "Days of the week | Pronunciation lesson | British English",
+      "channel": "Learn Easy English",
+      "duration": "1:40"
+     },
+     {
+      "id": "2wGF3u6gUGY",
+      "title": "DAYS OF THE WEEK | How to Pronounce with an American accent",
+      "channel": "Accent's Way English with Hadar",
+      "duration": "4:58"
+     },
+     {
+      "id": "FaQbtCh__2c",
+      "title": "Days of the Week: American Pronunciation for Adult Learners w/Quiz!",
+      "channel": "English with Morgan",
+      "duration": "2:38"
+     }
+    ]
+   }
+  },
+  "u10": {
+   "ordering food in a restaurant English conversation": {
+    "label": "Pedir no restaurante",
+    "checked": "2026-11-24",
+    "results": [
+     {
+      "id": "uUMPULuwdLI",
+      "title": "How to Order Food at a Restaurant in English",
+      "channel": "Learn English with Bob the Canadian",
+      "duration": "7:32"
+     },
+     {
+      "id": "EQoEl9COazY",
+      "title": "5-Minute English Conversation Practice: At the Restaurant (Ordering Food)",
+      "channel": "English Together",
+      "duration": "3:06"
+     },
+     {
+      "id": "bgfdqVmVjfk",
+      "title": "At the Restaurant Conversation",
+      "channel": "Easy English",
+      "duration": "4:49"
+     },
+     {
+      "id": "qzawsRCwvj8",
+      "title": "How to order food in a restaurant",
+      "channel": "Ariannita la Gringa",
+      "duration": "14:37"
+     }
+    ]
+   },
+   "some any English grammar": {
+    "label": "Some x any",
+    "checked": "2026-11-24",
+    "results": [
+     {
+      "id": "Cazik1WGsco",
+      "title": "SOME and ANY | the complete grammar guide + TEST!",
+      "channel": "Arnel's Everyday English",
+      "duration": "13:56"
+     },
+     {
+      "id": "rRk9EhDcQp4",
+      "title": "How to use SOME & ANY | English Grammar Lesson",
+      "channel": "mmmEnglish",
+      "duration": "9:26"
+     },
+     {
+      "id": "H57QBF9mR-g",
+      "title": "Some - Any in English | Grammar for kids",
+      "channel": "Interesting English",
+      "duration": "2:40"
+     },
+     {
+      "id": "_QB5m-07tJg",
+      "title": "🔴 When to use SOME and ANY in English – Easy explanation with examples | Learn English easily",
+      "channel": "Francisco Ochoa Inglés Fácil",
+      "duration": "6:41"
+     }
+    ]
+   },
+   "countable uncountable nouns English": {
+    "label": "Contável x incontável",
+    "checked": "2026-11-24",
+    "results": [
+     {
+      "id": "YsagocS1wGo",
+      "title": "English Grammar Tricks - Countable & Uncountable Nouns",
+      "channel": "Learn English with Rebecca · engVid",
+      "duration": "5:58"
+     },
+     {
+      "id": "bhgzqbv9Rxk",
+      "title": "English for Beginners: Countable & Uncountable Nouns",
+      "channel": "English with Emma · engVid",
+      "duration": "22:17"
+     },
+     {
+      "id": "Va14eo0F3CA",
+      "title": "26 Uncountable Noun Rules (Advanced English Grammar C1 C2)",
+      "channel": "English with Rupert",
+      "duration": "24:37"
+     },
+     {
+      "id": "xEznhRnmR30",
+      "title": "Countable and Uncountable nouns | Grammar with examples | Learn English for Kids",
+      "channel": "Interesting English",
+      "duration": "5:11"
+     }
+    ]
+   }
+  },
+  "u11": {
+   "there is there are English grammar beginners": {
+    "label": "There is / there are",
+    "checked": "2026-11-24",
+    "results": [
+     {
+      "id": "3FWyT4xdJJ4",
+      "title": "There is / There are | English Grammar Lesson | Adult Learners",
+      "channel": "English with Morgan",
+      "duration": "4:01"
+     },
+     {
+      "id": "Mp6SYj9w5mo",
+      "title": "Confusing English Grammar: “THERE IS” or “THERE ARE”?",
+      "channel": "Learn English with Rebecca · engVid",
+      "duration": "14:00"
+     },
+     {
+      "id": "xCrsoRmPFok",
+      "title": "THERE IS - THERE ARE in English | Sentences & Questions | Learn English Grammar | Woodward English",
+      "channel": "Woodward English",
+      "duration": "8:34"
+     },
+     {
+      "id": "UpZNz_SdfzI",
+      "title": "THERE IS and THERE ARE​ 📝 Spelling and Grammar for Kids 🔡 Superlexia ⭐ Episode 21",
+      "channel": "Smile and Learn - English",
+      "duration": "4:53"
+     }
+    ]
+   },
+   "prepositions of place in on under English": {
+    "label": "Preposições de lugar",
+    "checked": "2026-11-24",
+    "results": [
+     {
+      "id": "niPyVnC6W5g",
+      "title": "Prepositions of place for children - The concept of space, for kids - Where things are",
+      "channel": "Smile and Learn - English",
+      "duration": "2:17"
+     },
+     {
+      "id": "xyMrLQ4ZI-4",
+      "title": "The Prepositions Song | English Songs | Scratch Garden",
+      "channel": "Scratch Garden",
+      "duration": "2:20"
+     },
+     {
+      "id": "kq65VGkVwC8",
+      "title": "Prepositions of Place – English Grammar Lessons",
+      "channel": "Ellii (formerly ESL Library)",
+      "duration": "5:03"
+     },
+     {
+      "id": "XzkbcWh8s4w",
+      "title": "Prepositions of PLACE  👉  IN / ON / AT / BY  👈  Common English Grammar Mistakes",
+      "channel": "mmmEnglish",
+      "duration": "15:34"
+     }
+    ]
+   },
+   "rooms of the house vocabulary English": {
+    "label": "Partes da casa",
+    "checked": "2026-11-24",
+    "results": [
+     {
+      "id": "WHYMGNbPv2U",
+      "title": "Let's Learn English Around the House and Home | English Video with Subtitles",
+      "channel": "Learn English with Bob the Canadian",
+      "duration": "10:12"
+     },
+     {
+      "id": "aOSJZbHoiY8",
+      "title": "Parts of the House | Kids Vocabulary | Fun Kids English",
+      "channel": "Fun Kids English",
+      "duration": "3:37"
+     },
+     {
+      "id": "m27Cck_LGHc",
+      "title": "House vocabulary, Parts of the House, Rooms in the House, House Objects and Furniture",
+      "channel": "Easy English",
+      "duration": "10:00"
+     },
+     {
+      "id": "Map_ysm69nY",
+      "title": "150 House Vocabulary Words: Expand your English vocabulary",
+      "channel": "Speak English With Vanessa",
+      "duration": "27:34"
+     }
+    ]
+   }
+  },
+  "u12": {
+   "can can't ability English grammar": {
+    "label": "Can / can't",
+    "checked": "2026-11-24",
+    "results": [
+     {
+      "id": "_facQiZDrU4",
+      "title": "Present Modals of Ability – English Grammar Lessons",
+      "channel": "Ellii (formerly ESL Library)",
+      "duration": "5:50"
+     },
+     {
+      "id": "lzvguU4gp6I",
+      "title": "English Grammar Quiz | The Modal Verb: Can/Can't Test A1-A2",
+      "channel": "Get it!",
+      "duration": "3:11"
+     },
+     {
+      "id": "jkNt2LT2s-o",
+      "title": "Uses of CAN and CAN'T in English | Grammar Lesson (Ability, Possibility, Requests & Permission)",
+      "channel": "Sparkle English",
+      "duration": "10:12"
+     },
+     {
+      "id": "TYnyqSxjc5A",
+      "title": "'Can' Ability - English Grammar Lesson (Elementary)",
+      "channel": "Maltalingua English Language School",
+      "duration": "2:58"
+     }
+    ]
+   },
+   "can vs can't pronunciation American English": {
+    "label": "Pronúncia can x can't",
+    "checked": "2026-11-24",
+    "results": [
+     {
+      "id": "Vp7xmbtylqI",
+      "title": "How to Pronounce Can vs. Can't -- American English Accent",
+      "channel": "Rachel's English",
+      "duration": "3:40"
+     },
+     {
+      "id": "mKbT1UH402k",
+      "title": "Can vs Can’t: American English Pronunciation Trick You Need to Know | Shadowing Practice",
+      "channel": "English Teacher Claire",
+      "duration": "15:13"
+     },
+     {
+      "id": "F8HLdhpjmng",
+      "title": "Can vs. Can’t - how to tell the difference?",
+      "channel": "Accent's Way English with Hadar",
+      "duration": "4:04"
+     },
+     {
+      "id": "T-XZHX7DpdU",
+      "title": "Can vs. Can't | English Pronunciation Lesson",
+      "channel": "ElementalEnglish",
+      "duration": "4:39"
+     }
+    ]
+   }
+  },
+  "u13": {
+   "present continuous tense English lesson beginners": {
+    "label": "Present continuous",
+    "checked": "2026-11-24",
+    "results": [
+     {
+      "id": "CHCth_sWL1g",
+      "title": "Learn Present Continuous Tense | English Grammar Course",
+      "channel": "Shaw English Online",
+      "duration": "9:14"
+     },
+     {
+      "id": "QqxdZzOorAU",
+      "title": "Present Continuous | An Easy English Grammar Lesson",
+      "channel": "English Panda",
+      "duration": "4:25"
+     },
+     {
+      "id": "rFdhrR6Dpco",
+      "title": "Learn English Tenses: The Present Continuous",
+      "channel": "Learn English with Bob the Canadian",
+      "duration": "7:41"
+     },
+     {
+      "id": "xUE0pH_OQig",
+      "title": "Present continuous English conversation | Present  continuous tense | Learn English",
+      "channel": "Sunshine English",
+      "duration": "5:34"
+     }
+    ]
+   },
+   "present simple vs present continuous": {
+    "label": "Simple x continuous",
+    "checked": "2026-11-24",
+    "results": [
+     {
+      "id": "W3HdjN3cLiM",
+      "title": "PRESENT SIMPLE and PRESENT CONTINUOUS | the complete grammar guide",
+      "channel": "Arnel's Everyday English",
+      "duration": "15:21"
+     },
+     {
+      "id": "GV9IFkjsQkE",
+      "title": "Present continuous or present simple? A Mini English Lesson",
+      "channel": "British Council | English",
+      "duration": "1:48"
+     },
+     {
+      "id": "SL3ciyAEcms",
+      "title": "Learn English Tenses: Present Simple or Present Continuous?",
+      "channel": "Learn English with Rebecca · engVid",
+      "duration": "24:39"
+     },
+     {
+      "id": "Sc-E_XRCtWI",
+      "title": "Present Simple & Present Continuous: Using the Right Tense | EasyTeaching",
+      "channel": "EasyTeaching",
+      "duration": "9:04"
+     }
+    ]
+   }
+  },
+  "u14": {
+   "asking for and giving directions English conversation": {
+    "label": "Asking for directions",
+    "checked": "2026-11-24",
+    "results": [
+     {
+      "id": "SHXPpsIJTb0",
+      "title": "Asking for and giving directions: Easy English Conversations 💬 Episode 5",
+      "channel": "BBC Learning English",
+      "duration": "3:58"
+     },
+     {
+      "id": "DPYJQSA-x50",
+      "title": "Asking for and Giving Directions",
+      "channel": "Easy English",
+      "duration": "6:42"
+     },
+     {
+      "id": "6sAGcYBKVpU",
+      "title": "1 4 Asking for Direction   English Conversation Very Funny English Speaking",
+      "channel": "Jorge Luis Herrera Moncada",
+      "duration": "1:43"
+     },
+     {
+      "id": "VyVFvrKOlRY",
+      "title": "How to Ask for Directions in English — Real-Life Conversations",
+      "channel": "Go English - The Podcast",
+      "duration": "14:04"
+     }
+    ]
+   },
+   "places in the city vocabulary English": {
+    "label": "Lugares na cidade",
+    "checked": "2026-11-24",
+    "results": [
+     {
+      "id": "EsWIJj04oQw",
+      "title": "Parts of the City I - Vocabulary for Kids",
+      "channel": "Smile and Learn - English",
+      "duration": "5:05"
+     },
+     {
+      "id": "-Pec0SMWCKY",
+      "title": "Places In The City Vocabulary | English Vocabulary With Pictures",
+      "channel": "Intelligent Kids",
+      "duration": "4:48"
+     },
+     {
+      "id": "hpX8UkieizY",
+      "title": "Places in a City | Learn English Vocabulary about the City | British English & American English",
+      "channel": "Woodward English",
+      "duration": "13:36"
+     },
+     {
+      "id": "0DOSS2-vCBw",
+      "title": "Places in a City Vocabulary | Places Vocabulary | Parts of the City | English Vocabulary",
+      "channel": "English by Iman",
+      "duration": "24:14"
+     }
+    ]
+   }
+  },
+  "u15": {
+   "was were past simple to be English grammar": {
+    "label": "Was / were",
+    "checked": "2026-11-24",
+    "results": [
+     {
+      "id": "fsFPgAhDo4I",
+      "title": "Was - Were | Past Simple | Verb to be for kids | Grammar",
+      "channel": "Interesting English",
+      "duration": "4:12"
+     },
+     {
+      "id": "O3FdGPehN-E",
+      "title": "Past Simple Tense be - was / were: Fun & Interactive English Grammar ESL Video",
+      "channel": "oomongzu oomongzu",
+      "duration": "4:38"
+     },
+     {
+      "id": "g5mlKU3QfAc",
+      "title": "Using the Be Verb Was and Were Correctly",
+      "channel": "Tiny Teaching Tube",
+      "duration": "4:10"
+     },
+     {
+      "id": "7w6aZXjjw_0",
+      "title": "Was OR Were? - Past Simple Form of the Verb to Be (+ QUIZ) | English Grammar for Beginners",
+      "channel": "Sparkle English",
+      "duration": "9:07"
+     }
+    ]
+   },
+   "there was there were English": {
+    "label": "There was / there were",
+    "checked": "2026-11-24",
+    "results": [
+     {
+      "id": "l4WwuJ0Oj3s",
+      "title": "There was There were - @privateclassesbr @privateclassesbr",
+      "channel": "Private Classes BR",
+      "duration": "3:03"
+     },
+     {
+      "id": "qlMfdSSXdMM",
+      "title": "There was /  There were",
+      "channel": "English for the Planet",
+      "duration": "5:09"
+     },
+     {
+      "id": "zclER5BkvsA",
+      "title": "THERE WAS \\ THERE WERE - BASIC ENGLISH GRAMMAR ",
+      "channel": "ENGLISH IS EASY WITH JAYA CHAINANI",
+      "duration": "2:30"
+     },
+     {
+      "id": "dbGI7n6kqzg",
+      "title": "How to use there was and there were in the Past tense",
+      "channel": "Education Mania",
+      "duration": "10:51"
+     }
+    ]
+   }
+  },
+  "u16": {
+   "past simple regular verbs English lesson": {
+    "label": "Past simple regular",
+    "checked": "2026-11-24",
+    "results": [
+     {
+      "id": "jxl28KQOHy4",
+      "title": "Nessy Reading Strategy | Adding '-ed' | Past Tense Verbs | Learn to Read",
+      "channel": "Nessy",
+      "duration": "2:18"
+     },
+     {
+      "id": "oggGZKVJvfw",
+      "title": "Regular Past Tense Verbs | Simple Past Tense Rules, Examples, And Pronunciation Practice",
+      "channel": "Games4esl",
+      "duration": "4:41"
+     },
+     {
+      "id": "MI3S3kdkofo",
+      "title": "Simple Past  – Grammar & Verb Tenses",
+      "channel": "Ellii (formerly ESL Library)",
+      "duration": "5:48"
+     },
+     {
+      "id": "QlZXd-m6Pdw",
+      "title": "English Grammar For Beginners - Regular Verbs In Past Simple Tense",
+      "channel": "Mind Snack",
+      "duration": "3:35"
+     }
+    ]
+   },
+   "ed pronunciation t d id English": {
+    "label": "Pronúncia do ED",
+    "checked": "2026-11-24",
+    "results": [
+     {
+      "id": "j32SurxnE4s",
+      "title": "[t], [d] or [Id]? | \"-ed\" Past Tense | English Pronunciation",
+      "channel": "ElementalEnglish",
+      "duration": "8:12"
+     },
+     {
+      "id": "k6NRqhmAvMw",
+      "title": "-ED pronunciation - /t/ /d/ or /id/? (pronounce PERFECTLY every time!) | Go Natural English",
+      "channel": "Go Natural English - Real Life English with Gabby",
+      "duration": "15:45"
+     },
+     {
+      "id": "Dsd0eFgU0m8",
+      "title": "Episode 18: The Suffix ED Makes 3 Sounds",
+      "channel": "Sue's Strategies",
+      "duration": "3:18"
+     },
+     {
+      "id": "hZ2vQXEW3fw",
+      "title": "ED ENDING WORDS | How to pronounce words ending in ED | /id/ /d/ /t/ sound | Learn with examples",
+      "channel": "Learn Easy English",
+      "duration": "3:06"
+     }
+    ]
+   }
+  },
+  "u17": {
+   "most common irregular verbs English pronunciation": {
+    "label": "Irregular verbs",
+    "checked": "2026-11-24",
+    "results": [
+     {
+      "id": "_fm53FYLkhI",
+      "title": "The 50 Most Common Irregular Verbs in English | English Grammar Lesson",
+      "channel": "JForrest English",
+      "duration": "11:51"
+     },
+     {
+      "id": "lIkaqLavbU0",
+      "title": "The 50 Most Common Irregular Verbs in English | Grammar & Pronunciation Lesson",
+      "channel": "7ESL Learning English",
+      "duration": "10:11"
+     },
+     {
+      "id": "YJ5A6j1u58M",
+      "title": "Irregular Verbs | American Pronunciation",
+      "channel": "Fine English for Anyone",
+      "duration": "4:07"
+     },
+     {
+      "id": "oyeUu7XudrU",
+      "title": "How to Pronounce the Most Common Irregular Verbs in English",
+      "channel": "Pronunciation with Emma",
+      "duration": "12:08"
+     }
+    ]
+   },
+   "how to tell a story in the past English": {
+    "label": "Contar uma história no passado",
+    "checked": "2026-11-24",
+    "results": [
+     {
+      "id": "NH2GfNTfqsE",
+      "title": "How to Tell a Story in English",
+      "channel": "Learn English with Bob the Canadian",
+      "duration": "8:00"
+     },
+     {
+      "id": "m04lQ5BUAn0",
+      "title": "How to Tell a Story in English - Using Past Tense",
+      "channel": "Oxford Online English",
+      "duration": "17:44"
+     },
+     {
+      "id": "0091j6xh_7A",
+      "title": "How to Tell a Story in English: 3 Past Tenses for Storytelling",
+      "channel": "Speak Confident English",
+      "duration": "13:06"
+     },
+     {
+      "id": "1-reXMh4Qhk",
+      "title": "Learn English by Talking About Your Day – Past Tense Made Easy | A1-A2 Beginner | English Podcast",
+      "channel": "Mr. English Channel",
+      "duration": "20:16"
+     }
+    ]
+   }
+  },
+  "u18": {
+   "will vs going to future English grammar": {
+    "label": "Will x going to",
+    "checked": "2026-11-24",
+    "results": [
+     {
+      "id": "IWAS5aszaGo",
+      "title": "Will vs Going To: Understanding the Difference | EasyTeaching",
+      "channel": "EasyTeaching",
+      "duration": "4:24"
+     },
+     {
+      "id": "VX95vEL-OdU",
+      "title": "Learn English Tenses: FUTURE  – “will” or “going to”?",
+      "channel": "Learn English with Rebecca · engVid",
+      "duration": "24:08"
+     },
+     {
+      "id": "vTrsWEcFZqU",
+      "title": "How to Use “Will” vs “Going To” In English | Real Life English | Podcast for Beginners",
+      "channel": "Talk Emma",
+      "duration": "19:12"
+     },
+     {
+      "id": "MqBZmtf3mno",
+      "title": "WILL vs. GOING TO: The Difference Between Will and Going to | Future Tense in English Grammar",
+      "channel": "Acquire English",
+      "duration": "4:51"
+     }
+    ]
+   },
+   "gonna wanna gotta English pronunciation": {
+    "label": "Gonna e wanna",
+    "checked": "2026-11-24",
+    "results": [
+     {
+      "id": "p0IUu8SRHmM",
+      "title": "How to use ‘Gonna, Wanna, Gotta'",
+      "channel": "Cloud English",
+      "duration": "5:58"
+     },
+     {
+      "id": "2EBBNmNzypY",
+      "title": "How to Pronounce 'Gonna' and 'Wanna':  American English",
+      "channel": "Rachel's English",
+      "duration": "4:14"
+     },
+     {
+      "id": "9IW8IH-Oyg0",
+      "title": "Speak English like a native: How to use gonna, wanna, gotta, oughta",
+      "channel": "LetThemTalkTV",
+      "duration": "4:23"
+     },
+     {
+      "id": "SvEUTdKkdIw",
+      "title": "Informal Contractions & British English Slang - gonna, wanna, gotta, gimme, lemme, gotcha",
+      "channel": "Learn English | Let's Talk - Free English Lessons",
+      "duration": "10:54"
+     }
+    ]
+   }
+  },
+  "u19": {
+   "comparatives and superlatives English grammar lesson": {
+    "label": "Comparatives & superlatives",
+    "checked": "2026-11-24",
+    "results": [
+     {
+      "id": "oGr7l3q7SMI",
+      "title": "Comparative & Superlative Adjectives - English Grammar Lesson (with PDF & Quiz)",
+      "channel": "English with Lucy",
+      "duration": "10:19"
+     },
+     {
+      "id": "jz8Fy5qQXu8",
+      "title": "Comparatives and Superlatives | Learn English | EasyTeaching",
+      "channel": "EasyTeaching",
+      "duration": "5:26"
+     },
+     {
+      "id": "AUSAHPcjR9o",
+      "title": "Adjectives Part 2: Comparative and Superlative Adjectives | English For Kids | Mind Blooming",
+      "channel": "Mind Blooming",
+      "duration": "2:25"
+     },
+     {
+      "id": "b67gID97XXY",
+      "title": "A Fun Way to Learn English Comparatives and Superlatives with Examples! Adjectives at Their Best!",
+      "channel": "Learn English with Bob the Canadian",
+      "duration": "8:31"
+     }
+    ]
+   }
+  },
+  "u20": {
+   "shopping English conversation clothes store": {
+    "label": "Shopping in English",
+    "checked": "2026-11-24",
+    "results": [
+     {
+      "id": "GuDImnmJuLA",
+      "title": "Learn English the EASY way, Comprehensible Input, LEARN ENGLISH NATURALLY While Shopping for Clothes",
+      "channel": "Everyday American English ",
+      "duration": "24:41"
+     },
+     {
+      "id": "aWSg7MsHYpU",
+      "title": "Shopping for Clothes: Colours & Sizes",
+      "channel": "Lina’s Classroom Story",
+      "duration": "2:15"
+     },
+     {
+      "id": "imK-vnStBHo",
+      "title": "16 REAL LIFE Shopping for Clothes",
+      "channel": "Discovery English Studio",
+      "duration": "2:48"
+     },
+     {
+      "id": "JE298SFLuWw",
+      "title": "Clothing Vocabulary at Macy's",
+      "channel": "Ariannita la Gringa",
+      "duration": "13:32"
+     }
+    ]
+   },
+   "how much how many English grammar": {
+    "label": "How much x how many",
+    "checked": "2026-11-24",
+    "results": [
+     {
+      "id": "7rTdRoM-i6I",
+      "title": "How much? How many? Countable/Uncountable Nouns/ Questions and Answers",
+      "channel": "English with Morgan",
+      "duration": "3:53"
+     },
+     {
+      "id": "uQIuZ6YJ760",
+      "title": "MUCH or MANY or A LOT OF??? Countable and Uncountable Nouns!",
+      "channel": "English with Lucy",
+      "duration": "2:43"
+     },
+     {
+      "id": "ZTqd_rz60kI",
+      "title": "How Many Or How Much? English Grammar Quiz",
+      "channel": "English Master Quiz",
+      "duration": "4:50"
+     },
+     {
+      "id": "h4AUpTQq9B4",
+      "title": "How much? / How many? | Beginner English Grammar for ESL Teens & Adults (A1)",
+      "channel": "English MD",
+      "duration": "3:34"
+     }
+    ]
+   }
+  },
+  "u21": {
+   "hotel check in English conversation": {
+    "label": "Hotel check-in",
+    "checked": "2026-11-24",
+    "results": [
+     {
+      "id": "kVG3-3nmRcI",
+      "title": "Learn English Speaking Conversation Practice with Topic | At the Hotel 101 | Daily Conversations",
+      "channel": "English Speaking Course",
+      "duration": "26:52"
+     },
+     {
+      "id": "wyqfYJX23lg",
+      "title": "English for Hotel and Tourism: \"Checking into a hotel\" | FREE Course (link in description)",
+      "channel": "LinguaTV.com",
+      "duration": "2:41"
+     },
+     {
+      "id": "kq9Q9-U0vrc",
+      "title": "Hotel Check In - SNL",
+      "channel": "Saturday Night Live",
+      "duration": "4:27"
+     },
+     {
+      "id": "HD6645UxkDA",
+      "title": "5-Minute English Conversation Practice: Checking Into a Hotel",
+      "channel": "English Together",
+      "duration": "2:34"
+     }
+    ]
+   }
+  },
+  "u22": {
+   "at the doctor English conversation vocabulary": {
+    "label": "At the doctor",
+    "checked": "2026-11-24",
+    "results": [
+     {
+      "id": "OYI837JLLlo",
+      "title": "Speak English at the Doctor’s Office with Confidence",
+      "channel": "POC English",
+      "duration": "13:10"
+     },
+     {
+      "id": "Cj9DKRWp-ek",
+      "title": "At the Doctors 🏥 English Conversation Practice",
+      "channel": "EverydayEnglish",
+      "duration": "7:01"
+     },
+     {
+      "id": "44SL8i8h0dg",
+      "title": "At the doctor English conversation | Hospital English | Daily English conversation |",
+      "channel": "Sunshine English",
+      "duration": "5:21"
+     },
+     {
+      "id": "XRG9LfZmChQ",
+      "title": "🎙️English Healthcare Conversations | Daily English Podcast for Learners!",
+      "channel": "Max & Mia Podcast",
+      "duration": "29:59"
+     }
+    ]
+   },
+   "should for advice English grammar": {
+    "label": "Should para conselhos",
+    "checked": "2026-11-24",
+    "results": [
+     {
+      "id": "XWgUXO4Ke7o",
+      "title": "Giving Advice | Using 'Should' & 'Shouldn't' | Beginner English for ESL Teens & Adults (A1)",
+      "channel": "English MD",
+      "duration": "3:18"
+     },
+     {
+      "id": "00k85ENbak4",
+      "title": "English Grammar: Giving Advice – SHOULD, OUGHT TO, HAD BETTER",
+      "channel": "English with Alex · engVid",
+      "duration": "7:10"
+     },
+     {
+      "id": "bJRHDihM5LM",
+      "title": "Modals of advice - SHOULD | OUGHT TO | HAD BETTER and MUST - English Grammar Lesson",
+      "channel": "Oxford English Now",
+      "duration": "4:39"
+     },
+     {
+      "id": "rld1iPubpNk",
+      "title": "Modals of Advice – Grammar & Verb Tenses",
+      "channel": "Ellii (formerly ESL Library)",
+      "duration": "6:01"
+     }
+    ]
+   }
+  },
+  "u23": {
+   "present perfect tense explained English grammar": {
+    "label": "Present perfect",
+    "checked": "2026-11-24",
+    "results": [
+     {
+      "id": "553eeL1Dvho",
+      "title": "Present Perfect – Grammar & Verb Tenses",
+      "channel": "Ellii (formerly ESL Library)",
+      "duration": "5:56"
+     },
+     {
+      "id": "m80dOBPhBBQ",
+      "title": "Present Perfect Tense | ESL Grammar Lessons | EasyTeaching",
+      "channel": "EasyTeaching",
+      "duration": "8:31"
+     },
+     {
+      "id": "tLaiUarjNj8",
+      "title": "Learn Present Perfect Easily in 9 Minutes",
+      "channel": "linguamarina",
+      "duration": "9:11"
+     },
+     {
+      "id": "Dkln8PfE1xE",
+      "title": "Understanding The Present Perfect",
+      "channel": "Brown Cow English",
+      "duration": "1:53"
+     }
+    ]
+   },
+   "present perfect vs past simple": {
+    "label": "Present perfect x past simple",
+    "checked": "2026-11-24",
+    "results": [
+     {
+      "id": "T09u75kiKGc",
+      "title": "Present Perfect or Past Simple? - English Grammar lesson",
+      "channel": "Learn English with Papa Teach Me",
+      "duration": "8:32"
+     },
+     {
+      "id": "vM5trdispow",
+      "title": "PAST SIMPLE or PRESENT PERFECT? | Let's learn and compare! - English Tenses",
+      "channel": "Arnel's Everyday English",
+      "duration": "13:45"
+     },
+     {
+      "id": "UmdGwttUfKU",
+      "title": "Learn English Tenses: PRESENT PERFECT or PAST SIMPLE?",
+      "channel": "Learn English with Rebecca · engVid",
+      "duration": "29:36"
+     },
+     {
+      "id": "IOfawFMpahw",
+      "title": "Present perfect or past simple tense?",
+      "channel": "Perfect English Grammar",
+      "duration": "4:38"
+     }
+    ]
+   },
+   "for since present perfect": {
+    "label": "For x since",
+    "checked": "2026-11-24",
+    "results": [
+     {
+      "id": "YXOilF80MEk",
+      "title": "Video rule - Present Perfect with for and since",
+      "channel": "HUB Scuola",
+      "duration": "1:58"
+     },
+     {
+      "id": "sSZcAh42qtI",
+      "title": "Present perfect with 'for' and 'since' - 6 Minute Grammar",
+      "channel": "BBC Learning English",
+      "duration": "6:06"
+     },
+     {
+      "id": "kt60HOGXvaY",
+      "title": "FOR and SINCE with the present perfect in English | Grammar lesson",
+      "channel": "Oxford English Now",
+      "duration": "6:22"
+     },
+     {
+      "id": "6EhNfSI5WkM",
+      "title": "Present Perfect Tense with Since and For with Exercise and Examples |  Present Perfect Tense",
+      "channel": "Think & Learn",
+      "duration": "3:38"
+     }
+    ]
+   }
+  },
+  "u24": {
+   "separable phrasal verbs English": {
+    "label": "Phrasal verbs separáveis",
+    "checked": "2026-11-24",
+    "results": [
+     {
+      "id": "V_CRuQipoWw",
+      "title": "Everything about Phrasal Verbs | Separable | Inseparable  | Examples",
+      "channel": "Phoenix English",
+      "duration": "8:15"
+     },
+     {
+      "id": "NReEUnANAqI",
+      "title": "Phrasal Verbs - Separable vs Inseparable | what is the difference?",
+      "channel": "English Bestie",
+      "duration": "6:48"
+     },
+     {
+      "id": "YnYuqUpMQb0",
+      "title": "Separable Phrasal Verbs",
+      "channel": "English Like A Native",
+      "duration": "4:40"
+     },
+     {
+      "id": "eul0TnBaUM4",
+      "title": "Separable vs Inseparable Phrasal Verbs Explained",
+      "channel": "CodeLucky",
+      "duration": "2:45"
+     }
+    ]
+   }
+  },
+  "u25": {
+   "must vs have to English grammar": {
+    "label": "Must x have to",
+    "checked": "2026-11-24",
+    "results": [
+     {
+      "id": "-BN9rZg2pQk",
+      "title": "MUST and HAVE TO: what's the difference and how to use them in English",
+      "channel": "English with Aga",
+      "duration": "8:18"
+     },
+     {
+      "id": "viOLkYk1QAc",
+      "title": "English Grammar: MUST & HAVE TO",
+      "channel": "English with Ronnie · EnglishLessons4U with engVid",
+      "duration": "13:49"
+     },
+     {
+      "id": "HUXXgVElADg",
+      "title": "'Have To' and 'must' - 6 Minute Grammar",
+      "channel": "BBC Learning English",
+      "duration": "5:59"
+     },
+     {
+      "id": "3UZBERxk6Io",
+      "title": "MUST or HAVE TO? modal verbs in English",
+      "channel": "Arnel's Everyday English",
+      "duration": "25:51"
+     }
+    ]
+   },
+   "modal verbs of possibility might may could": {
+    "label": "Might, may, could",
+    "checked": "2026-11-24",
+    "results": [
+     {
+      "id": "7kQEOzo7woY",
+      "title": "Modals of Possibility - May, Might and Could - Learn English Grammar",
+      "channel": "Oxford English Now",
+      "duration": "7:26"
+     },
+     {
+      "id": "36wG9pSYu7Q",
+      "title": "MODAL VERBS: All you need to know about CAN, COULD, MAY, MIGHT, MUST, SHOULD, SHALL, WILL and WOULD",
+      "channel": "English with Lucy",
+      "duration": "18:51"
+     },
+     {
+      "id": "gLKcKlsmY_0",
+      "title": "Can, Could, May, Might Explained in 1 Video! #modalverb #verbs #simplesenteces  #simpleenglishtips",
+      "channel": "ENGLISH LEARNING NETWORK",
+      "duration": "3:35"
+     },
+     {
+      "id": "FMGxeChtYLc",
+      "title": "English Modal Verbs - May, Might, Could, Can - Talking About Possibilities",
+      "channel": "Oxford Online English",
+      "duration": "13:43"
+     }
+    ]
+   }
+  },
+  "u26": {
+   "zero first second conditional English grammar": {
+    "label": "Conditionals explained",
+    "checked": "2026-11-24",
+    "results": [
+     {
+      "id": "WkDxt-9-nDs",
+      "title": "The Zero, First and Second Conditional in 4 minutes (English Grammar)",
+      "channel": "Illustrated & Explained",
+      "duration": "3:45"
+     },
+     {
+      "id": "fJypScYWu0s",
+      "title": "Zero, First and Second CONDITIONALS Explained",
+      "channel": "LetThemTalkTV",
+      "duration": "5:01"
+     },
+     {
+      "id": "lCE0683TiW0",
+      "title": "Which Conditional Should You Use? (0, 1, 2) CLEARLY Explained",
+      "channel": "Got it! English",
+      "duration": "8:27"
+     },
+     {
+      "id": "8nbxG6Ao3dY",
+      "title": "Conditionals - zero, first & second conditionals | ENGLISH GRAMMAR VIDEOS",
+      "channel": "FlyWay English",
+      "duration": "3:24"
+     }
+    ]
+   },
+   "if I were you second conditional speaking": {
+    "label": "If I were you",
+    "checked": "2026-11-24",
+    "results": [
+     {
+      "id": "gxaTP6zF9Vc",
+      "title": "If I Were You - Conditionals in English",
+      "channel": "Easy English",
+      "duration": "6:19"
+     },
+     {
+      "id": "fk_bqgwCA-k",
+      "title": "IF I WERE YOU… 😱 You Might Have Learned the Second Conditional Incorrectly! | B1-B2 | Talk. Repea...",
+      "channel": "Konuşma Kulübü",
+      "duration": "9:51"
+     },
+     {
+      "id": "Obk-viqcrMs",
+      "title": "English speaking practice! If I were you...",
+      "channel": "Learn English with Kevin",
+      "duration": "8:02"
+     },
+     {
+      "id": "jEetANGcoJI",
+      "title": "If I Were – SecondIf I Were – Second Conditional Song",
+      "channel": "Verbland",
+      "duration": "3:37"
+     }
+    ]
+   }
+  },
+  "u27": {
+   "job interview in English questions and answers": {
+    "label": "Entrevista de emprego em inglês",
+    "checked": "2026-11-24",
+    "results": [
+     {
+      "id": "U0YdO6zGSHk",
+      "title": "Top 10 Most Common Job Interview Questions ANSWERED",
+      "channel": "Cass Thompson Career Advice",
+      "duration": "15:49"
+     },
+     {
+      "id": "0k0Uc9uAJwk",
+      "title": "Job interview in English | Job interview questions and answers | Learn English | Sunshine English",
+      "channel": "Sunshine English",
+      "duration": "4:14"
+     },
+     {
+      "id": "fr-mwiyhZAo",
+      "title": "TOP 21 QUICK ANSWERS TO JOB INTERVIEW QUESTIONS!",
+      "channel": "CareerVidz",
+      "duration": "12:35"
+     },
+     {
+      "id": "-JNjsOX0N0c",
+      "title": "English Job Interview Dos & Dont's! | English Conversation Practice",
+      "channel": "Rachel's English",
+      "duration": "35:13"
+     }
+    ]
+   },
+   "tell me about yourself best answer English": {
+    "label": "Tell me about yourself",
+    "checked": "2026-11-24",
+    "results": [
+     {
+      "id": "TQHW7gGjrCQ",
+      "title": "Tell Me About Yourself | Best Answer (from former CEO)",
+      "channel": "The Companies Expert",
+      "duration": "5:15"
+     },
+     {
+      "id": "VUzlCG_eoFs",
+      "title": "HOW TO ANSWER: Tell Me About Yourself! INTERVIEW QUESTION (How to INTRODUCE YOURSELF in INTERVIEWS!)",
+      "channel": "CareerVidz",
+      "duration": "7:13"
+     },
+     {
+      "id": "kayOhGRcNt4",
+      "title": "Tell Me About Yourself - A Good Answer to This Interview Question",
+      "channel": "Linda Raynier",
+      "duration": "7:06"
+     },
+     {
+      "id": "hg6HzvtZSR4",
+      "title": "Tell Me About Yourself (Copy This Answer)",
+      "channel": "Career Growth With Lucy",
+      "duration": "7:56"
+     }
+    ]
+   }
+  },
+  "u28": {
+   "past continuous tense English grammar": {
+    "label": "Past continuous",
+    "checked": "2026-11-24",
+    "results": [
+     {
+      "id": "bTWa5M4UMO8",
+      "title": "Learn English Tenses: PAST CONTINUOUS",
+      "channel": "Learn English with Rebecca · engVid",
+      "duration": "31:40"
+     },
+     {
+      "id": "6Y5bbgo8-HE",
+      "title": "Learn Past Continuous Tense | Basic English Grammar Course",
+      "channel": "Shaw English Online",
+      "duration": "11:35"
+     },
+     {
+      "id": "Ca8idTgRqM4",
+      "title": "PAST CONTINUOUS TENSE – Everything You Need to Know",
+      "channel": "Arnel's Everyday English",
+      "duration": "15:02"
+     },
+     {
+      "id": "liX95VS4a14",
+      "title": "Past Continuous | English Grammar | ESL | A Grammar Lesson on the Past Continuous | Past Progressive",
+      "channel": "Learn English by Pocket Passport",
+      "duration": "3:53"
+     }
+    ]
+   },
+   "how to tell a story in English storytelling tips": {
+    "label": "Storytelling em inglês",
+    "checked": "2026-11-24",
+    "results": [
+     {
+      "id": "hNuAv-42jzY",
+      "title": "Give me 9min, and I'll improve your storytelling skills by 176%",
+      "channel": "Philipp Humm",
+      "duration": "8:59"
+     },
+     {
+      "id": "ZmNpeXTj2c4",
+      "title": "The Secret to Telling a Great Story — in Less Than 60 Seconds | Jenny Hoyos | TED",
+      "channel": "TED",
+      "duration": "4:00"
+     },
+     {
+      "id": "5HfeNDleTS4",
+      "title": "The ONLY 3 Ingredients You Need To Be A Better Storyteller!",
+      "channel": "Vinh Giang",
+      "duration": "20:24"
+     },
+     {
+      "id": "NH2GfNTfqsE",
+      "title": "How to Tell a Story in English",
+      "channel": "Learn English with Bob the Canadian",
+      "duration": "8:00"
+     }
+    ]
+   }
+  },
+  "u29": {
+   "used to English grammar past habits": {
+    "label": "Used to",
+    "checked": "2026-11-24",
+    "results": [
+     {
+      "id": "yZeCWdZeKUk",
+      "title": "How to Talk about the Past with \"Used To\" and \"Would\"",
+      "channel": "Learn English with Bob the Canadian",
+      "duration": "5:12"
+     },
+     {
+      "id": "LLICoX4j7rc",
+      "title": "🤐 Stop Saying... Past habits without 'used to' NOW WITH SUBTITLES",
+      "channel": "BBC Learning English",
+      "duration": "5:01"
+     },
+     {
+      "id": "87ntc_K5wMA",
+      "title": "USED TO in the Past Tense to Describe Past Habits | English Grammar for Beginners",
+      "channel": "Sparkle English",
+      "duration": "7:16"
+     },
+     {
+      "id": "8S4B-TOJRes",
+      "title": "Talk about the Past and Habits in English: USED TO vs WOULD",
+      "channel": "Learn English with EnglishClass101.com",
+      "duration": "34:21"
+     }
+    ]
+   }
+  },
+  "u30": {
+   "reductions in American English gonna wanna gotta": {
+    "label": "Reduções gonna wanna",
+    "checked": "2026-11-24",
+    "results": [
+     {
+      "id": "erFBuGtRLig",
+      "title": "START USING THESE REDUCTIONS - gonna, wanna, hafta, gimme, lemme",
+      "channel": "Interactive English",
+      "duration": "9:04"
+     },
+     {
+      "id": "p0IUu8SRHmM",
+      "title": "How to use ‘Gonna, Wanna, Gotta'",
+      "channel": "Cloud English",
+      "duration": "5:58"
+     },
+     {
+      "id": "MvA6u5x1jI8",
+      "title": "The I'M GONNA Reduction -- American English Pronunciation",
+      "channel": "Rachel's English",
+      "duration": "3:53"
+     },
+     {
+      "id": "dNZH-aDUcas",
+      "title": "Gonna, wanna, gotta and MORE Reductions in English | Natural English Pronunciation Lesson",
+      "channel": "Love English with Leila & Sabrah",
+      "duration": "17:18"
+     }
+    ]
+   },
+   "learn English with TV series listening practice": {
+    "label": "Listening com séries",
+    "checked": "2026-11-24",
+    "results": [
+     {
+      "id": "C999VNQ3K8M",
+      "title": "Learn English with Inside Out - Anxiety Takes Over",
+      "channel": "Learn English With TV Series",
+      "duration": "22:34"
+     },
+     {
+      "id": "erjMgola4fQ",
+      "title": "A1 English Listening Practice - Language Learning",
+      "channel": "Listening Time",
+      "duration": "3:43"
+     },
+     {
+      "id": "r3K7sfk7dmY",
+      "title": "Learn English with THE OFFICE",
+      "channel": "Learn English With TV Series",
+      "duration": "21:28"
+     },
+     {
+      "id": "G_Mm2Elf8ik",
+      "title": "Learn English with Julia Roberts — NOTTING HILL",
+      "channel": "Learn English With TV Series",
+      "duration": "29:03"
+     }
+    ]
+   }
+  },
+  "u31": {
+   "VOA Learning English news": {
+    "label": "Notícias simplificadas",
+    "checked": "2026-11-24",
+    "results": [
+     {
+      "id": "D1VmFX6rmEE",
+      "title": "Foreign born Americans, Books back in Finnish schools, Hearing can vs  can’t",
+      "channel": "VOA Learning English",
+      "duration": "30:10"
+     },
+     {
+      "id": "jp-7Q18qD6c",
+      "title": "Learning English Podcast - Embryo Children, Hotel Fraud, Dinosaur Study, Country Stories",
+      "channel": "VOA Learning English",
+      "duration": "29:56"
+     },
+     {
+      "id": "jFebM7DBqHY",
+      "title": "VOA Learning English - Education Report # 393",
+      "channel": "VOA Learning English",
+      "duration": "4:29"
+     },
+     {
+      "id": "ofsSVJMRCKM",
+      "title": "A Study Looks at Environmental Influences on Children",
+      "channel": "VOA Learning English",
+      "duration": "3:59"
+     }
+    ]
+   }
+  },
+  "u32": {
+   "reported speech English grammar explained": {
+    "label": "Reported speech",
+    "checked": "2026-11-24",
+    "results": [
+     {
+      "id": "eplQBhE0-Hg",
+      "title": "REPORTED SPEECH in English - Indirect Speech | Reported Speech | Direct Speech (+ Free PDF & Quiz)",
+      "channel": "English with Lucy",
+      "duration": "7:37"
+     },
+     {
+      "id": "Mi9UPE2C91I",
+      "title": "🔥 Master Reported Speech in 15 minutes! (3 Simple Steps)",
+      "channel": "English with Greg",
+      "duration": "17:50"
+     },
+     {
+      "id": "cW3pdeTYFZc",
+      "title": "REPORTED SPEECH | INDIRECT SPEECH | DIRECT SPEECH - statements, questions, commands",
+      "channel": "Arnel's Everyday English",
+      "duration": "19:16"
+     },
+     {
+      "id": "nec6ozGJli0",
+      "title": "Can you use REPORTED SPEECH? Grammar Lesson + Examples",
+      "channel": "mmmEnglish",
+      "duration": "20:45"
+     }
+    ]
+   }
+  },
+  "u33": {
+   "third conditional English grammar": {
+    "label": "Third conditional",
+    "checked": "2026-11-24",
+    "results": [
+     {
+      "id": "xwOCqtaZDrk",
+      "title": "Third Conditional Sentences + Examples | English Grammar Lesson",
+      "channel": "mmmEnglish",
+      "duration": "11:26"
+     },
+     {
+      "id": "O7dVZ5u-C20",
+      "title": "The 3rd Conditional EASILY EXPLAINED | English Grammar Lesson",
+      "channel": "Interactive English",
+      "duration": "6:45"
+     },
+     {
+      "id": "ve4Tk78j6Nc",
+      "title": "Third Conditional – Grammar & Verb Tenses",
+      "channel": "Ellii (formerly ESL Library)",
+      "duration": "5:01"
+     },
+     {
+      "id": "pbm9IWNQmuM",
+      "title": "The third conditional - Grammar: Conditionals with Georgie",
+      "channel": "BBC Learning English",
+      "duration": "3:36"
+     }
+    ]
+   },
+   "should have could have would have English": {
+    "label": "Should have, could have",
+    "checked": "2026-11-24",
+    "results": [
+     {
+      "id": "hBogiz8JWWo",
+      "title": "An Introduction to Past Modals: must have, should have, would have, and could have",
+      "channel": "Learn English with Bob the Canadian",
+      "duration": "5:27"
+     },
+     {
+      "id": "LPpZEq8d66g",
+      "title": "SHOULD HAVE | COULD HAVE  | WOULD HAVE - Modals of Lost Opportunity",
+      "channel": "Interactive English",
+      "duration": "9:58"
+     },
+     {
+      "id": "ySPCjZ5Ed60",
+      "title": "Learn How To Use Should Have, Could Have, Would Have, Might Have & Must Have In Real English ",
+      "channel": "Talk Emma",
+      "duration": "15:54"
+     },
+     {
+      "id": "bh_MxtaIkj4",
+      "title": "SHOULD'VE | WOULD'VE | COULD'VE - Complete Grammar & Use",
+      "channel": "English with Lucy",
+      "duration": "15:42"
+     }
+    ]
+   }
+  },
+  "u34": {
+   "past perfect tense English grammar": {
+    "label": "Past perfect",
+    "checked": "2026-11-24",
+    "results": [
+     {
+      "id": "Jjj5-KnpdIQ",
+      "title": "I HAD LEARNED... The Past Perfect Tense  |  English Grammar Lesson with Pronunciation & Examples",
+      "channel": "mmmEnglish",
+      "duration": "12:52"
+     },
+     {
+      "id": "AFVVvIsRJkA",
+      "title": "How to use the PAST PERFECT TENSE...today!",
+      "channel": "Learn English with Rebecca · engVid",
+      "duration": "8:46"
+     },
+     {
+      "id": "7tWxMHmnjhA",
+      "title": "Past Perfect Tense",
+      "channel": "Teacher Aya EducaToon",
+      "duration": "3:05"
+     },
+     {
+      "id": "-TrE6VdtgLE",
+      "title": "Past Perfect Tense",
+      "channel": "Easy English",
+      "duration": "6:53"
+     }
+    ]
+   },
+   "present perfect continuous English grammar": {
+    "label": "Present perfect continuous",
+    "checked": "2026-11-24",
+    "results": [
+     {
+      "id": "jopAHmvPT-g",
+      "title": "Present Perfect vs Present Perfect Continuous | When to use each so that you don't make mistakes",
+      "channel": "Interactive English",
+      "duration": "14:03"
+     },
+     {
+      "id": "Ttr7DowBUBk",
+      "title": "Learn English Tenses: The Present Perfect Continuous (The Present Perfect Progressive)",
+      "channel": "Learn English with Bob the Canadian",
+      "duration": "7:19"
+     },
+     {
+      "id": "FVmVP9CCRcU",
+      "title": "Learn English Tenses: PRESENT PERFECT CONTINUOUS",
+      "channel": "Learn English with Rebecca · engVid",
+      "duration": "37:45"
+     },
+     {
+      "id": "7NGLHYVmr00",
+      "title": "The Present Perfect vs The Present Perfect Continuous | ALL differences (+ Free PDF & Quiz)",
+      "channel": "English with Lucy",
+      "duration": "12:25"
+     }
+    ]
+   }
+  },
+  "u35": {
+   "how to express your opinion in English phrases": {
+    "label": "Expressar opinião",
+    "checked": "2026-11-24",
+    "results": [
+     {
+      "id": "LmDOQbwwlhw",
+      "title": "How to Express Your Opinion in English",
+      "channel": "Learn English with Bob the Canadian",
+      "duration": "8:53"
+     },
+     {
+      "id": "XlmKqkZkfqI",
+      "title": "The Best Professional Connectors to Explain Your Opinions in English",
+      "channel": "Speak Confident English",
+      "duration": "16:51"
+     },
+     {
+      "id": "Qw0gW3sivNo",
+      "title": "How to Give Your Opinion in English | 20 English Phrases to Give Your Opinion Like a Native!",
+      "channel": "Talk Nora",
+      "duration": "21:06"
+     },
+     {
+      "id": "BcWHKyNhhK4",
+      "title": "Useful Phrases to Express Your Opinion | Build Your Vocabulary",
+      "channel": "Interactive English",
+      "duration": "10:37"
+     }
+    ]
+   },
+   "linking words connectors English speaking writing": {
+    "label": "Linking words",
+    "checked": "2026-11-24",
+    "results": [
+     {
+      "id": "-JqAs_vdQb8",
+      "title": "How To Connect Ideas In English [with Linking Words]",
+      "channel": "mmmEnglish",
+      "duration": "15:23"
+     },
+     {
+      "id": "r76lyzmwroY",
+      "title": "Linking words for your English exam: Alternatives to the most common connectors.",
+      "channel": "To The Point English with Ben. ",
+      "duration": "11:34"
+     },
+     {
+      "id": "9MslKOJkNfI",
+      "title": "Band 9 IELTS Speaking Linking WORDS | Score HIGH on IELTS Speaking with these crucial linking words",
+      "channel": "LinguaIELTS with Anastasia",
+      "duration": "9:32"
+     },
+     {
+      "id": "nv2IqOMJPRg",
+      "title": "BAND 9 IELTS Writing Task 2 LINKING WORDS",
+      "channel": "Fastrack IELTS",
+      "duration": "18:21"
+     }
+    ]
+   }
+  },
+  "u36": {
+   "how to write professional emails in English": {
+    "label": "E-mails profissionais",
+    "checked": "2026-11-24",
+    "results": [
+     {
+      "id": "3Tu1jN65slw",
+      "title": "How to write professional emails in English",
+      "channel": "English with Alex · engVid",
+      "duration": "18:30"
+     },
+     {
+      "id": "moIucWGgvMc",
+      "title": "Write Professional Emails in English | Step-by-Step",
+      "channel": "Speak Confident English",
+      "duration": "16:20"
+     },
+     {
+      "id": "1XctnF7C74s",
+      "title": "8 Email Etiquette Tips - How to Write Better Emails at Work",
+      "channel": "Harvard Business Review",
+      "duration": "7:01"
+     },
+     {
+      "id": "JuJRJRpenTk",
+      "title": "13 Must-see Tips for Perfect Email Writing",
+      "channel": "Grammarly",
+      "duration": "5:17"
+     }
+    ]
+   },
+   "English for meetings useful phrases": {
+    "label": "Reuniões em inglês",
+    "checked": "2026-11-24",
+    "results": [
+     {
+      "id": "aA4YfW-Hlj8",
+      "title": "25 Smart English Phrases for Meetings | English for Daily Use",
+      "channel": "Maria Sheeran",
+      "duration": "10:51"
+     },
+     {
+      "id": "PLhAzAymMsY",
+      "title": "40 English Phrases You Need for Online Meetings",
+      "channel": "Maria Sheeran",
+      "duration": "5:15"
+     },
+     {
+      "id": "O3kg_dWkmCA",
+      "title": "40 Essential Phrases To Host A Meeting in English",
+      "channel": "mmmEnglish",
+      "duration": "12:40"
+     },
+     {
+      "id": "eh4M5Rviw04",
+      "title": "Sound Fluent & Professional: English Phrases for Meetings & Updates",
+      "channel": "Speak Confident English",
+      "duration": "18:47"
+     }
+    ]
+   }
+  },
+  "u37": {
+   "English slang native speakers use": {
+    "label": "Gírias atuais",
+    "checked": "2026-11-24",
+    "results": [
+     {
+      "id": "ScvzZ9au02Q",
+      "title": "Native Speaker Teaches 20 English Slang Words",
+      "channel": "AccurateEnglish",
+      "duration": "15:15"
+     },
+     {
+      "id": "SrPznQoGH1Y",
+      "title": "22 English Expressions You SHOULD Know - My Conversation With a Native Speaker",
+      "channel": "AccurateEnglish",
+      "duration": "18:36"
+     },
+     {
+      "id": "C85XmT7uUiI",
+      "title": "12 American SLANG and EXPRESSIONS to sound like a NATIVE SPEAKER",
+      "channel": "enGrab",
+      "duration": "14:47"
+     },
+     {
+      "id": "xuq3La6VrKU",
+      "title": "19 Phrases Native English Speakers Use Every Day",
+      "channel": "English With Kayla (Kayla)",
+      "duration": "18:10"
+     }
+    ]
+   }
+  },
+  "u38": {
+   "English collocations advanced vocabulary": {
+    "label": "Collocations",
+    "checked": "2026-11-24",
+    "results": [
+     {
+      "id": "f720kNOU7ms",
+      "title": "250 Advanced English Collocation Rules",
+      "channel": "English with Rupert",
+      "duration": "31:54"
+     },
+     {
+      "id": "IJGldlaS8jo",
+      "title": "75 ADVANCED COLLOCATIONS | Supercharge Your Vocab (B2, C1, & C2 Phrases)",
+      "channel": "Interactive English",
+      "duration": "16:43"
+     },
+     {
+      "id": "ugknCtuY5is",
+      "title": "10 EXTREMELY USEFUL VERB + NOUN COLLOCATIONS - ADVANCED ENGLISH VOCABULARY C1/C2",
+      "channel": "To The Point English with Ben. ",
+      "duration": "11:50"
+     },
+     {
+      "id": "VRdP0taAuig",
+      "title": "50 Advanced Collocations Used in Fluent English Conversations! (meaning + examples)",
+      "channel": "Club James Studios - English Speaking Videos",
+      "duration": "22:54"
+     }
+    ]
+   },
+   "advanced English vocabulary C1": {
+    "label": "Vocabulário avançado",
+    "checked": "2026-11-24",
+    "results": [
+     {
+      "id": "Wr-ycm1Qr-Y",
+      "title": "10 ESSENTIAL C1 Verbs to Transform YOUR FLUENCY (Advanced English)",
+      "channel": "Learn English with Harry",
+      "duration": "17:18"
+     },
+     {
+      "id": "FLyFnjsrJGg",
+      "title": "50+ C1 Advanced English Vocabulary You Must Know || Level Up Your English!",
+      "channel": "Learn English Lab",
+      "duration": "34:57"
+     },
+     {
+      "id": "9vRuUMVJyPc",
+      "title": "10 ADVERBS TO LEVEL UP YOUR ENGLISH! C1 and C2 Vocabulary",
+      "channel": "To The Point English with Ben. ",
+      "duration": "9:33"
+     },
+     {
+      "id": "H_EDdy15i-4",
+      "title": "Advanced (C1) Words To Impove Your Fluency (Advanced Level English)",
+      "channel": "JForrest English",
+      "duration": "10:46"
+     }
+    ]
+   }
+  },
+  "u39": {
+   "inversion English grammar advanced": {
+    "label": "Inversion",
+    "checked": "2026-11-24",
+    "results": [
+     {
+      "id": "Y5Mv87X-Uz8",
+      "title": "INVERSION - a simple guide! Advanced English grammar - C1 Advanced and C2 Proficiency Cambridge exam",
+      "channel": "To The Point English with Ben. ",
+      "duration": "9:55"
+     },
+     {
+      "id": "ZfkKD1pUHiU",
+      "title": "Learn Inversion in 5 Minutes (Advanced English Grammar)",
+      "channel": "Fernando Gatica",
+      "duration": "5:34"
+     },
+     {
+      "id": "ivrER84mTOc",
+      "title": "INVERSION - Advanced English Grammar | Learn how to INVERT your sentences and the CONDITIONALS",
+      "channel": "Arnel's Everyday English",
+      "duration": "21:36"
+     },
+     {
+      "id": "aqpQiDKtyHY",
+      "title": "8 Types of Inversions in English | Easy Grammar Guide with Examples and Final Quiz",
+      "channel": "English Speaking 360",
+      "duration": "22:40"
+     }
+    ]
+   },
+   "cleft sentences English emphasis": {
+    "label": "Cleft sentences",
+    "checked": "2026-11-24",
+    "results": [
+     {
+      "id": "g2muaWd1Fa4",
+      "title": "Qué son las CLEFT SENTENCES en INGLÉS",
+      "channel": "Alejo Lopera Inglés",
+      "duration": "4:29"
+     },
+     {
+      "id": "irfNCJNLo74",
+      "title": "This grammar structure will help you reach an advanced English level. C1/C2 English",
+      "channel": "To The Point English with Ben. ",
+      "duration": "6:41"
+     },
+     {
+      "id": "Dj0ePce_xmE",
+      "title": "CLEFT SENTENCES | advanced complex sentences in English + TEST!",
+      "channel": "Arnel's Everyday English",
+      "duration": "21:30"
+     },
+     {
+      "id": "P7dcdEoNA_E",
+      "title": "Grammar: Giving emphasis in English - BBC English Masterclass",
+      "channel": "BBC Learning English",
+      "duration": "3:29"
+     }
+    ]
+   }
+  },
+  "u40": {
+   "English accents around the world comparison": {
+    "label": "Sotaques do inglês",
+    "checked": "2026-11-24",
+    "results": [
+     {
+      "id": "fy-bd5AC-Ms",
+      "title": "American vs. British vs. Australian English | One Language, Three Accents",
+      "channel": "Language of Earth",
+      "duration": "2:56"
+     },
+     {
+      "id": "XKuPfZpzEHg",
+      "title": "Accent Expert Explains How to Tell Accents Apart | WIRED",
+      "channel": "WIRED",
+      "duration": "6:02"
+     },
+     {
+      "id": "FyyT2jmVPAk",
+      "title": "One Woman, 17 British Accents - Anglophenia Ep 5",
+      "channel": "Anglophenia",
+      "duration": "5:20"
+     },
+     {
+      "id": "UZuHE9m3a8Y",
+      "title": "The English Language in 65 Accents",
+      "channel": "The New Travel",
+      "duration": "13:42"
+     }
+    ]
+   },
+   "BBC 6 Minute English": {
+    "label": "Podcast natural",
+    "checked": "2026-11-24",
+    "results": [
+     {
+      "id": "Efi9tB75cZs",
+      "title": "English Rewind - 6 Minute English: The story behind coffee ☕",
+      "channel": "BBC Learning English",
+      "duration": "6:41"
+     },
+     {
+      "id": "Y681hXWwhQY",
+      "title": "The benefits of doing nothing ⏲️ 6 Minute English",
+      "channel": "BBC Learning English",
+      "duration": "6:20"
+     },
+     {
+      "id": "YAsDeXcYyTg",
+      "title": "Scared to speak English? ⏲️ 6 Minute English",
+      "channel": "BBC Learning English",
+      "duration": "6:48"
+     },
+     {
+      "id": "60DxmhYEyHI",
+      "title": "😳🙈🫣 Do you get embarrassed easily? | Improve your listening with Real Easy English",
+      "channel": "BBC Learning English",
+      "duration": "8:12"
+     }
+    ]
+   }
+  },
+  "u41": {
+   "presentation phrases in English business": {
+    "label": "Apresentações em inglês",
+    "checked": "2026-11-24",
+    "results": [
+     {
+      "id": "bgFNTuRYtKE",
+      "title": "40 Phrases For Presenting In English - Business English (FREE PDF)",
+      "channel": "Derek Callan - English for Professionals",
+      "duration": "8:07"
+     },
+     {
+      "id": "T2hOSdvaiRk",
+      "title": "20 Important Business English Phrases",
+      "channel": "Speak English With Vanessa",
+      "duration": "20:39"
+     },
+     {
+      "id": "Ri4zLmpyz-E",
+      "title": "50 English Phrases for Presentations",
+      "channel": "Maria Sheeran",
+      "duration": "10:02"
+     },
+     {
+      "id": "A2TwNWiYIMI",
+      "title": "37 VITAL Phrases for Presentations In English | SPEAK LIKE A PRO!",
+      "channel": "Learn English with Harry",
+      "duration": "15:15"
+     }
+    ]
+   },
+   "TED talk how to speak so that people want to listen": {
+    "label": "TED: como falar bem",
+    "checked": "2026-11-24",
+    "results": [
+     {
+      "id": "eIho2S0ZahI",
+      "title": "How to Speak So That People Want to Listen | Julian Treasure | TED",
+      "channel": "TED",
+      "duration": "9:59"
+     },
+     {
+      "id": "MT2q1YKZQPE",
+      "title": "The Secret to Great Public Speaking (No, It's Not Confidence) | Jess Ekstrom | TEDxSugar Creek Women",
+      "channel": "TEDx Talks",
+      "duration": "8:19"
+     },
+     {
+      "id": "8S0FDjFBj8o",
+      "title": "How to sound smart in your TEDx Talk | Will Stephen | TEDxNewYork",
+      "channel": "TEDx Talks",
+      "duration": "5:56"
+     },
+     {
+      "id": "lg48Bi9DA54",
+      "title": "The science behind dramatically better conversations | Charles Duhigg | TEDxManchester",
+      "channel": "TEDx Talks",
+      "duration": "12:58"
+     }
+    ]
+   }
+  },
+  "u42": {
+   "how to write an essay in English IELTS": {
+    "label": "Essay writing",
+    "checked": "2026-11-24",
+    "results": [
+     {
+      "id": "yvt8RzGNhBc",
+      "title": "Understand IELTS Writing Task 2 in 5 Minutes",
+      "channel": "IELTS Advantage",
+      "duration": "5:54"
+     },
+     {
+      "id": "GNL1_tNTqpw",
+      "title": "English Essay: How to Write about ANY Essay Topic",
+      "channel": "E2 English",
+      "duration": "17:08"
+     },
+     {
+      "id": "YBtSHDYty9s",
+      "title": "IELTS Writing Task 2: Plan and Write a Complete Discussion Essay with Useful Vocabulary",
+      "channel": "English Pro Tips - IELTS Preparation",
+      "duration": "19:05"
+     },
+     {
+      "id": "o9aVjBHEEbU",
+      "title": "How to write a good essay: Paraphrasing the question",
+      "channel": "English with Emma · engVid",
+      "duration": "14:39"
+     }
+    ]
+   },
+   "formal vs informal English writing": {
+    "label": "Escrita formal x informal",
+    "checked": "2026-11-24",
+    "results": [
+     {
+      "id": "nwMI97hDTJk",
+      "title": "Formal vs Informal writing",
+      "channel": "Bristol Council: Employment, Skills & Learning",
+      "duration": "4:00"
+     },
+     {
+      "id": "Y2ShJOMhJ-4",
+      "title": "Cambridge Writing: Formal vs Informal Language",
+      "channel": "Teacher Phill",
+      "duration": "7:58"
+     },
+     {
+      "id": "6fgqD6ytzQM",
+      "title": "Formal vs Informal Language and Writing: Audience Matters!",
+      "channel": "The ELA Connection",
+      "duration": "4:40"
+     },
+     {
+      "id": "xUii8vHE3oM",
+      "title": "How to Make Your Writing Sound Smarter (Informal vs. Formal Tone)",
+      "channel": "Mister Messinger",
+      "duration": "5:52"
+     }
+    ]
+   }
+  },
+  "u43": {
+   "how to think in English and stop translating": {
+    "label": "Pensar em inglês",
+    "checked": "2026-11-24",
+    "results": [
+     {
+      "id": "MES3ZG9wxSU",
+      "title": "STOP TRANSLATING IN YOUR HEAD | Tips For Thinking In English",
+      "channel": "Speak English With Tiffani",
+      "duration": "21:03"
+     },
+     {
+      "id": "F3hc7lN2S6k",
+      "title": "Stop Translating! How to Think in English and Speak Fluently",
+      "channel": "Confident English with Kirsty",
+      "duration": "10:01"
+     },
+     {
+      "id": "llPX7JMY_zw",
+      "title": "How to Think in English (Stop Translating in Your Head)",
+      "channel": "POC English",
+      "duration": "17:57"
+     },
+     {
+      "id": "ko9OGHeGNsg",
+      "title": "How to Stop Translating in Your Head",
+      "channel": "Learn English with Bob the Canadian",
+      "duration": "8:55"
+     }
+    ]
+   },
+   "how to become fluent in English speaking tips": {
+    "label": "Fluência",
+    "checked": "2026-11-24",
+    "results": [
+     {
+      "id": "AfZmcOuKtkE",
+      "title": "Do These 6 Things Every Day to Become Fluent in English",
+      "channel": "English At The Ready",
+      "duration": "8:49"
+     },
+     {
+      "id": "5A2fI9fzJtc",
+      "title": "IMPROVE YOUR ENGLISH FLUENCY | TIPS FOR SPEAKING ENGLISH WITH CONFIDENCE",
+      "channel": "Speak English With Tiffani",
+      "duration": "27:30"
+     },
+     {
+      "id": "CAU2zx2Ri_M",
+      "title": "How to Improve Your English Speaking Skills (by Yourself)",
+      "channel": "EngFluent",
+      "duration": "4:35"
+     },
+     {
+      "id": "bo47JoSxl1s",
+      "title": "The ONLY way to become fluent in ENGLISH",
+      "channel": "Volka English",
+      "duration": "5:35"
+     }
+    ]
+   }
+  }
+ }
+}
