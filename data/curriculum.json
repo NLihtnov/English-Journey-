@@ -1,0 +1,489 @@
+{
+  "version": 1,
+  "phases": [
+    {
+      "id": "A0",
+      "name": "Fundação",
+      "cefr": "A0",
+      "weeks": "Semanas 1–6",
+      "desc": "Do zero absoluto: sons do inglês, apresentações e as estruturas que aparecem em toda frase.",
+      "units": [
+        {
+          "id": "u01", "title": "Sons do inglês e alfabeto", "en": "Sounds & the alphabet",
+          "goals": "Reconhecer o alfabeto, soletrar seu nome e perceber os sons que não existem em português (TH, R, vogais curtas/longas).",
+          "grammar": ["O alfabeto em inglês tem 26 letras, mas cerca de 44 sons.", "Soletrar: 'How do you spell it?' → 'N-I-C-K'.", "Sons difíceis para brasileiros: TH (think / this), R (red), H aspirado (house), vogais curtas (ship) x longas (sheep)."],
+          "vocab": ["letter|letra", "sound|som", "word|palavra", "spell|soletrar", "name|nome", "repeat|repetir", "listen|ouvir", "say|dizer", "slowly|devagar", "again|de novo"],
+          "phrases": ["How do you spell your name?|Como se soletra o seu nome?", "Can you repeat, please?|Pode repetir, por favor?", "Can you speak slowly?|Você pode falar devagar?", "What does this word mean?|O que essa palavra significa?", "I don't understand.|Eu não entendo."],
+          "videos": [["Alfabeto em inglês (pronúncia)", "English alphabet pronunciation for beginners English with Lucy"], ["Sons do inglês para brasileiros", "sons do inglês para brasileiros pronúncia iniciantes"], ["Som do TH", "how to pronounce TH sound Rachel's English"]],
+          "tasks": ["Soletre seu nome completo em voz alta 3 vezes.", "Use a aba Pronúncia com as 5 frases da unidade.", "Grave um áudio dizendo o alfabeto e compare com o vídeo."],
+          "quiz": [{"q": "Como se pergunta 'Como se soletra?'", "o": ["How do you spell it?", "How you write it?", "What is spell?"], "a": 0}, {"q": "Qual palavra tem o som TH?", "o": ["think", "tank", "sink"], "a": 0}]
+        },
+        {
+          "id": "u02", "title": "Cumprimentos e apresentações", "en": "Greetings & introductions",
+          "goals": "Cumprimentar, se apresentar e encerrar uma conversa curta.",
+          "grammar": ["Formal x informal: 'Good morning' (formal) / 'Hi', 'Hey' (informal).", "Apresentar-se: 'My name is…' ou 'I'm…'.", "'Nice to meet you' só na primeira vez que conhece alguém; depois 'Nice to see you'."],
+          "vocab": ["hello|olá", "hi|oi", "goodbye|tchau", "good morning|bom dia", "good afternoon|boa tarde", "good evening|boa noite (chegando)", "good night|boa noite (despedida)", "please|por favor", "thank you|obrigado(a)", "sorry|desculpe"],
+          "phrases": ["Hi, I'm Ana. What's your name?|Oi, sou a Ana. Qual é o seu nome?", "Nice to meet you.|Prazer em te conhecer.", "How are you? — I'm fine, thanks. And you?|Como vai? — Bem, obrigado. E você?", "Where are you from? — I'm from Brazil.|De onde você é? — Sou do Brasil.", "See you later!|Até mais!"],
+          "videos": [["Cumprimentos em inglês", "greetings in English for beginners BBC Learning English"], ["Como se apresentar", "how to introduce yourself in English beginner"], ["Conversa básica", "basic English conversation for beginners introductions"]],
+          "tasks": ["Escreva uma apresentação de 4 frases sobre você.", "Leia a apresentação em voz alta e grave.", "Faça o ditado com as frases desta unidade."],
+          "quiz": [{"q": "Você vai dormir. Diz:", "o": ["Good evening", "Good night", "Good afternoon"], "a": 1}, {"q": "'Prazer em te conhecer' =", "o": ["Nice to meet you", "Nice to see you again", "Good to go"], "a": 0}]
+        },
+        {
+          "id": "u03", "title": "Verbo TO BE", "en": "The verb to be",
+          "goals": "Usar am / is / are em afirmações, negações e perguntas.",
+          "grammar": ["I am (I'm) · you are (you're) · he/she/it is (he's) · we/they are (we're).", "Negativa: I'm not / he isn't / they aren't.", "Pergunta: inverta → 'Are you tired?' 'Is she a teacher?'", "Inglês sempre precisa de sujeito: 'It is hot' (não 'Is hot')."],
+          "vocab": ["happy|feliz", "tired|cansado", "hungry|com fome", "busy|ocupado", "teacher|professor", "student|estudante", "friend|amigo", "ready|pronto", "late|atrasado", "here|aqui"],
+          "phrases": ["I am a student.|Eu sou estudante.", "She is not tired.|Ela não está cansada.", "Are you ready?|Você está pronto?", "It is very hot today.|Está muito quente hoje.", "We are friends.|Nós somos amigos."],
+          "videos": [["Verbo to be explicado", "verb to be am is are beginners English lesson"], ["Verbo to be em português", "verbo to be aula completa iniciantes"], ["Prática to be", "verb to be practice exercises English with Lucy"]],
+          "tasks": ["Escreva 5 frases sobre você com I am / I'm not.", "Transforme 3 frases em perguntas.", "Revise os flashcards novos."],
+          "quiz": [{"q": "They ___ from Brazil.", "o": ["is", "are", "am"], "a": 1}, {"q": "'Está frio' em inglês:", "o": ["Is cold.", "It is cold.", "Cold is."], "a": 1}]
+        },
+        {
+          "id": "u04", "title": "Números, idade e telefone", "en": "Numbers, age & phone",
+          "goals": "Contar até 100, dizer idade, telefone e preços simples.",
+          "grammar": ["Idade usa TO BE: 'I am 30 (years old)' — nunca 'I have 30'.", "13 (thirTEEN) x 30 (THIRty): a sílaba forte muda.", "Telefone: diga dígito a dígito; 0 = 'oh' ou 'zero'."],
+          "vocab": ["one|um", "two|dois", "three|três", "ten|dez", "twelve|doze", "twenty|vinte", "hundred|cem", "age|idade", "phone number|número de telefone", "how many|quantos"],
+          "phrases": ["How old are you? — I'm twenty-five.|Quantos anos você tem? — Tenho 25.", "What's your phone number?|Qual é o seu telefone?", "How much is it? — It's ten dollars.|Quanto custa? — Dez dólares.", "I have two brothers.|Eu tenho dois irmãos.", "Fifteen, not fifty.|Quinze, não cinquenta."],
+          "videos": [["Números 1–100", "numbers 1 to 100 in English pronunciation"], ["Teen x ty", "thirteen vs thirty pronunciation English"], ["Idade e telefone", "how to say your age and phone number in English"]],
+          "tasks": ["Diga em voz alta seu telefone e o de 2 pessoas.", "Conte de 1 a 100 de 5 em 5.", "Faça o ditado de números (aba Ditado)."],
+          "quiz": [{"q": "'Eu tenho 20 anos' =", "o": ["I have 20 years.", "I am 20 years old.", "I'm with 20."], "a": 1}, {"q": "Onde fica a sílaba forte em 'fifteen'?", "o": ["FIF-teen", "fif-TEEN", "igual"], "a": 1}]
+        },
+        {
+          "id": "u05", "title": "Pronomes, artigos e plural", "en": "Pronouns, articles & plurals",
+          "goals": "Usar I/you/he/she/it/we/they, a/an/the e formar o plural.",
+          "grammar": ["A antes de som de consoante (a book), AN antes de som de vogal (an apple, an hour).", "THE = o/a/os/as (algo específico).", "Plural: +s (cats), +es (boxes), y→ies (cities); irregulares: man→men, child→children, person→people.", "IT para coisas e animais; adjetivos não vão para o plural (blue cars)."],
+          "vocab": ["book|livro", "apple|maçã", "car|carro", "city|cidade", "child|criança", "people|pessoas", "man|homem", "woman|mulher", "house|casa", "dog|cachorro"],
+          "phrases": ["I have a car and an old bike.|Eu tenho um carro e uma bicicleta velha.", "The children are at school.|As crianças estão na escola.", "It's an interesting book.|É um livro interessante.", "They are good people.|Eles são boas pessoas.", "Where is the dog?|Onde está o cachorro?"],
+          "videos": [["A, an, the", "articles a an the English grammar beginners"], ["Plural em inglês", "plural nouns English grammar beginners"], ["Pronomes pessoais", "subject pronouns English for beginners"]],
+          "tasks": ["Escreva 10 objetos da sua casa com a/an.", "Coloque-os no plural.", "Revise flashcards."],
+          "quiz": [{"q": "___ hour", "o": ["a", "an", "—"], "a": 1}, {"q": "Plural de 'child':", "o": ["childs", "children", "childes"], "a": 1}]
+        },
+        {
+          "id": "u06", "title": "Cores, objetos e this/that", "en": "Colors, things & this/that",
+          "goals": "Descrever objetos e apontar coisas perto/longe.",
+          "grammar": ["THIS/THESE = perto; THAT/THOSE = longe.", "Adjetivo vem ANTES do substantivo: 'a red car' (não 'a car red').", "Pergunta: 'What color is it?' 'What is this?'"],
+          "vocab": ["red|vermelho", "blue|azul", "green|verde", "black|preto", "white|branco", "big|grande", "small|pequeno", "new|novo", "old|velho", "cheap|barato"],
+          "phrases": ["What is this? — It's a phone.|O que é isto? — É um telefone.", "Those shoes are black.|Aqueles sapatos são pretos.", "I like this blue shirt.|Eu gosto desta camisa azul.", "Is that your bag?|Aquela é a sua bolsa?", "These apples are cheap.|Estas maçãs são baratas."],
+          "videos": [["This, that, these, those", "this that these those English grammar"], ["Cores em inglês", "colors in English vocabulary pronunciation"], ["Ordem dos adjetivos", "adjective order English basic"]],
+          "tasks": ["Descreva 5 objetos à sua volta (cor + tamanho).", "Revisão geral da Fase A0: refaça os quizzes."],
+          "quiz": [{"q": "'Um carro vermelho' =", "o": ["a car red", "a red car", "red a car"], "a": 1}, {"q": "Plural de 'that':", "o": ["thats", "these", "those"], "a": 2}]
+        }
+      ]
+    },
+    {
+      "id": "A1",
+      "name": "Básico",
+      "cefr": "A1",
+      "weeks": "Semanas 7–14",
+      "desc": "Falar do seu dia a dia, da família, da casa e se virar em situações simples.",
+      "units": [
+        {
+          "id": "u07", "title": "Família e possessivos", "en": "Family & possessives",
+          "goals": "Falar da família e de posse (my, your, 's).",
+          "grammar": ["my, your, his, her, its, our, their.", "Posse com 's: 'Maria's car' = o carro da Maria.", "HAVE: 'I have a sister' / 'She has two kids'."],
+          "vocab": ["mother|mãe", "father|pai", "parents|pais", "brother|irmão", "sister|irmã", "son|filho", "daughter|filha", "husband|marido", "wife|esposa", "cousin|primo(a)"],
+          "phrases": ["This is my brother's wife.|Esta é a esposa do meu irmão.", "Do you have any children?|Você tem filhos?", "Her parents live in Rio.|Os pais dela moram no Rio.", "I'm an only child.|Sou filho único.", "Our family is small.|Nossa família é pequena."],
+          "videos": [["Família em inglês", "family members vocabulary English"], ["Possessive adjectives", "possessive adjectives my your his her English"], ["Apóstrofo 's", "possessive apostrophe s English grammar"]],
+          "tasks": ["Desenhe sua árvore genealógica com nomes em inglês.", "Escreva 6 frases sobre sua família."],
+          "quiz": [{"q": "'O carro do João' =", "o": ["the car of João", "João's car", "João car's"], "a": 1}, {"q": "She ___ two kids.", "o": ["have", "has", "is"], "a": 1}]
+        },
+        {
+          "id": "u08", "title": "Rotina: presente simples", "en": "Daily routine: simple present",
+          "goals": "Descrever hábitos e rotina.",
+          "grammar": ["I/you/we/they work · he/she/it works (+s!).", "Negativa: don't / doesn't + verbo base: 'She doesn't work'.", "Pergunta: Do/Does: 'Do you drink coffee?' 'Does he live here?'", "Frequência: always, usually, often, sometimes, never (antes do verbo)."],
+          "vocab": ["wake up|acordar", "get up|levantar", "have breakfast|tomar café da manhã", "go to work|ir trabalhar", "work|trabalhar", "study|estudar", "cook|cozinhar", "go to bed|ir para a cama", "always|sempre", "never|nunca"],
+          "phrases": ["I usually wake up at seven.|Eu geralmente acordo às sete.", "She doesn't drink coffee.|Ela não bebe café.", "Do you work on Saturdays?|Você trabalha aos sábados?", "He always takes the bus.|Ele sempre pega o ônibus.", "What do you do? — I'm a nurse.|O que você faz? — Sou enfermeira."],
+          "videos": [["Present simple completo", "present simple tense English grammar lesson beginners"], ["Daily routine", "daily routine vocabulary English speaking"], ["Do x does", "do does questions present simple"]],
+          "tasks": ["Escreva sua rotina de um dia (8 frases).", "Fale sua rotina em voz alta sem ler.", "Shadowing: repita o vídeo de rotina pausando frase a frase."],
+          "quiz": [{"q": "He ___ in a bank.", "o": ["work", "works", "working"], "a": 1}, {"q": "___ she like pizza?", "o": ["Do", "Does", "Is"], "a": 1}]
+        },
+        {
+          "id": "u09", "title": "Horas, dias e meses", "en": "Time, days & months",
+          "goals": "Dizer horas, datas e usar in/on/at.",
+          "grammar": ["AT + horas (at 5 pm), ON + dias/datas (on Monday), IN + meses/anos/partes do dia (in July, in the morning).", "Horas: 'It's half past six' (6:30), 'quarter to nine' (8:45), ou simplesmente 'six thirty'.", "Dias e meses com letra maiúscula."],
+          "vocab": ["Monday|segunda-feira", "weekend|fim de semana", "today|hoje", "tomorrow|amanhã", "yesterday|ontem", "week|semana", "month|mês", "year|ano", "o'clock|em ponto", "birthday|aniversário"],
+          "phrases": ["What time is it? — It's half past three.|Que horas são? — Três e meia.", "My birthday is in May.|Meu aniversário é em maio.", "See you on Friday at eight.|Te vejo sexta às oito.", "I study in the evening.|Eu estudo à noite.", "What's the date today?|Que dia é hoje?"],
+          "videos": [["Telling the time", "telling the time in English lesson"], ["In on at", "prepositions of time in on at English"], ["Dias e meses", "days of the week months pronunciation English"]],
+          "tasks": ["Escreva sua agenda da semana em inglês.", "Ditado: horas e datas."],
+          "quiz": [{"q": "___ Monday", "o": ["in", "on", "at"], "a": 1}, {"q": "8:45 =", "o": ["quarter past eight", "quarter to nine", "half past eight"], "a": 1}]
+        },
+        {
+          "id": "u10", "title": "Comida e pedidos", "en": "Food & ordering",
+          "goals": "Pedir em restaurante/café e falar do que gosta.",
+          "grammar": ["Pedido educado: 'Can I have…?' / 'I'd like…' (I would like).", "SOME em afirmações, ANY em perguntas e negativas.", "Contáveis (an egg, two eggs) x incontáveis (water, rice, bread)."],
+          "vocab": ["water|água", "bread|pão", "rice|arroz", "beans|feijão", "chicken|frango", "meat|carne", "vegetables|legumes", "bill|conta", "menu|cardápio", "delicious|delicioso"],
+          "phrases": ["Can I have a coffee, please?|Pode me ver um café, por favor?", "I'd like the chicken with rice.|Eu gostaria do frango com arroz.", "Could we have the bill, please?|Pode trazer a conta, por favor?", "Do you have any vegetarian options?|Vocês têm opções vegetarianas?", "For here or to go?|Para comer aqui ou para viagem?"],
+          "videos": [["Pedir no restaurante", "ordering food in a restaurant English conversation"], ["Some x any", "some any English grammar"], ["Contável x incontável", "countable uncountable nouns English"]],
+          "tasks": ["Simule um pedido completo em voz alta (entrada, prato, conta).", "Liste o que comeu hoje em inglês."],
+          "quiz": [{"q": "Is there ___ milk?", "o": ["some", "any", "a"], "a": 1}, {"q": "Forma mais educada:", "o": ["I want water.", "Give me water.", "Could I have some water?"], "a": 2}]
+        },
+        {
+          "id": "u11", "title": "Casa e there is / there are", "en": "Home & there is/are",
+          "goals": "Descrever sua casa e onde as coisas estão.",
+          "grammar": ["THERE IS + singular, THERE ARE + plural (= 'tem/há').", "Nunca 'Have a table in the kitchen' → 'There is a table…'.", "Preposições de lugar: in, on, under, next to, between, behind, in front of."],
+          "vocab": ["kitchen|cozinha", "bedroom|quarto", "bathroom|banheiro", "living room|sala", "table|mesa", "chair|cadeira", "bed|cama", "window|janela", "door|porta", "under|embaixo de"],
+          "phrases": ["There is a big window in my bedroom.|Tem uma janela grande no meu quarto.", "There are two chairs next to the table.|Tem duas cadeiras ao lado da mesa.", "Is there a bathroom here?|Tem um banheiro aqui?", "The keys are on the table.|As chaves estão na mesa.", "My apartment has three rooms.|Meu apartamento tem três cômodos."],
+          "videos": [["There is / there are", "there is there are English grammar beginners"], ["Preposições de lugar", "prepositions of place in on under English"], ["Partes da casa", "rooms of the house vocabulary English"]],
+          "tasks": ["Descreva cada cômodo da sua casa (2 frases cada).", "Cole post-its em inglês nos objetos da casa."],
+          "quiz": [{"q": "___ two cats in the garden.", "o": ["There is", "There are", "Have"], "a": 1}, {"q": "'Embaixo da cama' =", "o": ["on the bed", "under the bed", "behind the bed"], "a": 1}]
+        },
+        {
+          "id": "u12", "title": "Can / can't: habilidades e pedidos", "en": "Can & can't",
+          "goals": "Falar de habilidades, permissões e fazer pedidos.",
+          "grammar": ["CAN + verbo base, igual para todas as pessoas: 'She can swim'.", "Pronúncia: 'can' fraco /kən/ na afirmação, 'can't' forte /kɑːnt/ ou /kænt/.", "Pedidos: 'Can you help me?' / mais educado: 'Could you…?'"],
+          "vocab": ["swim|nadar", "drive|dirigir", "speak|falar", "sing|cantar", "dance|dançar", "play|jogar/tocar", "help|ajudar", "open|abrir", "close|fechar", "well|bem"],
+          "phrases": ["I can speak a little English.|Eu falo um pouco de inglês.", "Can you help me, please?|Você pode me ajudar?", "She can't drive.|Ela não sabe dirigir.", "Could you open the window?|Você poderia abrir a janela?", "Can I sit here?|Posso sentar aqui?"],
+          "videos": [["Can / can't", "can can't ability English grammar"], ["Pronúncia can x can't", "can vs can't pronunciation American English"]],
+          "tasks": ["Liste 5 coisas que sabe e 5 que não sabe fazer.", "Pronúncia: treine can x can't."],
+          "quiz": [{"q": "He ___ play the guitar.", "o": ["cans", "can", "can to"], "a": 1}, {"q": "Pedido mais educado:", "o": ["Can you…?", "Could you…?", "You help?"], "a": 1}]
+        },
+        {
+          "id": "u13", "title": "Presente contínuo", "en": "Present continuous",
+          "goals": "Falar do que está acontecendo agora e planos próximos.",
+          "grammar": ["am/is/are + verbo-ING: 'I'm studying now'.", "Simple present = hábito; continuous = agora/temporário.", "Também para planos marcados: 'I'm meeting John tomorrow'.", "Verbos de estado não vão no -ing: like, want, know, need."],
+          "vocab": ["now|agora", "right now|neste momento", "watch|assistir", "read|ler", "wait|esperar", "rain|chover", "wear|vestir/usar", "listen to|escutar", "look for|procurar", "this week|esta semana"],
+          "phrases": ["What are you doing? — I'm cooking.|O que você está fazendo? — Cozinhando.", "It's raining a lot today.|Está chovendo muito hoje.", "I'm waiting for the bus.|Estou esperando o ônibus.", "She's working from home this week.|Ela está trabalhando de casa esta semana.", "Are you listening to me?|Você está me escutando?"],
+          "videos": [["Present continuous", "present continuous tense English lesson beginners"], ["Simple x continuous", "present simple vs present continuous"]],
+          "tasks": ["Descreva 5 coisas que pessoas estão fazendo agora ao seu redor.", "Narre em voz alta o que você está fazendo por 1 minuto."],
+          "quiz": [{"q": "Look! It ___.", "o": ["snows", "is snowing", "snow"], "a": 1}, {"q": "Correta:", "o": ["I'm wanting coffee.", "I want coffee.", "I wanting coffee."], "a": 1}]
+        },
+        {
+          "id": "u14", "title": "Cidade e direções", "en": "Places & directions",
+          "goals": "Perguntar e dar direções, nomear lugares.",
+          "grammar": ["Imperativo para direções: 'Turn left', 'Go straight', 'Take the second right'.", "'Excuse me, where is…?' / 'How do I get to…?'", "Distância: 'It's a five-minute walk'."],
+          "vocab": ["street|rua", "corner|esquina", "bank|banco", "pharmacy|farmácia", "supermarket|supermercado", "station|estação", "turn left|vire à esquerda", "turn right|vire à direita", "go straight|siga reto", "near|perto"],
+          "phrases": ["Excuse me, how do I get to the station?|Com licença, como chego à estação?", "Go straight and turn left at the corner.|Siga reto e vire à esquerda na esquina.", "Is it far from here?|É longe daqui?", "It's next to the bank.|Fica ao lado do banco.", "It's a ten-minute walk.|São dez minutos a pé."],
+          "videos": [["Asking for directions", "asking for and giving directions English conversation"], ["Lugares na cidade", "places in the city vocabulary English"]],
+          "tasks": ["Explique em inglês o caminho da sua casa até a padaria.", "Revisão geral da Fase A1: refaça os quizzes e revise todos os flashcards vencidos."],
+          "quiz": [{"q": "'Vire à direita' =", "o": ["Turn right", "Go right", "Return right"], "a": 0}, {"q": "'São 5 minutos a pé' =", "o": ["It's five minutes of foot.", "It's a five-minute walk.", "It's five walk."], "a": 1}]
+        }
+      ]
+    },
+    {
+      "id": "A2",
+      "name": "Elementar",
+      "cefr": "A2",
+      "weeks": "Semanas 15–24",
+      "desc": "Contar o que aconteceu, fazer planos, comparar coisas e viajar.",
+      "units": [
+        {
+          "id": "u15", "title": "Passado do to be: was / were", "en": "Past of to be",
+          "goals": "Falar de onde estava e como foi.",
+          "grammar": ["I/he/she/it WAS · you/we/they WERE.", "Negativa: wasn't / weren't. Pergunta: 'Were you at home?'", "'There was / there were' = 'tinha/havia'."],
+          "vocab": ["last night|ontem à noite", "last week|semana passada", "ago|atrás", "born|nascido", "party|festa", "boring|chato", "fun|divertido", "crowded|lotado", "at home|em casa", "weather|tempo (clima)"],
+          "phrases": ["Where were you last night?|Onde você estava ontem à noite?", "I was born in 1995.|Eu nasci em 1995.", "The party was really fun.|A festa foi muito divertida.", "There were a lot of people.|Tinha muita gente.", "It wasn't my fault.|Não foi culpa minha."],
+          "videos": [["Was / were", "was were past simple to be English grammar"], ["There was / there were", "there was there were English"]],
+          "tasks": ["Escreva 5 frases sobre o seu último fim de semana com was/were."],
+          "quiz": [{"q": "They ___ at the beach yesterday.", "o": ["was", "were", "are"], "a": 1}, {"q": "'Eu nasci em…' =", "o": ["I born in…", "I was born in…", "I am born in…"], "a": 1}]
+        },
+        {
+          "id": "u16", "title": "Passado simples: verbos regulares", "en": "Past simple: regular verbs",
+          "goals": "Contar ações terminadas no passado.",
+          "grammar": ["Regulares: +ED (worked, played, studied).", "Pronúncia do -ED: /t/ (worked), /d/ (played), /ɪd/ só depois de t/d (wanted, needed).", "Negativa e pergunta com DID + verbo base: 'I didn't work', 'Did you call?'"],
+          "vocab": ["watched|assistiu", "played|jogou", "visited|visitou", "called|ligou", "worked|trabalhou", "studied|estudou", "started|começou", "finished|terminou", "decided|decidiu", "tried|tentou"],
+          "phrases": ["I watched a movie last night.|Eu assisti a um filme ontem à noite.", "Did you call your mother?|Você ligou para sua mãe?", "We didn't finish the project.|Nós não terminamos o projeto.", "She started a new job last month.|Ela começou um emprego novo mês passado.", "I tried, but it didn't work.|Eu tentei, mas não funcionou."],
+          "videos": [["Past simple regular", "past simple regular verbs English lesson"], ["Pronúncia do ED", "ed pronunciation t d id English"]],
+          "tasks": ["Escreva um diário curto de ontem (6 frases).", "Pronúncia: treine 10 verbos com -ED."],
+          "quiz": [{"q": "___ you work yesterday?", "o": ["Do", "Did", "Were"], "a": 1}, {"q": "'wanted' termina com som de:", "o": ["/t/", "/d/", "/ɪd/"], "a": 2}]
+        },
+        {
+          "id": "u17", "title": "Passado simples: irregulares", "en": "Past simple: irregular verbs",
+          "goals": "Dominar os 30 verbos irregulares mais usados.",
+          "grammar": ["Os mais comuns: go→went, have→had, do→did, make→made, get→got, see→saw, say→said, come→came, take→took, buy→bought.", "Na negativa/pergunta volta à forma base: 'Did you go?' (não 'Did you went?')."],
+          "vocab": ["went|foi", "had|teve/comeu", "saw|viu", "made|fez", "got|conseguiu/recebeu", "came|veio", "took|pegou/levou", "bought|comprou", "said|disse", "thought|pensou"],
+          "phrases": ["I went to the beach on Sunday.|Fui à praia no domingo.", "We had dinner at a new restaurant.|Jantamos num restaurante novo.", "Did you see the game?|Você viu o jogo?", "She bought a new phone.|Ela comprou um celular novo.", "I thought it was easy.|Eu achei que era fácil."],
+          "videos": [["Irregular verbs", "most common irregular verbs English pronunciation"], ["Contar uma história no passado", "how to tell a story in the past English"]],
+          "tasks": ["Conte em voz alta (2 min) a melhor viagem da sua vida.", "Flashcards: domine os irregulares desta unidade."],
+          "quiz": [{"q": "Passado de 'buy':", "o": ["buyed", "bought", "brought"], "a": 1}, {"q": "Did she ___ to the party?", "o": ["went", "go", "goes"], "a": 1}]
+        },
+        {
+          "id": "u18", "title": "Futuro: going to e will", "en": "Future: going to & will",
+          "goals": "Falar de planos, previsões e decisões na hora.",
+          "grammar": ["GOING TO = plano já decidido: 'I'm going to travel in July'.", "WILL = decisão na hora, promessa, previsão: 'I'll help you', 'It will rain'.", "Na fala: 'gonna' = going to (informal)."],
+          "vocab": ["plan|plano", "next year|ano que vem", "soon|em breve", "travel|viajar", "maybe|talvez", "probably|provavelmente", "promise|prometer", "later|mais tarde", "future|futuro", "goal|meta"],
+          "phrases": ["I'm going to learn English this year.|Vou aprender inglês este ano.", "I'll call you later.|Te ligo mais tarde.", "It will probably rain tomorrow.|Provavelmente vai chover amanhã.", "What are you going to do this weekend?|O que você vai fazer neste fim de semana?", "Don't worry, I won't forget.|Não se preocupe, não vou esquecer."],
+          "videos": [["Will x going to", "will vs going to future English grammar"], ["Gonna e wanna", "gonna wanna gotta English pronunciation"]],
+          "tasks": ["Escreva 5 metas para o ano com going to.", "Faça 3 promessas com will."],
+          "quiz": [{"q": "O telefone tocou. 'Eu atendo!' =", "o": ["I'm going to get it!", "I'll get it!", "I get it!"], "a": 1}, {"q": "'Gonna' significa:", "o": ["going to", "got to", "want to"], "a": 0}]
+        },
+        {
+          "id": "u19", "title": "Comparativos e superlativos", "en": "Comparatives & superlatives",
+          "goals": "Comparar pessoas, lugares e coisas.",
+          "grammar": ["Curtos: +ER / the +EST (cheap → cheaper → the cheapest).", "Longos: more / the most (more expensive, the most beautiful).", "Irregulares: good→better→the best; bad→worse→the worst.", "'as … as' = tão … quanto."],
+          "vocab": ["cheaper|mais barato", "bigger|maior", "better|melhor", "worse|pior", "the best|o melhor", "expensive|caro", "beautiful|bonito", "fast|rápido", "easy|fácil", "than|do que"],
+          "phrases": ["São Paulo is bigger than Rio.|São Paulo é maior que o Rio.", "This is the best pizza in town.|Esta é a melhor pizza da cidade.", "English is easier than I thought.|Inglês é mais fácil do que eu pensava.", "It's not as expensive as you think.|Não é tão caro quanto você pensa.", "Today is worse than yesterday.|Hoje está pior que ontem."],
+          "videos": [["Comparatives & superlatives", "comparatives and superlatives English grammar lesson"]],
+          "tasks": ["Compare 2 cidades que conhece (5 frases).", "Escreva o 'melhor' e o 'pior' de 5 categorias."],
+          "quiz": [{"q": "This car is ___ than mine.", "o": ["more fast", "faster", "fastest"], "a": 1}, {"q": "good → better → ___", "o": ["the goodest", "the best", "the better"], "a": 1}]
+        },
+        {
+          "id": "u20", "title": "Compras e dinheiro", "en": "Shopping & money",
+          "goals": "Comprar, perguntar preço, tamanho e trocar produtos.",
+          "grammar": ["How much (incontáveis/preço) x How many (contáveis).", "Too + adjetivo (too big = grande demais) x enough (big enough).", "'Can I try it on?' = posso experimentar?"],
+          "vocab": ["price|preço", "size|tamanho", "receipt|recibo", "cash|dinheiro vivo", "credit card|cartão de crédito", "discount|desconto", "sale|liquidação", "try on|experimentar", "refund|reembolso", "change|troco"],
+          "phrases": ["How much is this jacket?|Quanto custa esta jaqueta?", "Can I try it on?|Posso experimentar?", "Do you have it in a smaller size?|Tem num tamanho menor?", "It's too expensive for me.|É caro demais para mim.", "Can I pay by card?|Posso pagar com cartão?"],
+          "videos": [["Shopping in English", "shopping English conversation clothes store"], ["How much x how many", "how much how many English grammar"]],
+          "tasks": ["Simule uma compra de roupa do início ao fim (diálogo escrito).", "Revise flashcards."],
+          "quiz": [{"q": "How ___ apples do you want?", "o": ["much", "many", "more"], "a": 1}, {"q": "'Grande demais' =", "o": ["too big", "very big enough", "big too"], "a": 0}]
+        },
+        {
+          "id": "u21", "title": "Viagem, aeroporto e hotel", "en": "Travel, airport & hotel",
+          "goals": "Sobreviver em aeroporto, imigração e hotel.",
+          "grammar": ["Perguntas com WH: what, where, when, how long, how often.", "'I'd like to book…' / 'I have a reservation under the name…'", "'How long are you staying?' — 'For two weeks.'"],
+          "vocab": ["flight|voo", "passport|passaporte", "boarding pass|cartão de embarque", "luggage|bagagem", "gate|portão", "delay|atraso", "check in|fazer check-in", "reservation|reserva", "room|quarto", "trip|viagem"],
+          "phrases": ["I have a reservation under the name Silva.|Tenho uma reserva no nome Silva.", "What's the purpose of your visit? — Tourism.|Qual o propósito da visita? — Turismo.", "My flight was delayed.|Meu voo atrasou.", "Where is gate twelve?|Onde fica o portão 12?", "Is breakfast included?|O café da manhã está incluído?"],
+          "videos": [["Airport English", "airport English conversation immigration questions"], ["Hotel check-in", "hotel check in English conversation"]],
+          "tasks": ["Escreva e encene o diálogo de imigração.", "Ditado: frases de aeroporto."],
+          "quiz": [{"q": "'Bagagem' =", "o": ["baggages", "luggage", "lugages"], "a": 1}, {"q": "'How long are you staying?' pergunta sobre:", "o": ["tempo de estadia", "tamanho da mala", "distância"], "a": 0}]
+        },
+        {
+          "id": "u22", "title": "Saúde, corpo e conselhos", "en": "Health & advice",
+          "goals": "Dizer o que sente e dar conselhos com should.",
+          "grammar": ["SHOULD + verbo base = conselho: 'You should rest'.", "'I have a headache / a cold / a fever'.", "'My back hurts' = minhas costas doem."],
+          "vocab": ["headache|dor de cabeça", "sore throat|dor de garganta", "fever|febre", "cold|resfriado", "doctor|médico", "medicine|remédio", "appointment|consulta", "hurt|doer", "rest|descansar", "feel|sentir(-se)"],
+          "phrases": ["I don't feel well.|Não estou me sentindo bem.", "I have a terrible headache.|Estou com uma dor de cabeça terrível.", "You should see a doctor.|Você deveria ir ao médico.", "My back hurts.|Minhas costas doem.", "I'd like to make an appointment.|Gostaria de marcar uma consulta."],
+          "videos": [["At the doctor", "at the doctor English conversation vocabulary"], ["Should para conselhos", "should for advice English grammar"]],
+          "tasks": ["Dê 5 conselhos para alguém que quer aprender inglês (should).", "Revisão geral da Fase A2: quizzes + 1 conversa de 5 min com IA ou parceiro."],
+          "quiz": [{"q": "You ___ drink more water.", "o": ["should to", "should", "shoulds"], "a": 1}, {"q": "'Estou com febre' =", "o": ["I am fever.", "I have a fever.", "I feel fever."], "a": 1}]
+        }
+      ]
+    },
+    {
+      "id": "B1",
+      "name": "Intermediário",
+      "cefr": "B1",
+      "weeks": "Semanas 25–36",
+      "desc": "Conversar com confiança sobre experiências, trabalho e hipóteses. Começa a imersão de verdade.",
+      "units": [
+        {
+          "id": "u23", "title": "Present perfect", "en": "Present perfect",
+          "goals": "Falar de experiências e de coisas que ligam passado e presente.",
+          "grammar": ["have/has + particípio: 'I have visited London'.", "Experiência sem tempo definido: 'Have you ever been to…?'", "Com tempo definido usa passado simples: 'I went there in 2019'.", "Palavras-chave: ever, never, already, yet, just, for, since."],
+          "vocab": ["ever|alguma vez", "never|nunca", "already|já", "yet|ainda/já (perguntas)", "just|acabou de", "since|desde", "for|por/há (tempo)", "been|estado/ido", "lately|ultimamente", "experience|experiência"],
+          "phrases": ["Have you ever been to the US?|Você já foi aos EUA?", "I've never tried sushi.|Nunca experimentei sushi.", "She has just left.|Ela acabou de sair.", "I've lived here for five years.|Moro aqui há cinco anos.", "Have you finished yet?|Você já terminou?"],
+          "videos": [["Present perfect", "present perfect tense explained English grammar"], ["Present perfect x past simple", "present perfect vs past simple"], ["For x since", "for since present perfect"]],
+          "tasks": ["Escreva 10 'Have you ever…?' e responda.", "Grave 1 minuto falando de experiências que você já teve."],
+          "quiz": [{"q": "I ___ here since 2020.", "o": ["live", "have lived", "lived"], "a": 1}, {"q": "Correta:", "o": ["I have seen him yesterday.", "I saw him yesterday.", "I have saw him yesterday."], "a": 1}]
+        },
+        {
+          "id": "u24", "title": "Phrasal verbs essenciais", "en": "Essential phrasal verbs",
+          "goals": "Usar os 20 phrasal verbs mais comuns da fala.",
+          "grammar": ["Verbo + partícula muda o sentido: give up (desistir), find out (descobrir).", "Alguns separam: 'turn the TV off' / 'turn it off' (pronome no meio!).", "Aprenda sempre em frases, não isolados."],
+          "vocab": ["give up|desistir", "find out|descobrir", "look for|procurar", "pick up|buscar/pegar", "turn on|ligar", "turn off|desligar", "figure out|entender/resolver", "run out of|ficar sem", "come back|voltar", "hang out|sair/passar tempo"],
+          "phrases": ["Don't give up!|Não desista!", "I found out the truth.|Eu descobri a verdade.", "Can you pick me up at six?|Pode me buscar às seis?", "We ran out of coffee.|Acabou o café.", "Let's hang out this weekend.|Vamos sair neste fim de semana."],
+          "videos": [["Phrasal verbs mais comuns", "most common phrasal verbs English conversation"], ["Phrasal verbs separáveis", "separable phrasal verbs English"]],
+          "tasks": ["Crie uma história curta usando 8 phrasal verbs.", "Flashcards: todos os phrasal verbs."],
+          "quiz": [{"q": "'Descobrir' =", "o": ["find out", "find up", "look out"], "a": 0}, {"q": "Correta:", "o": ["Turn off it.", "Turn it off.", "Turn of it."], "a": 1}]
+        },
+        {
+          "id": "u25", "title": "Modais: must, have to, might", "en": "Modals of obligation & possibility",
+          "goals": "Expressar obrigação, proibição e possibilidade.",
+          "grammar": ["HAVE TO = obrigação externa; MUST = obrigação forte/pessoal ou regra escrita.", "MUSTN'T = proibido; DON'T HAVE TO = não precisa.", "MIGHT / MAY = talvez: 'It might rain'.", "Dedução: 'She must be tired' (com certeza), 'He can't be serious'."],
+          "vocab": ["have to|ter que", "must|dever (forte)", "mustn't|não pode (proibido)", "might|pode ser que", "may|talvez/poder", "allowed|permitido", "rule|regra", "allowed to|ter permissão para", "necessary|necessário", "optional|opcional"],
+          "phrases": ["I have to work tomorrow.|Tenho que trabalhar amanhã.", "You mustn't smoke here.|Você não pode fumar aqui.", "You don't have to come if you don't want to.|Você não precisa vir se não quiser.", "It might be a good idea.|Pode ser uma boa ideia.", "She must be exhausted.|Ela deve estar exausta."],
+          "videos": [["Must x have to", "must vs have to English grammar"], ["Might, may, could", "modal verbs of possibility might may could"]],
+          "tasks": ["Escreva as regras da sua casa/trabalho (must/mustn't/have to).", "Faça 5 deduções sobre pessoas em fotos."],
+          "quiz": [{"q": "'Você não precisa pagar' =", "o": ["You mustn't pay.", "You don't have to pay.", "You can't pay."], "a": 1}, {"q": "It ___ rain later. (talvez)", "o": ["might", "must", "has to"], "a": 0}]
+        },
+        {
+          "id": "u26", "title": "Condicionais 0, 1 e 2", "en": "Zero, first & second conditionals",
+          "goals": "Falar de verdades, possibilidades reais e hipóteses.",
+          "grammar": ["Zero: If + presente, presente (verdades): 'If you heat ice, it melts'.", "1º: If + presente, will: 'If it rains, I'll stay home'.", "2º: If + passado, would (hipótese): 'If I won the lottery, I would travel'.", "'If I were you…' = se eu fosse você."],
+          "vocab": ["if|se", "unless|a menos que", "would|-ria (futuro do pretérito)", "win|ganhar", "lottery|loteria", "rich|rico", "imagine|imaginar", "choice|escolha", "otherwise|caso contrário", "as long as|desde que"],
+          "phrases": ["If it rains, I'll stay home.|Se chover, vou ficar em casa.", "If I had more time, I would learn to play the piano.|Se eu tivesse mais tempo, aprenderia piano.", "If I were you, I'd accept the offer.|Se eu fosse você, aceitaria a oferta.", "Unless you study, you won't pass.|A menos que estude, você não vai passar.", "What would you do if you were rich?|O que você faria se fosse rico?"],
+          "videos": [["Conditionals explained", "zero first second conditional English grammar"], ["If I were you", "if I were you second conditional speaking"]],
+          "tasks": ["Responda por escrito: 'What would you do if…?' (5 situações).", "Fale 2 minutos sobre o que faria com 1 milhão de dólares."],
+          "quiz": [{"q": "If I ___ rich, I would buy a boat.", "o": ["am", "was/were", "will be"], "a": 1}, {"q": "If you study, you ___ pass.", "o": ["would", "will", "would have"], "a": 1}]
+        },
+        {
+          "id": "u27", "title": "Trabalho e entrevista de emprego", "en": "Work & job interviews",
+          "goals": "Falar da sua profissão e responder perguntas de entrevista.",
+          "grammar": ["'I'm in charge of…' / 'I'm responsible for…' / 'I work in/at/for…'.", "Descrever conquistas com passado simples e present perfect.", "Respostas no formato STAR: Situation, Task, Action, Result."],
+          "vocab": ["job|emprego", "career|carreira", "skills|habilidades", "experience|experiência", "salary|salário", "manager|gerente", "team|equipe", "deadline|prazo", "strength|ponto forte", "weakness|ponto fraco"],
+          "phrases": ["Tell me about yourself.|Fale sobre você.", "I'm responsible for managing a team of five.|Sou responsável por gerenciar uma equipe de cinco pessoas.", "My biggest strength is problem-solving.|Meu maior ponto forte é resolver problemas.", "I work well under pressure.|Trabalho bem sob pressão.", "Where do you see yourself in five years?|Onde você se vê em cinco anos?"],
+          "videos": [["Entrevista de emprego em inglês", "job interview in English questions and answers"], ["Tell me about yourself", "tell me about yourself best answer English"]],
+          "tasks": ["Escreva e grave seu 'Tell me about yourself' (1 min).", "Prepare respostas para 5 perguntas clássicas."],
+          "quiz": [{"q": "'Prazo' =", "o": ["deadline", "dateline", "timeline"], "a": 0}, {"q": "'I'm in charge of' significa:", "o": ["estou cobrando", "sou responsável por", "estou carregando"], "a": 1}]
+        },
+        {
+          "id": "u28", "title": "Contar histórias: past continuous", "en": "Storytelling: past continuous",
+          "goals": "Narrar histórias com cenário e interrupções.",
+          "grammar": ["was/were + ING = ação em andamento no passado: 'I was sleeping'.", "Interrupção: 'I was cooking when the phone rang'.", "Conectores de narrativa: first, then, after that, suddenly, finally, in the end."],
+          "vocab": ["suddenly|de repente", "while|enquanto", "when|quando", "then|então", "finally|finalmente", "in the end|no final", "happen|acontecer", "accident|acidente", "scared|assustado", "surprised|surpreso"],
+          "phrases": ["I was walking home when it started to rain.|Eu estava voltando para casa quando começou a chover.", "While she was sleeping, someone called.|Enquanto ela dormia, alguém ligou.", "Suddenly, the lights went out.|De repente, as luzes se apagaram.", "What were you doing at 10 pm?|O que você estava fazendo às 22h?", "In the end, everything worked out.|No final, deu tudo certo."],
+          "videos": [["Past continuous", "past continuous tense English grammar"], ["Storytelling em inglês", "how to tell a story in English storytelling tips"]],
+          "tasks": ["Conte uma história engraçada que aconteceu com você (escrita + falada).", "Shadowing: 5 minutos de um vídeo de storytelling."],
+          "quiz": [{"q": "I ___ TV when you called.", "o": ["watched", "was watching", "am watching"], "a": 1}, {"q": "'De repente' =", "o": ["suddenly", "slowly", "already"], "a": 0}]
+        },
+        {
+          "id": "u29", "title": "Gerúndio x infinitivo", "en": "Gerunds vs infinitives",
+          "goals": "Saber quando usar -ING ou TO depois de verbos.",
+          "grammar": ["+ ING: enjoy, avoid, finish, mind, keep, suggest ('I enjoy reading').", "+ TO: want, need, decide, hope, plan, promise ('I decided to stay').", "Depois de preposição sempre ING: 'I'm good at cooking', 'thanks for coming'.", "Muda o sentido: stop smoking (parar de fumar) x stop to smoke (parar para fumar)."],
+          "vocab": ["enjoy|curtir/gostar", "avoid|evitar", "decide|decidir", "keep|continuar", "mind|se importar", "suggest|sugerir", "hope|esperar (desejo)", "afford|ter condições de pagar", "used to|costumava", "look forward to|aguardar ansiosamente"],
+          "phrases": ["I enjoy learning languages.|Eu curto aprender idiomas.", "Would you mind closing the door?|Você se importaria de fechar a porta?", "I decided to change jobs.|Decidi mudar de emprego.", "I'm looking forward to seeing you.|Estou ansioso para te ver.", "I used to play soccer.|Eu costumava jogar futebol."],
+          "videos": [["Gerunds and infinitives", "gerund vs infinitive English grammar"], ["Used to", "used to English grammar past habits"]],
+          "tasks": ["Escreva 10 frases com verbos da lista (5 ING + 5 TO).", "Fale sobre o que você 'used to' fazer na infância."],
+          "quiz": [{"q": "I enjoy ___.", "o": ["to swim", "swimming", "swim"], "a": 1}, {"q": "She decided ___.", "o": ["to leave", "leaving", "leave"], "a": 0}]
+        },
+        {
+          "id": "u30", "title": "Connected speech: entender nativos", "en": "Connected speech",
+          "goals": "Entender o inglês falado rápido (reduções e ligações).",
+          "grammar": ["Ligação: 'turn it off' → 'tur-ni-toff'.", "Reduções: want to → wanna, got to → gotta, going to → gonna, kind of → kinda, don't know → dunno.", "Palavras fracas: to /tə/, for /fər/, and /ən/, can /kən/.", "Flap T americano: water → 'wader', better → 'bedder'."],
+          "vocab": ["wanna|want to", "gotta|got to / have got to", "gonna|going to", "kinda|kind of", "lemme|let me", "gimme|give me", "dunno|don't know", "whatcha|what are you / what do you", "y'all|vocês (sul dos EUA)", "innit|isn't it (Reino Unido)"],
+          "phrases": ["I'm gonna grab a coffee. Wanna come?|Vou pegar um café. Quer vir?", "I dunno, it's kinda weird.|Sei lá, é meio estranho.", "Lemme think about it.|Deixa eu pensar.", "I gotta go.|Tenho que ir.", "Whatcha doing?|O que você tá fazendo?"],
+          "videos": [["Connected speech", "connected speech English listening Rachel's English"], ["Reduções gonna wanna", "reductions in American English gonna wanna gotta"], ["Listening com séries", "learn English with TV series listening practice"]],
+          "tasks": ["Assista 10 min de série com legenda em inglês e anote 5 reduções.", "Shadowing diário de 5 minutos a partir de hoje.", "Revisão geral da Fase B1: conversa de 10 min com IA sobre suas experiências."],
+          "quiz": [{"q": "'Gotta' =", "o": ["got a / have got to", "go to", "good at"], "a": 0}, {"q": "Em inglês americano 'water' soa como:", "o": ["wa-ter (T forte)", "wader", "warer com R"], "a": 1}]
+        }
+      ]
+    },
+    {
+      "id": "B2",
+      "name": "Intermediário superior",
+      "cefr": "B2",
+      "weeks": "Semanas 37–50",
+      "desc": "Fluência em discussões, inglês profissional e estruturas complexas. Imersão é a principal fonte de aprendizado.",
+      "units": [
+        {
+          "id": "u31", "title": "Voz passiva", "en": "The passive voice",
+          "goals": "Usar a voz passiva em notícias, processos e textos formais.",
+          "grammar": ["to be + particípio: 'The house was built in 1990'.", "Use quando a ação importa mais que quem fez.", "Com 'by' para dizer quem: 'It was written by Machado de Assis'.", "Em todos os tempos: is made / was made / has been made / will be made."],
+          "vocab": ["built|construído", "made|feito", "written|escrito", "founded|fundado", "invented|inventado", "produced|produzido", "known as|conhecido como", "considered|considerado", "required|exigido", "launched|lançado"],
+          "phrases": ["The company was founded in 2010.|A empresa foi fundada em 2010.", "English is spoken all over the world.|Inglês é falado no mundo todo.", "The meeting has been cancelled.|A reunião foi cancelada.", "My car was stolen last night.|Meu carro foi roubado ontem à noite.", "You will be contacted soon.|Você será contatado em breve."],
+          "videos": [["Passive voice", "passive voice English grammar lesson"], ["Notícias simplificadas", "VOA Learning English news"]],
+          "tasks": ["Leia uma notícia em inglês e sublinhe as passivas.", "Descreva como algo é feito (café, pão) com a passiva."],
+          "quiz": [{"q": "The book ___ in 1899.", "o": ["wrote", "was written", "has write"], "a": 1}, {"q": "The meeting ___ cancelled.", "o": ["has been", "has", "was be"], "a": 0}]
+        },
+        {
+          "id": "u32", "title": "Discurso indireto", "en": "Reported speech",
+          "goals": "Relatar o que outras pessoas disseram.",
+          "grammar": ["Recua um tempo: 'I'm tired' → She said (that) she was tired.", "will → would, can → could, present perfect → past perfect.", "Perguntas viram ordem direta: 'Where do you live?' → He asked where I lived.", "say x tell: say something / tell someone something."],
+          "vocab": ["said|disse", "told|contou/disse a", "asked|perguntou", "explained|explicou", "mentioned|mencionou", "claimed|alegou", "admitted|admitiu", "denied|negou", "suggested|sugeriu", "warned|avisou"],
+          "phrases": ["She said she was running late.|Ela disse que estava atrasada.", "He told me he would call.|Ele me disse que ligaria.", "They asked where I worked.|Perguntaram onde eu trabalhava.", "My boss mentioned that the project had changed.|Meu chefe mencionou que o projeto tinha mudado.", "She warned me not to go.|Ela me avisou para não ir."],
+          "videos": [["Reported speech", "reported speech English grammar explained"]],
+          "tasks": ["Relate por escrito uma conversa que você teve hoje.", "Conte o enredo de um filme usando said/told/asked."],
+          "quiz": [{"q": "'I can swim.' → He said he ___ swim.", "o": ["can", "could", "can to"], "a": 1}, {"q": "She ___ me the truth.", "o": ["said", "told", "say"], "a": 1}]
+        },
+        {
+          "id": "u33", "title": "3º condicional, wish e arrependimentos", "en": "Third conditional & wish",
+          "goals": "Falar de passado hipotético e arrependimentos.",
+          "grammar": ["3º: If + past perfect, would have + particípio: 'If I had studied, I would have passed'.", "WISH + passado = desejo sobre o presente: 'I wish I spoke French'.", "WISH + past perfect = arrependimento: 'I wish I had listened'.", "should have / could have / would have: 'You should have told me!'"],
+          "vocab": ["regret|arrependimento", "wish|desejar", "should have|deveria ter", "could have|poderia ter", "would have|teria", "if only|se ao menos", "mistake|erro", "chance|chance", "missed|perdeu", "lucky|sortudo"],
+          "phrases": ["If I had known, I would have helped.|Se eu soubesse, teria ajudado.", "I wish I had more free time.|Queria ter mais tempo livre.", "You should have told me earlier.|Você deveria ter me contado antes.", "I could have done better.|Eu poderia ter feito melhor.", "If only I had listened!|Se ao menos eu tivesse escutado!"],
+          "videos": [["Third conditional", "third conditional English grammar"], ["Should have, could have", "should have could have would have English"]],
+          "tasks": ["Escreva 5 arrependimentos (leves!) com I wish / should have.", "Fale sobre uma decisão importante: 'If I hadn't…'"],
+          "quiz": [{"q": "If I had left earlier, I ___ the train.", "o": ["would catch", "would have caught", "will catch"], "a": 1}, {"q": "I wish I ___ taller. (presente)", "o": ["am", "were", "will be"], "a": 1}]
+        },
+        {
+          "id": "u34", "title": "Past perfect e perfect continuous", "en": "Perfect tenses",
+          "goals": "Mostrar a ordem dos eventos e a duração.",
+          "grammar": ["Past perfect (had + particípio) = passado do passado: 'When I arrived, the film had started'.", "Present perfect continuous = duração até agora: 'I've been studying for two hours'.", "Ênfase na atividade (continuous) x no resultado (simple)."],
+          "vocab": ["by the time|quando / até o momento em que", "before|antes", "after|depois", "had already|já tinha", "all day|o dia todo", "recently|recentemente", "how long|há quanto tempo", "exhausted|exausto", "lately|ultimamente", "so far|até agora"],
+          "phrases": ["By the time we arrived, the movie had already started.|Quando chegamos, o filme já tinha começado.", "I've been learning English for six months.|Estou aprendendo inglês há seis meses.", "She had never seen snow before.|Ela nunca tinha visto neve.", "How long have you been waiting?|Há quanto tempo você está esperando?", "So far, so good.|Até agora, tudo bem."],
+          "videos": [["Past perfect", "past perfect tense English grammar"], ["Present perfect continuous", "present perfect continuous English grammar"]],
+          "tasks": ["Escreva sua linha do tempo de aprendizado de inglês com esses tempos.", "Revise todos os tempos verbais com o quiz geral."],
+          "quiz": [{"q": "I ___ for two hours. (e ainda estou)", "o": ["studied", "have been studying", "had studied"], "a": 1}, {"q": "When I got there, she ___.", "o": ["had left", "has left", "leaves"], "a": 0}]
+        },
+        {
+          "id": "u35", "title": "Opinião, debate e conectores", "en": "Opinions & linking words",
+          "goals": "Defender opiniões e organizar ideias.",
+          "grammar": ["Opinião: In my opinion / I believe / As far as I'm concerned.", "Contraste: however, although, even though, on the other hand.", "Adição e consequência: moreover, furthermore, therefore, as a result.", "Discordar com educação: 'I see your point, but…'"],
+          "vocab": ["however|no entanto", "although|embora", "therefore|portanto", "moreover|além disso", "whereas|enquanto (contraste)", "despite|apesar de", "agree|concordar", "disagree|discordar", "point of view|ponto de vista", "argument|argumento"],
+          "phrases": ["In my opinion, remote work is more productive.|Na minha opinião, o trabalho remoto é mais produtivo.", "I see your point, but I don't fully agree.|Entendo seu ponto, mas não concordo totalmente.", "Although it's expensive, it's worth it.|Embora seja caro, vale a pena.", "On the other hand, there are some risks.|Por outro lado, há alguns riscos.", "That's a fair point.|É um argumento justo."],
+          "videos": [["Expressar opinião", "how to express your opinion in English phrases"], ["Linking words", "linking words connectors English speaking writing"]],
+          "tasks": ["Escolha um tema polêmico e grave 2 min com prós e contras.", "Debata com a IA (aba Recursos tem um prompt pronto)."],
+          "quiz": [{"q": "'Embora' =", "o": ["although", "therefore", "moreover"], "a": 0}, {"q": "___ the rain, we went out.", "o": ["Although", "Despite", "However"], "a": 1}]
+        },
+        {
+          "id": "u36", "title": "Inglês profissional: e-mails e reuniões", "en": "Business English",
+          "goals": "Escrever e-mails, participar e conduzir reuniões.",
+          "grammar": ["Abrir e-mail: 'I hope this email finds you well' / 'I'm writing to…'.", "Pedir: 'Could you please…?' / 'I was wondering if…'.", "Reuniões: 'Can I jump in?', 'Let's move on to…', 'To sum up…'.", "Fechar: 'Looking forward to hearing from you' / 'Best regards'."],
+          "vocab": ["attached|em anexo", "follow up|dar seguimento", "schedule|agendar", "agenda|pauta", "update|atualização", "feedback|retorno", "stakeholder|parte interessada", "proposal|proposta", "budget|orçamento", "ASAP|o quanto antes"],
+          "phrases": ["Please find attached the report.|Segue em anexo o relatório.", "I'm just following up on my last email.|Estou retomando meu último e-mail.", "Could we schedule a call for Thursday?|Podemos agendar uma ligação para quinta?", "Sorry to interrupt, can I add something?|Desculpe interromper, posso acrescentar algo?", "Let's circle back to this next week.|Vamos retomar isso semana que vem."],
+          "videos": [["E-mails profissionais", "how to write professional emails in English"], ["Reuniões em inglês", "English for meetings useful phrases"]],
+          "tasks": ["Escreva 3 e-mails: pedido, follow-up e recusa educada.", "Simule uma reunião de 5 min com a IA."],
+          "quiz": [{"q": "'Segue em anexo' =", "o": ["Follow attached", "Please find attached", "Attached go"], "a": 1}, {"q": "'Follow up' significa:", "o": ["seguir alguém", "dar seguimento", "subir"], "a": 1}]
+        },
+        {
+          "id": "u37", "title": "Idioms e expressões do dia a dia", "en": "Idioms & everyday expressions",
+          "goals": "Entender e usar as expressões idiomáticas mais frequentes.",
+          "grammar": ["Idioms não se traduzem palavra por palavra.", "Aprenda em contexto e com a situação de uso.", "Prefira os comuns na fala atual (veja séries e podcasts)."],
+          "vocab": ["break the ice|quebrar o gelo", "piece of cake|moleza", "hit the road|pegar a estrada", "under the weather|indisposto", "once in a blue moon|muito raramente", "call it a day|encerrar por hoje", "get the hang of|pegar o jeito", "on the same page|na mesma página", "cost an arm and a leg|custar os olhos da cara", "no big deal|nada demais"],
+          "phrases": ["The test was a piece of cake.|A prova foi moleza.", "I'm feeling a bit under the weather.|Estou um pouco indisposto.", "Let's call it a day.|Vamos encerrar por hoje.", "You'll get the hang of it.|Você vai pegar o jeito.", "That phone costs an arm and a leg.|Aquele celular custa os olhos da cara."],
+          "videos": [["Idioms comuns", "common English idioms used in daily conversation"], ["Gírias atuais", "English slang native speakers use"]],
+          "tasks": ["Use 3 idioms numa conversa ou texto hoje.", "Revisão geral da Fase B2: escreva um texto de 250 palavras e peça correção à IA."],
+          "quiz": [{"q": "'Piece of cake' =", "o": ["pedaço de bolo literal", "moleza", "festa"], "a": 1}, {"q": "'Let's call it a day' =", "o": ["vamos ligar amanhã", "vamos encerrar por hoje", "vamos dar nome ao dia"], "a": 1}]
+        }
+      ]
+    },
+    {
+      "id": "C1",
+      "name": "Avançado",
+      "cefr": "C1",
+      "weeks": "Semana 51 em diante",
+      "desc": "Precisão, naturalidade e compreensão de qualquer sotaque. Aqui o estudo vira estilo de vida em inglês.",
+      "units": [
+        {
+          "id": "u38", "title": "Collocations e vocabulário acadêmico", "en": "Collocations & academic vocabulary",
+          "goals": "Soar natural combinando palavras como nativos.",
+          "grammar": ["Collocations: make a decision, do homework, take a risk, pay attention.", "Erros clássicos: 'make a party' ✗ → 'throw a party' ✓; 'strong rain' ✗ → 'heavy rain' ✓.", "Academic Word List: analyze, approach, assess, concept, significant…"],
+          "vocab": ["make a decision|tomar uma decisão", "take a risk|correr um risco", "pay attention|prestar atenção", "heavy traffic|trânsito intenso", "raise awareness|conscientizar", "significant|significativo", "approach|abordagem", "assess|avaliar", "consistent|consistente", "outcome|resultado"],
+          "phrases": ["We need to make a decision by Friday.|Precisamos tomar uma decisão até sexta.", "Sometimes you have to take a risk.|Às vezes é preciso correr riscos.", "There was heavy traffic on the way.|Havia trânsito intenso no caminho.", "This approach led to a significant outcome.|Essa abordagem levou a um resultado significativo.", "The campaign aims to raise awareness.|A campanha busca conscientizar."],
+          "videos": [["Collocations", "English collocations advanced vocabulary"], ["Vocabulário avançado", "advanced English vocabulary C1"]],
+          "tasks": ["Monte um caderno de collocations: 5 novas por dia.", "Leia um artigo (The Guardian / BBC) e extraia 10 collocations."],
+          "quiz": [{"q": "Collocation correta:", "o": ["do a decision", "make a decision", "take a decision of"], "a": 1}, {"q": "Collocation correta:", "o": ["strong rain", "heavy rain", "big rain"], "a": 1}]
+        },
+        {
+          "id": "u39", "title": "Inversão, ênfase e estilo", "en": "Inversion, emphasis & style",
+          "goals": "Usar estruturas avançadas para dar ênfase e variar o estilo.",
+          "grammar": ["Inversão negativa: 'Never have I seen…', 'Not only… but also…', 'Rarely do we…'.", "Cleft sentences: 'What I need is…', 'It was John who…'.", "Ênfase com do/did: 'I DO like it!'"],
+          "vocab": ["never have I|nunca eu", "not only|não só", "rarely|raramente", "hardly ever|quase nunca", "no sooner|mal… quando", "what I mean is|o que quero dizer é", "it was … who|foi … quem", "indeed|de fato", "nevertheless|ainda assim", "by no means|de forma alguma"],
+          "phrases": ["Never have I seen such a beautiful place.|Nunca vi um lugar tão bonito.", "Not only is it cheap, but it's also fast.|Não só é barato, como também é rápido.", "What I really need is a vacation.|O que eu realmente preciso é de férias.", "It was my mother who taught me to cook.|Foi minha mãe quem me ensinou a cozinhar.", "I do appreciate your help.|Eu realmente agradeço sua ajuda."],
+          "videos": [["Inversion", "inversion English grammar advanced"], ["Cleft sentences", "cleft sentences English emphasis"]],
+          "tasks": ["Reescreva 5 frases suas usando inversão ou cleft.", "Escute um discurso (TED) e anote estruturas de ênfase."],
+          "quiz": [{"q": "Never ___ such a mess.", "o": ["I have seen", "have I seen", "I saw"], "a": 1}, {"q": "'Foi ela quem ligou' =", "o": ["It was her who called.", "Was she called.", "She was who called."], "a": 0}]
+        },
+        {
+          "id": "u40", "title": "Sotaques e compreensão nativa", "en": "Accents & native listening",
+          "goals": "Entender inglês americano, britânico, australiano e não nativo.",
+          "grammar": ["Americano: R pronunciado, flap T. Britânico (RP): R mudo no final, T claro.", "Diferenças de vocabulário: apartment/flat, elevator/lift, fries/chips.", "Escolha UM sotaque para produzir, entenda todos."],
+          "vocab": ["accent|sotaque", "flat|apartamento (UK)", "lift|elevador (UK)", "queue|fila (UK)", "mate|amigo (UK/AU)", "cheers|valeu (UK)", "gotten|particípio de get (US)", "y'know|sabe (marcador)", "like|tipo (marcador)", "dialect|dialeto"],
+          "phrases": ["Cheers, mate!|Valeu, amigo!", "I'm in the queue.|Estou na fila.", "Let's take the lift.|Vamos pegar o elevador.", "It's, like, really far, y'know?|É, tipo, muito longe, sabe?", "Where are you from? I can't place your accent.|De onde você é? Não consigo identificar seu sotaque."],
+          "videos": [["Americano x britânico", "American vs British English accent differences"], ["Sotaques do inglês", "English accents around the world comparison"], ["Podcast natural", "BBC 6 Minute English"]],
+          "tasks": ["Assista 1 vídeo de cada sotaque sem legenda.", "Faça 15 min de shadowing do sotaque escolhido."],
+          "quiz": [{"q": "'Lift' no Reino Unido =", "o": ["carona", "elevador", "levantar peso"], "a": 1}, {"q": "No inglês britânico padrão, o R final em 'car':", "o": ["é pronunciado forte", "geralmente não é pronunciado", "vira L"], "a": 1}]
+        },
+        {
+          "id": "u41", "title": "Apresentações e falar em público", "en": "Presentations & public speaking",
+          "goals": "Fazer apresentações claras e persuasivas em inglês.",
+          "grammar": ["Estrutura: hook → roadmap ('Today I'll cover three points') → conteúdo → conclusão.", "Sinalizadores: 'Moving on to…', 'Let me give you an example', 'To wrap up…'.", "Perguntas: 'That's a great question', 'Let me get back to you on that'."],
+          "vocab": ["slide|slide", "outline|estrutura/roteiro", "highlight|destacar", "key point|ponto principal", "wrap up|concluir", "audience|público", "engaging|envolvente", "insight|percepção", "takeaway|lição principal", "Q&A|perguntas e respostas"],
+          "phrases": ["Today I'd like to talk about three things.|Hoje gostaria de falar sobre três coisas.", "Let me give you an example.|Deixe-me dar um exemplo.", "Moving on to my next point…|Passando para o próximo ponto…", "The key takeaway is…|A principal lição é…", "That's a great question. Let me get back to you on that.|Ótima pergunta. Vou verificar e te retorno."],
+          "videos": [["Apresentações em inglês", "presentation phrases in English business"], ["TED: como falar bem", "TED talk how to speak so that people want to listen"]],
+          "tasks": ["Prepare e grave uma apresentação de 3 min sobre seu trabalho ou hobby.", "Assista a um TED Talk por semana sem legenda."],
+          "quiz": [{"q": "'Takeaway' numa apresentação =", "o": ["comida para viagem", "lição principal", "pausa"], "a": 1}, {"q": "Para concluir:", "o": ["To wrap up…", "To wrap on…", "To finish up me…"], "a": 0}]
+        },
+        {
+          "id": "u42", "title": "Escrita avançada", "en": "Advanced writing",
+          "goals": "Escrever ensaios, relatórios e textos claros e coesos.",
+          "grammar": ["Parágrafo: topic sentence → suporte → exemplo → conclusão.", "Registro formal: evite contrações e phrasal verbs informais (find out → discover).", "Hedging: 'It could be argued that…', 'This suggests that…'."],
+          "vocab": ["essay|ensaio/redação", "thesis|tese", "evidence|evidência", "furthermore|além disso", "consequently|consequentemente", "in conclusion|em conclusão", "it could be argued|pode-se argumentar", "suggest|sugerir/indicar", "draft|rascunho", "proofread|revisar"],
+          "phrases": ["It could be argued that technology isolates people.|Pode-se argumentar que a tecnologia isola as pessoas.", "This evidence suggests a clear trend.|Esta evidência sugere uma tendência clara.", "Consequently, prices have risen.|Consequentemente, os preços subiram.", "In conclusion, both sides have valid points.|Em conclusão, ambos os lados têm pontos válidos.", "I'll proofread the draft tonight.|Vou revisar o rascunho hoje à noite."],
+          "videos": [["Essay writing", "how to write an essay in English IELTS"], ["Escrita formal x informal", "formal vs informal English writing"]],
+          "tasks": ["Escreva 1 ensaio de 300 palavras por semana e peça correção à IA.", "Mantenha um diário em inglês todos os dias."],
+          "quiz": [{"q": "Mais formal:", "o": ["find out", "discover", "figure out"], "a": 1}, {"q": "'Consequently' =", "o": ["consequentemente", "constantemente", "conscientemente"], "a": 0}]
+        },
+        {
+          "id": "u43", "title": "Fluência: pensar em inglês", "en": "Fluency: thinking in English",
+          "goals": "Parar de traduzir mentalmente e manter o inglês para a vida.",
+          "grammar": ["Fillers naturais para ganhar tempo: 'Well…', 'Let me think…', 'How can I put it…'.", "Parafrasear quando faltar a palavra: 'It's a kind of…', 'the thing you use to…'.", "Monólogo interno: narre seu dia mentalmente em inglês."],
+          "vocab": ["fluent|fluente", "paraphrase|parafrasear", "filler|muleta de fala", "how can I put it|como posso dizer", "it's on the tip of my tongue|está na ponta da língua", "what's the word|qual é a palavra", "roughly|aproximadamente", "basically|basicamente", "I mean|quer dizer", "you know what I mean|sabe o que quero dizer"],
+          "phrases": ["How can I put it… it's complicated.|Como posso dizer… é complicado.", "It's on the tip of my tongue.|Está na ponta da língua.", "It's a kind of tool you use to open bottles.|É um tipo de ferramenta que se usa para abrir garrafas.", "Let me think about that for a second.|Deixa eu pensar nisso um segundo.", "You know what I mean?|Sabe o que quero dizer?"],
+          "videos": [["Pensar em inglês", "how to think in English and stop translating"], ["Fluência", "how to become fluent in English speaking tips"]],
+          "tasks": ["Monólogo interno em inglês: 10 min/dia (no trânsito, no banho…).", "Converse 3x por semana com nativos ou IA.", "Troque o idioma do celular e das redes para inglês."],
+          "quiz": [{"q": "'Está na ponta da língua' =", "o": ["It's on the tip of my tongue.", "It's in my mouth end.", "It's my tongue point."], "a": 0}, {"q": "Quando não sabe a palavra, o ideal é:", "o": ["parar de falar", "parafrasear", "falar em português"], "a": 1}]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,294 @@
+{
+ "date": "2026-11-24",
+ "source": "bank",
+ "levels": {
+  "basic": {
+   "theme": "Revisão: Verbo TO BE",
+   "words": [
+    {
+     "en": "here",
+     "pt": "aqui",
+     "ipa": "",
+     "example": "I am a student.",
+     "example_pt": "Eu sou estudante."
+    },
+    {
+     "en": "tired",
+     "pt": "cansado",
+     "ipa": "",
+     "example": "She is not tired.",
+     "example_pt": "Ela não está cansada."
+    },
+    {
+     "en": "busy",
+     "pt": "ocupado",
+     "ipa": "",
+     "example": "Are you ready?",
+     "example_pt": "Você está pronto?"
+    },
+    {
+     "en": "late",
+     "pt": "atrasado",
+     "ipa": "",
+     "example": "It is very hot today.",
+     "example_pt": "Está muito quente hoje."
+    },
+    {
+     "en": "student",
+     "pt": "estudante",
+     "ipa": "",
+     "example": "We are friends.",
+     "example_pt": "Nós somos amigos."
+    }
+   ],
+   "phrase": {
+    "en": "I am a student.",
+    "pt": "Eu sou estudante.",
+    "when": "Usar am / is / are em afirmações, negações e perguntas."
+   },
+   "idiom": {
+    "en": "I'm all ears",
+    "pt": "Sou todo ouvidos",
+    "example": "Tell me what happened. I'm all ears."
+   },
+   "grammar_tip": {
+    "title": "The verb to be",
+    "explanation_pt": "I am (I'm) · you are (you're) · he/she/it is (he's) · we/they are (we're).",
+    "examples": [
+     "I am a student.",
+     "She is not tired.",
+     "Are you ready?"
+    ]
+   },
+   "story": {
+    "title": "",
+    "text": "",
+    "translation_pt": ""
+   },
+   "dictation": [
+    "I am a student.",
+    "She is not tired.",
+    "Are you ready?",
+    "It is very hot today.",
+    "We are friends."
+   ],
+   "quiz": [
+    {
+     "q": "They ___ from Brazil.",
+     "o": [
+      "is",
+      "are",
+      "am"
+     ],
+     "a": 1,
+     "explain": ""
+    },
+    {
+     "q": "'Está frio' em inglês:",
+     "o": [
+      "Is cold.",
+      "It is cold.",
+      "Cold is."
+     ],
+     "a": 1,
+     "explain": ""
+    }
+   ],
+   "speaking_challenge": "Fale 1 minuto sobre o tema 'Verbo TO BE' usando as palavras do dia.",
+   "writing_prompt": "Escreva 5 frases sobre 'The verb to be'.",
+   "culture_fact": ""
+  },
+  "intermediate": {
+   "theme": "Revisão: Present perfect",
+   "words": [
+    {
+     "en": "ever",
+     "pt": "alguma vez",
+     "ipa": "",
+     "example": "Have you ever been to the US?",
+     "example_pt": "Você já foi aos EUA?"
+    },
+    {
+     "en": "lately",
+     "pt": "ultimamente",
+     "ipa": "",
+     "example": "I've never tried sushi.",
+     "example_pt": "Nunca experimentei sushi."
+    },
+    {
+     "en": "just",
+     "pt": "acabou de",
+     "ipa": "",
+     "example": "She has just left.",
+     "example_pt": "Ela acabou de sair."
+    },
+    {
+     "en": "never",
+     "pt": "nunca",
+     "ipa": "",
+     "example": "I've lived here for five years.",
+     "example_pt": "Moro aqui há cinco anos."
+    },
+    {
+     "en": "since",
+     "pt": "desde",
+     "ipa": "",
+     "example": "Have you finished yet?",
+     "example_pt": "Você já terminou?"
+    }
+   ],
+   "phrase": {
+    "en": "Have you ever been to the US?",
+    "pt": "Você já foi aos EUA?",
+    "when": "Falar de experiências e de coisas que ligam passado e presente."
+   },
+   "idiom": {
+    "en": "No worries",
+    "pt": "Sem problemas",
+    "example": "— Sorry I'm late! — No worries."
+   },
+   "grammar_tip": {
+    "title": "Present perfect",
+    "explanation_pt": "have/has + particípio: 'I have visited London'.",
+    "examples": [
+     "Have you ever been to the US?",
+     "I've never tried sushi.",
+     "She has just left."
+    ]
+   },
+   "story": {
+    "title": "",
+    "text": "",
+    "translation_pt": ""
+   },
+   "dictation": [
+    "Have you ever been to the US?",
+    "I've never tried sushi.",
+    "She has just left.",
+    "I've lived here for five years.",
+    "Have you finished yet?"
+   ],
+   "quiz": [
+    {
+     "q": "I ___ here since 2020.",
+     "o": [
+      "live",
+      "have lived",
+      "lived"
+     ],
+     "a": 1,
+     "explain": ""
+    },
+    {
+     "q": "Correta:",
+     "o": [
+      "I have seen him yesterday.",
+      "I saw him yesterday.",
+      "I have saw him yesterday."
+     ],
+     "a": 1,
+     "explain": ""
+    }
+   ],
+   "speaking_challenge": "Fale 1 minuto sobre o tema 'Present perfect' usando as palavras do dia.",
+   "writing_prompt": "Escreva 5 frases sobre 'Present perfect'.",
+   "culture_fact": ""
+  },
+  "advanced": {
+   "theme": "Revisão: Apresentações e falar em público",
+   "words": [
+    {
+     "en": "audience",
+     "pt": "público",
+     "ipa": "",
+     "example": "Today I'd like to talk about three things.",
+     "example_pt": "Hoje gostaria de falar sobre três coisas."
+    },
+    {
+     "en": "outline",
+     "pt": "estrutura/roteiro",
+     "ipa": "",
+     "example": "Let me give you an example.",
+     "example_pt": "Deixe-me dar um exemplo."
+    },
+    {
+     "en": "insight",
+     "pt": "percepção",
+     "ipa": "",
+     "example": "Moving on to my next point…",
+     "example_pt": "Passando para o próximo ponto…"
+    },
+    {
+     "en": "takeaway",
+     "pt": "lição principal",
+     "ipa": "",
+     "example": "The key takeaway is…",
+     "example_pt": "A principal lição é…"
+    },
+    {
+     "en": "key point",
+     "pt": "ponto principal",
+     "ipa": "",
+     "example": "That's a great question. Let me get back to you on that.",
+     "example_pt": "Ótima pergunta. Vou verificar e te retorno."
+    }
+   ],
+   "phrase": {
+    "en": "Today I'd like to talk about three things.",
+    "pt": "Hoje gostaria de falar sobre três coisas.",
+    "when": "Fazer apresentações claras e persuasivas em inglês."
+   },
+   "idiom": {
+    "en": "Under the weather",
+    "pt": "Indisposto",
+    "example": "I'm a bit under the weather today."
+   },
+   "grammar_tip": {
+    "title": "Presentations & public speaking",
+    "explanation_pt": "Estrutura: hook → roadmap ('Today I'll cover three points') → conteúdo → conclusão.",
+    "examples": [
+     "Today I'd like to talk about three things.",
+     "Let me give you an example.",
+     "Moving on to my next point…"
+    ]
+   },
+   "story": {
+    "title": "",
+    "text": "",
+    "translation_pt": ""
+   },
+   "dictation": [
+    "Today I'd like to talk about three things.",
+    "Let me give you an example.",
+    "Moving on to my next point…",
+    "The key takeaway is…",
+    "That's a great question. Let me get back to you on that."
+   ],
+   "quiz": [
+    {
+     "q": "'Takeaway' numa apresentação =",
+     "o": [
+      "comida para viagem",
+      "lição principal",
+      "pausa"
+     ],
+     "a": 1,
+     "explain": ""
+    },
+    {
+     "q": "Para concluir:",
+     "o": [
+      "To wrap up…",
+      "To wrap on…",
+      "To finish up me…"
+     ],
+     "a": 0,
+     "explain": ""
+    }
+   ],
+   "speaking_challenge": "Fale 1 minuto sobre o tema 'Apresentações e falar em público' usando as palavras do dia.",
+   "writing_prompt": "Escreva 5 frases sobre 'Presentations & public speaking'.",
+   "culture_fact": ""
+  }
+ }
+}

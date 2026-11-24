@@ -1,0 +1,23 @@
+{
+  "_info": "Canais curados. O robô diário (scripts/update_videos.py) resolve o ID de cada canal pelo @handle e busca os vídeos novos no feed RSS público do YouTube. Para adicionar um canal, basta incluir uma entrada aqui.",
+  "channels": [
+    {"name": "Mairo Vergara", "handle": "MairoVergara", "levels": ["A0", "A1", "A2"], "lang": "pt", "focus": "Método e dicas em português para brasileiros"},
+    {"name": "English in Brazil (Carina Fragozo)", "handle": "EnglishinBrazil", "levels": ["A0", "A1", "A2", "B1"], "lang": "pt", "focus": "Gramática, pronúncia e curiosidades explicadas em português"},
+    {"name": "Teacher Allie", "handle": "TeacherAllie", "levels": ["A0", "A1", "A2"], "lang": "pt", "focus": "Aulas para iniciantes brasileiros"},
+    {"name": "English with Lucy", "handle": "EnglishwithLucy", "levels": ["A1", "A2", "B1", "B2"], "lang": "en", "focus": "Gramática, vocabulário e pronúncia britânica"},
+    {"name": "BBC Learning English", "handle": "bbclearningenglish", "levels": ["A1", "A2", "B1", "B2", "C1"], "lang": "en", "focus": "6 Minute English, gramática, notícias, pronúncia"},
+    {"name": "EnglishClass101", "handle": "EnglishClass101", "levels": ["A0", "A1", "A2"], "lang": "en", "focus": "Diálogos e vocabulário para iniciantes"},
+    {"name": "VOA Learning English", "handle": "voalearningenglish", "levels": ["A2", "B1"], "lang": "en", "focus": "Notícias em inglês lento e claro"},
+    {"name": "Speak English With Vanessa", "handle": "SpeakEnglishWithVanessa", "levels": ["A2", "B1", "B2"], "lang": "en", "focus": "Conversação e inglês americano natural"},
+    {"name": "mmmEnglish", "handle": "mmmEnglish_Emma", "levels": ["A2", "B1", "B2"], "lang": "en", "focus": "Fala, pronúncia e confiança"},
+    {"name": "Learn English with Bob the Canadian", "handle": "LearnEnglishwithBobtheCanadian", "levels": ["A2", "B1"], "lang": "en", "focus": "Inglês do dia a dia, falado devagar"},
+    {"name": "JenniferESL", "handle": "JenniferESL", "levels": ["A1", "A2", "B1"], "lang": "en", "focus": "Gramática passo a passo"},
+    {"name": "Rachel's English", "handle": "rachelsenglish", "levels": ["A2", "B1", "B2", "C1"], "lang": "en", "focus": "Pronúncia americana e connected speech"},
+    {"name": "Learn English With TV Series", "handle": "LearnEnglishWithTVSeries", "levels": ["B1", "B2", "C1"], "lang": "en", "focus": "Listening com cenas de séries e filmes"},
+    {"name": "Papa Teach Me", "handle": "PapaTeachMe", "levels": ["B1", "B2", "C1"], "lang": "en", "focus": "Sotaque britânico e gírias"},
+    {"name": "Linguamarina", "handle": "Linguamarina", "levels": ["B1", "B2", "C1"], "lang": "en", "focus": "Inglês para carreira, estudo e vida no exterior"},
+    {"name": "TED-Ed", "handle": "TEDEd", "levels": ["B2", "C1"], "lang": "en", "focus": "Imersão: animações educativas curtas"},
+    {"name": "TED", "handle": "TED", "levels": ["B2", "C1"], "lang": "en", "focus": "Imersão: palestras com vários sotaques"},
+    {"name": "Kurzgesagt", "handle": "kurzgesagt", "levels": ["C1"], "lang": "en", "focus": "Imersão: ciência com vocabulário rico"}
+  ]
+}
