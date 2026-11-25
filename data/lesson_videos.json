@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24",
+ "updated": "2026-11-25",
  "lessons": {
   "u01": {
    "English alphabet pronunciation for beginners English with Lucy": {
@@ -1571,6 +1571,36 @@
       "duration": "2:34"
      }
     ]
+   },
+   "airport English conversation immigration questions": {
+    "label": "Airport English",
+    "checked": "2026-11-25",
+    "results": [
+     {
+      "id": "IlnDJSqxYrU",
+      "title": "✈️ Airport English: Immigration, Baggage & Customs - Slow and Easy English For Beginners",
+      "channel": "English Listening for Beginners ",
+      "duration": "18:14"
+     },
+     {
+      "id": "mL0sbjaxH6M",
+      "title": "[Customs & Immigration Questions & Answers, Interview at the Airport] English Conversation",
+      "channel": "Pattern English",
+      "duration": "24:49"
+     },
+     {
+      "id": "VjElqVLzo1k",
+      "title": "English Speaking Practice at the Airport | What to Say at Immigration | English Practice",
+      "channel": "English to Fluency ",
+      "duration": "14:03"
+     },
+     {
+      "id": "RBym5oLUM1A",
+      "title": "Airport Immigration Questions You MUST Know (with Answers)",
+      "channel": "iVisa",
+      "duration": "6:04"
+     }
+    ]
    }
   },
   "u22": {
@@ -1755,6 +1785,36 @@
       "title": "Separable vs Inseparable Phrasal Verbs Explained",
       "channel": "CodeLucky",
       "duration": "2:45"
+     }
+    ]
+   },
+   "most common phrasal verbs English conversation": {
+    "label": "Phrasal verbs mais comuns",
+    "checked": "2026-11-25",
+    "results": [
+     {
+      "id": "B0heWo1XGhc",
+      "title": "A Fun Way to Learn 50 English Phrasal Verbs with Examples!",
+      "channel": "Learn English with Bob the Canadian",
+      "duration": "7:57"
+     },
+     {
+      "id": "r7VKVXbaj_Y",
+      "title": "50+ COMMON ENGLISH PHRASAL VERBS (with workbook!)",
+      "channel": "mmmEnglish",
+      "duration": "33:36"
+     },
+     {
+      "id": "z1KVcYIg0HU",
+      "title": "Top 10 Important Phrasal Verbs for Your Daily Routine",
+      "channel": "English with Emma · engVid",
+      "duration": "15:00"
+     },
+     {
+      "id": "7_JqsJKf3qE",
+      "title": "21 Phrasal Verbs for Daily English Conversation | Vocabulary Booster",
+      "channel": "Speak Confident English",
+      "duration": "20:54"
      }
     ]
    }

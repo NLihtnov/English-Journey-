@@ -1,63 +1,63 @@
 {
- "date": "2026-11-24",
+ "date": "2026-11-25",
  "source": "bank",
  "levels": {
   "basic": {
-   "theme": "Revisão: Verbo TO BE",
+   "theme": "Revisão: Números, idade e telefone",
    "words": [
     {
-     "en": "here",
-     "pt": "aqui",
+     "en": "one",
+     "pt": "um",
+     "ipa": "",
+     "example": "What's your phone number?",
+     "example_pt": "Qual é o seu telefone?"
+    },
+    {
+     "en": "how many",
+     "pt": "quantos",
+     "ipa": "",
+     "example": "How old are you? — I'm twenty-five.",
+     "example_pt": "Quantos anos você tem? — Tenho 25."
+    },
+    {
+     "en": "age",
+     "pt": "idade",
      "ipa": "",
      "example": "",
      "example_pt": ""
     },
     {
-     "en": "tired",
-     "pt": "cansado",
+     "en": "twenty",
+     "pt": "vinte",
      "ipa": "",
-     "example": "She is not tired.",
-     "example_pt": "Ela não está cansada."
+     "example": "How old are you? — I'm twenty-five.",
+     "example_pt": "Quantos anos você tem? — Tenho 25."
     },
     {
-     "en": "busy",
-     "pt": "ocupado",
+     "en": "ten",
+     "pt": "dez",
      "ipa": "",
-     "example": "",
-     "example_pt": ""
-    },
-    {
-     "en": "late",
-     "pt": "atrasado",
-     "ipa": "",
-     "example": "",
-     "example_pt": ""
-    },
-    {
-     "en": "student",
-     "pt": "estudante",
-     "ipa": "",
-     "example": "I am a student.",
-     "example_pt": "Eu sou estudante."
+     "example": "How much is it? — It's ten dollars.",
+     "example_pt": "Quanto custa? — Dez dólares."
     }
    ],
    "phrase": {
-    "en": "I am a student.",
-    "pt": "Eu sou estudante.",
-    "when": "Usar am / is / are em afirmações, negações e perguntas."
+    "en": "How old are you? — I'm twenty-five.",
+    "pt": "Quantos anos você tem? — Tenho 25.",
+    "when": "Contar até 100, dizer idade, telefone e preços simples."
    },
    "idiom": {
-    "en": "I'm all ears",
-    "pt": "Sou todo ouvidos",
-    "example": "Tell me what happened. I'm all ears."
+    "en": "Speak of the devil",
+    "pt": "Falando no diabo",
+    "example": "Speak of the devil! We were just talking about you."
    },
    "grammar_tip": {
-    "title": "The verb to be",
-    "explanation_pt": "I am (I'm) · you are (you're) · he/she/it is (he's) · we/they are (we're).",
+    "title": "Numbers, age & phone",
+    "explanation_pt": "Idade usa TO BE: 'I am 30 (years old)' — nunca 'I have 30'.",
     "examples": [
-     "I am a student.",
-     "She is not tired.",
-     "Are you ready?"
+     "How old are you? — I'm twenty-five.",
+     "What's your phone number?",
+     "How much is it? — It's ten dollars."
     ]
    },
    "story": {
@@ -66,94 +66,94 @@
     "translation_pt": ""
    },
    "dictation": [
-    "I am a student.",
-    "She is not tired.",
-    "Are you ready?",
-    "It is very hot today.",
-    "We are friends."
+    "How old are you? — I'm twenty-five.",
+    "What's your phone number?",
+    "How much is it? — It's ten dollars.",
+    "I have two brothers.",
+    "Fifteen, not fifty."
    ],
    "quiz": [
     {
-     "q": "They ___ from Brazil.",
+     "q": "'Eu tenho 20 anos' =",
      "o": [
-      "is",
-      "are",
-      "am"
+      "I have 20 years.",
+      "I am 20 years old.",
+      "I'm with 20."
      ],
      "a": 1,
      "explain": ""
     },
     {
-     "q": "'Está frio' em inglês:",
+     "q": "Onde fica a sílaba forte em 'fifteen'?",
      "o": [
-      "Is cold.",
-      "It is cold.",
-      "Cold is."
+      "FIF-teen",
+      "fif-TEEN",
+      "igual"
      ],
      "a": 1,
      "explain": ""
     }
    ],
-   "speaking_challenge": "Fale 1 minuto sobre o tema 'Verbo TO BE' usando as palavras do dia.",
-   "writing_prompt": "Escreva 5 frases sobre 'The verb to be'.",
+   "speaking_challenge": "Fale 1 minuto sobre o tema 'Números, idade e telefone' usando as palavras do dia.",
+   "writing_prompt": "Escreva 5 frases sobre 'Numbers, age & phone'.",
    "culture_fact": ""
   },
   "intermediate": {
-   "theme": "Revisão: Present perfect",
+   "theme": "Revisão: Phrasal verbs essenciais",
    "words": [
     {
-     "en": "ever",
-     "pt": "alguma vez",
-     "ipa": "",
-     "example": "Have you ever been to the US?",
-     "example_pt": "Você já foi aos EUA?"
-    },
-    {
-     "en": "lately",
-     "pt": "ultimamente",
+     "en": "look for",
+     "pt": "procurar",
      "ipa": "",
      "example": "",
      "example_pt": ""
     },
     {
-     "en": "just",
-     "pt": "acabou de",
-     "ipa": "",
-     "example": "She has just left.",
-     "example_pt": "Ela acabou de sair."
-    },
-    {
-     "en": "never",
-     "pt": "nunca",
-     "ipa": "",
-     "example": "I've never tried sushi.",
-     "example_pt": "Nunca experimentei sushi."
-    },
-    {
-     "en": "since",
-     "pt": "desde",
+     "en": "find out",
+     "pt": "descobrir",
      "ipa": "",
      "example": "",
      "example_pt": ""
+    },
+    {
+     "en": "turn off",
+     "pt": "desligar",
+     "ipa": "",
+     "example": "",
+     "example_pt": ""
+    },
+    {
+     "en": "figure out",
+     "pt": "entender/resolver",
+     "ipa": "",
+     "example": "",
+     "example_pt": ""
+    },
+    {
+     "en": "give up",
+     "pt": "desistir",
+     "ipa": "",
+     "example": "Don't give up!",
+     "example_pt": "Não desista!"
     }
    ],
    "phrase": {
-    "en": "Have you ever been to the US?",
-    "pt": "Você já foi aos EUA?",
-    "when": "Falar de experiências e de coisas que ligam passado e presente."
+    "en": "Don't give up!",
+    "pt": "Não desista!",
+    "when": "Usar os 20 phrasal verbs mais comuns da fala."
    },
    "idiom": {
-    "en": "No worries",
-    "pt": "Sem problemas",
-    "example": "— Sorry I'm late! — No worries."
+    "en": "Break a leg",
+    "pt": "Boa sorte (antes de apresentação)",
+    "example": "You have an interview today? Break a leg!"
    },
    "grammar_tip": {
-    "title": "Present perfect",
-    "explanation_pt": "have/has + particípio: 'I have visited London'.",
+    "title": "Essential phrasal verbs",
+    "explanation_pt": "Verbo + partícula muda o sentido: give up (desistir), find out (descobrir).",
     "examples": [
-     "Have you ever been to the US?",
-     "I've never tried sushi.",
-     "She has just left."
+     "Don't give up!",
+     "I found out the truth.",
+     "Can you pick me up at six?"
     ]
    },
    "story": {
@@ -162,94 +162,94 @@
     "translation_pt": ""
    },
    "dictation": [
-    "Have you ever been to the US?",
-    "I've never tried sushi.",
-    "She has just left.",
-    "I've lived here for five years.",
-    "Have you finished yet?"
+    "Don't give up!",
+    "I found out the truth.",
+    "Can you pick me up at six?",
+    "We ran out of coffee.",
+    "Let's hang out this weekend."
    ],
    "quiz": [
     {
-     "q": "I ___ here since 2020.",
+     "q": "'Descobrir' =",
      "o": [
-      "live",
-      "have lived",
-      "lived"
+      "find out",
+      "find up",
+      "look out"
      ],
-     "a": 1,
+     "a": 0,
      "explain": ""
     },
     {
      "q": "Correta:",
      "o": [
-      "I have seen him yesterday.",
-      "I saw him yesterday.",
-      "I have saw him yesterday."
+      "Turn off it.",
+      "Turn it off.",
+      "Turn of it."
      ],
      "a": 1,
      "explain": ""
     }
    ],
-   "speaking_challenge": "Fale 1 minuto sobre o tema 'Present perfect' usando as palavras do dia.",
-   "writing_prompt": "Escreva 5 frases sobre 'Present perfect'.",
+   "speaking_challenge": "Fale 1 minuto sobre o tema 'Phrasal verbs essenciais' usando as palavras do dia.",
+   "writing_prompt": "Escreva 5 frases sobre 'Essential phrasal verbs'.",
    "culture_fact": ""
   },
   "advanced": {
-   "theme": "Revisão: Apresentações e falar em público",
+   "theme": "Revisão: Escrita avançada",
    "words": [
     {
-     "en": "audience",
-     "pt": "público",
+     "en": "evidence",
+     "pt": "evidência",
+     "ipa": "",
+     "example": "This evidence suggests a clear trend.",
+     "example_pt": "Esta evidência sugere uma tendência clara."
+    },
+    {
+     "en": "consequently",
+     "pt": "consequentemente",
+     "ipa": "",
+     "example": "Consequently, prices have risen.",
+     "example_pt": "Consequentemente, os preços subiram."
+    },
+    {
+     "en": "furthermore",
+     "pt": "além disso",
      "ipa": "",
      "example": "",
      "example_pt": ""
     },
     {
-     "en": "outline",
-     "pt": "estrutura/roteiro",
+     "en": "proofread",
+     "pt": "revisar",
+     "ipa": "",
+     "example": "I'll proofread the draft tonight.",
+     "example_pt": "Vou revisar o rascunho hoje à noite."
+    },
+    {
+     "en": "essay",
+     "pt": "ensaio/redação",
      "ipa": "",
      "example": "",
      "example_pt": ""
-    },
-    {
-     "en": "insight",
-     "pt": "percepção",
-     "ipa": "",
-     "example": "",
-     "example_pt": ""
-    },
-    {
-     "en": "takeaway",
-     "pt": "lição principal",
-     "ipa": "",
-     "example": "The key takeaway is…",
-     "example_pt": "A principal lição é…"
-    },
-    {
-     "en": "key point",
-     "pt": "ponto principal",
-     "ipa": "",
-     "example": "The key takeaway is…",
-     "example_pt": "A principal lição é…"
     }
    ],
    "phrase": {
-    "en": "Today I'd like to talk about three things.",
-    "pt": "Hoje gostaria de falar sobre três coisas.",
-    "when": "Fazer apresentações claras e persuasivas em inglês."
+    "en": "It could be argued that technology isolates people.",
+    "pt": "Pode-se argumentar que a tecnologia isola as pessoas.",
+    "when": "Escrever ensaios, relatórios e textos claros e coesos."
    },
    "idiom": {
-    "en": "Under the weather",
-    "pt": "Indisposto",
-    "example": "I'm a bit under the weather today."
+    "en": "Get the hang of it",
+    "pt": "Pegar o jeito",
+    "example": "Driving is hard at first, but you'll get the hang of it."
    },
    "grammar_tip": {
-    "title": "Presentations & public speaking",
-    "explanation_pt": "Estrutura: hook → roadmap ('Today I'll cover three points') → conteúdo → conclusão.",
+    "title": "Advanced writing",
+    "explanation_pt": "Parágrafo: topic sentence → suporte → exemplo → conclusão.",
     "examples": [
-     "Today I'd like to talk about three things.",
-     "Let me give you an example.",
-     "Moving on to my next point…"
+     "It could be argued that technology isolates people.",
+     "This evidence suggests a clear trend.",
+     "Consequently, prices have risen."
     ]
    },
    "story": {
@@ -258,36 +258,36 @@
     "translation_pt": ""
    },
    "dictation": [
-    "Today I'd like to talk about three things.",
-    "Let me give you an example.",
-    "Moving on to my next point…",
-    "The key takeaway is…",
-    "That's a great question. Let me get back to you on that."
+    "It could be argued that technology isolates people.",
+    "This evidence suggests a clear trend.",
+    "Consequently, prices have risen.",
+    "In conclusion, both sides have valid points.",
+    "I'll proofread the draft tonight."
    ],
    "quiz": [
     {
-     "q": "'Takeaway' numa apresentação =",
+     "q": "Mais formal:",
      "o": [
-      "comida para viagem",
-      "lição principal",
-      "pausa"
+      "find out",
+      "discover",
+      "figure out"
      ],
      "a": 1,
      "explain": ""
     },
     {
-     "q": "Para concluir:",
+     "q": "'Consequently' =",
      "o": [
-      "To wrap up…",
-      "To wrap on…",
-      "To finish up me…"
+      "consequentemente",
+      "constantemente",
+      "conscientemente"
      ],
      "a": 0,
      "explain": ""
     }
    ],
-   "speaking_challenge": "Fale 1 minuto sobre o tema 'Apresentações e falar em público' usando as palavras do dia.",
-   "writing_prompt": "Escreva 5 frases sobre 'Presentations & public speaking'.",
+   "speaking_challenge": "Fale 1 minuto sobre o tema 'Escrita avançada' usando as palavras do dia.",
+   "writing_prompt": "Escreva 5 frases sobre 'Advanced writing'.",
    "culture_fact": ""
   }
  }
