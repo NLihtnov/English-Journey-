@@ -1,0 +1,294 @@
+{
+ "date": "2026-11-26",
+ "source": "bank",
+ "levels": {
+  "basic": {
+   "theme": "Revisão: Pronomes, artigos e plural",
+   "words": [
+    {
+     "en": "city",
+     "pt": "cidade",
+     "ipa": "",
+     "example": "",
+     "example_pt": ""
+    },
+    {
+     "en": "woman",
+     "pt": "mulher",
+     "ipa": "",
+     "example": "",
+     "example_pt": ""
+    },
+    {
+     "en": "child",
+     "pt": "criança",
+     "ipa": "",
+     "example": "The children are at school.",
+     "example_pt": "As crianças estão na escola."
+    },
+    {
+     "en": "dog",
+     "pt": "cachorro",
+     "ipa": "",
+     "example": "Where is the dog?",
+     "example_pt": "Onde está o cachorro?"
+    },
+    {
+     "en": "book",
+     "pt": "livro",
+     "ipa": "",
+     "example": "It's an interesting book.",
+     "example_pt": "É um livro interessante."
+    }
+   ],
+   "phrase": {
+    "en": "I have a car and an old bike.",
+    "pt": "Eu tenho um carro e uma bicicleta velha.",
+    "when": "Usar I/you/he/she/it/we/they, a/an/the e formar o plural."
+   },
+   "idiom": {
+    "en": "Easier said than done",
+    "pt": "Falar é fácil",
+    "example": "Wake up at 5 am every day? Easier said than done."
+   },
+   "grammar_tip": {
+    "title": "Pronouns, articles & plurals",
+    "explanation_pt": "A antes de som de consoante (a book), AN antes de som de vogal (an apple, an hour).",
+    "examples": [
+     "I have a car and an old bike.",
+     "The children are at school.",
+     "It's an interesting book."
+    ]
+   },
+   "story": {
+    "title": "",
+    "text": "",
+    "translation_pt": ""
+   },
+   "dictation": [
+    "I have a car and an old bike.",
+    "The children are at school.",
+    "It's an interesting book.",
+    "They are good people.",
+    "Where is the dog?"
+   ],
+   "quiz": [
+    {
+     "q": "___ hour",
+     "o": [
+      "a",
+      "an",
+      "—"
+     ],
+     "a": 1,
+     "explain": ""
+    },
+    {
+     "q": "Plural de 'child':",
+     "o": [
+      "childs",
+      "children",
+      "childes"
+     ],
+     "a": 1,
+     "explain": ""
+    }
+   ],
+   "speaking_challenge": "Fale 1 minuto sobre o tema 'Pronomes, artigos e plural' usando as palavras do dia.",
+   "writing_prompt": "Escreva 5 frases sobre 'Pronouns, articles & plurals'.",
+   "culture_fact": ""
+  },
+  "intermediate": {
+   "theme": "Revisão: Modais: must, have to, might",
+   "words": [
+    {
+     "en": "may",
+     "pt": "talvez/poder",
+     "ipa": "",
+     "example": "",
+     "example_pt": ""
+    },
+    {
+     "en": "optional",
+     "pt": "opcional",
+     "ipa": "",
+     "example": "",
+     "example_pt": ""
+    },
+    {
+     "en": "allowed to",
+     "pt": "ter permissão para",
+     "ipa": "",
+     "example": "",
+     "example_pt": ""
+    },
+    {
+     "en": "necessary",
+     "pt": "necessário",
+     "ipa": "",
+     "example": "",
+     "example_pt": ""
+    },
+    {
+     "en": "rule",
+     "pt": "regra",
+     "ipa": "",
+     "example": "",
+     "example_pt": ""
+    }
+   ],
+   "phrase": {
+    "en": "I have to work tomorrow.",
+    "pt": "Tenho que trabalhar amanhã.",
+    "when": "Expressar obrigação, proibição e possibilidade."
+   },
+   "idiom": {
+    "en": "It's up to you",
+    "pt": "Você que sabe / depende de você",
+    "example": "Pizza or sushi? It's up to you."
+   },
+   "grammar_tip": {
+    "title": "Modals of obligation & possibility",
+    "explanation_pt": "HAVE TO = obrigação externa; MUST = obrigação forte/pessoal ou regra escrita.",
+    "examples": [
+     "I have to work tomorrow.",
+     "You mustn't smoke here.",
+     "You don't have to come if you don't want to."
+    ]
+   },
+   "story": {
+    "title": "",
+    "text": "",
+    "translation_pt": ""
+   },
+   "dictation": [
+    "I have to work tomorrow.",
+    "You mustn't smoke here.",
+    "You don't have to come if you don't want to.",
+    "It might be a good idea.",
+    "She must be exhausted."
+   ],
+   "quiz": [
+    {
+     "q": "'Você não precisa pagar' =",
+     "o": [
+      "You mustn't pay.",
+      "You don't have to pay.",
+      "You can't pay."
+     ],
+     "a": 1,
+     "explain": ""
+    },
+    {
+     "q": "It ___ rain later. (talvez)",
+     "o": [
+      "might",
+      "must",
+      "has to"
+     ],
+     "a": 0,
+     "explain": ""
+    }
+   ],
+   "speaking_challenge": "Fale 1 minuto sobre o tema 'Modais: must, have to, might' usando as palavras do dia.",
+   "writing_prompt": "Escreva 5 frases sobre 'Modals of obligation & possibility'.",
+   "culture_fact": ""
+  },
+  "advanced": {
+   "theme": "Revisão: Fluência: pensar em inglês",
+   "words": [
+    {
+     "en": "basically",
+     "pt": "basicamente",
+     "ipa": "",
+     "example": "",
+     "example_pt": ""
+    },
+    {
+     "en": "it's on the tip of my tongue",
+     "pt": "está na ponta da língua",
+     "ipa": "",
+     "example": "How can I put it… it's complicated.",
+     "example_pt": "Como posso dizer… é complicado."
+    },
+    {
+     "en": "paraphrase",
+     "pt": "parafrasear",
+     "ipa": "",
+     "example": "",
+     "example_pt": ""
+    },
+    {
+     "en": "roughly",
+     "pt": "aproximadamente",
+     "ipa": "",
+     "example": "",
+     "example_pt": ""
+    },
+    {
+     "en": "fluent",
+     "pt": "fluente",
+     "ipa": "",
+     "example": "",
+     "example_pt": ""
+    }
+   ],
+   "phrase": {
+    "en": "How can I put it… it's complicated.",
+    "pt": "Como posso dizer… é complicado.",
+    "when": "Parar de traduzir mentalmente e manter o inglês para a vida."
+   },
+   "idiom": {
+    "en": "On the same page",
+    "pt": "Na mesma página",
+    "example": "Let's talk to make sure we're on the same page."
+   },
+   "grammar_tip": {
+    "title": "Fluency: thinking in English",
+    "explanation_pt": "Fillers naturais para ganhar tempo: 'Well…', 'Let me think…', 'How can I put it…'.",
+    "examples": [
+     "How can I put it… it's complicated.",
+     "It's on the tip of my tongue.",
+     "It's a kind of tool you use to open bottles."
+    ]
+   },
+   "story": {
+    "title": "",
+    "text": "",
+    "translation_pt": ""
+   },
+   "dictation": [
+    "How can I put it… it's complicated.",
+    "It's on the tip of my tongue.",
+    "It's a kind of tool you use to open bottles.",
+    "Let me think about that for a second.",
+    "You know what I mean?"
+   ],
+   "quiz": [
+    {
+     "q": "'Está na ponta da língua' =",
+     "o": [
+      "It's on the tip of my tongue.",
+      "It's in my mouth end.",
+      "It's my tongue point."
+     ],
+     "a": 0,
+     "explain": ""
+    },
+    {
+     "q": "Quando não sabe a palavra, o ideal é:",
+     "o": [
+      "parar de falar",
+      "parafrasear",
+      "falar em português"
+     ],
+     "a": 1,
+     "explain": ""
+    }
+   ],
+   "speaking_challenge": "Fale 1 minuto sobre o tema 'Fluência: pensar em inglês' usando as palavras do dia.",
+   "writing_prompt": "Escreva 5 frases sobre 'Fluency: thinking in English'.",
+   "culture_fact": ""
+  }
+ }
+}

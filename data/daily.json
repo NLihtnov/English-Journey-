@@ -1,63 +1,63 @@
 {
- "date": "2026-11-25",
+ "date": "2026-11-26",
  "source": "bank",
  "levels": {
   "basic": {
-   "theme": "Revisão: Números, idade e telefone",
+   "theme": "Revisão: Pronomes, artigos e plural",
    "words": [
     {
-     "en": "one",
-     "pt": "um",
-     "ipa": "",
-     "example": "What's your phone number?",
-     "example_pt": "Qual é o seu telefone?"
-    },
-    {
-     "en": "how many",
-     "pt": "quantos",
-     "ipa": "",
-     "example": "How old are you? — I'm twenty-five.",
-     "example_pt": "Quantos anos você tem? — Tenho 25."
-    },
-    {
-     "en": "age",
-     "pt": "idade",
+     "en": "city",
+     "pt": "cidade",
      "ipa": "",
      "example": "",
      "example_pt": ""
     },
     {
-     "en": "twenty",
-     "pt": "vinte",
+     "en": "woman",
+     "pt": "mulher",
      "ipa": "",
-     "example": "How old are you? — I'm twenty-five.",
-     "example_pt": "Quantos anos você tem? — Tenho 25."
+     "example": "",
+     "example_pt": ""
     },
     {
-     "en": "ten",
-     "pt": "dez",
+     "en": "child",
+     "pt": "criança",
      "ipa": "",
-     "example": "How much is it? — It's ten dollars.",
-     "example_pt": "Quanto custa? — Dez dólares."
+     "example": "The children are at school.",
+     "example_pt": "As crianças estão na escola."
+    },
+    {
+     "en": "dog",
+     "pt": "cachorro",
+     "ipa": "",
+     "example": "Where is the dog?",
+     "example_pt": "Onde está o cachorro?"
+    },
+    {
+     "en": "book",
+     "pt": "livro",
+     "ipa": "",
+     "example": "It's an interesting book.",
+     "example_pt": "É um livro interessante."
     }
    ],
    "phrase": {
-    "en": "How old are you? — I'm twenty-five.",
-    "pt": "Quantos anos você tem? — Tenho 25.",
-    "when": "Contar até 100, dizer idade, telefone e preços simples."
+    "en": "I have a car and an old bike.",
+    "pt": "Eu tenho um carro e uma bicicleta velha.",
+    "when": "Usar I/you/he/she/it/we/they, a/an/the e formar o plural."
    },
    "idiom": {
-    "en": "Speak of the devil",
-    "pt": "Falando no diabo",
-    "example": "Speak of the devil! We were just talking about you."
+    "en": "Easier said than done",
+    "pt": "Falar é fácil",
+    "example": "Wake up at 5 am every day? Easier said than done."
    },
    "grammar_tip": {
-    "title": "Numbers, age & phone",
-    "explanation_pt": "Idade usa TO BE: 'I am 30 (years old)' — nunca 'I have 30'.",
+    "title": "Pronouns, articles & plurals",
+    "explanation_pt": "A antes de som de consoante (a book), AN antes de som de vogal (an apple, an hour).",
     "examples": [
-     "How old are you? — I'm twenty-five.",
-     "What's your phone number?",
-     "How much is it? — It's ten dollars."
+     "I have a car and an old bike.",
+     "The children are at school.",
+     "It's an interesting book."
     ]
    },
    "story": {
@@ -66,94 +66,94 @@
     "translation_pt": ""
    },
    "dictation": [
-    "How old are you? — I'm twenty-five.",
-    "What's your phone number?",
-    "How much is it? — It's ten dollars.",
-    "I have two brothers.",
-    "Fifteen, not fifty."
+    "I have a car and an old bike.",
+    "The children are at school.",
+    "It's an interesting book.",
+    "They are good people.",
+    "Where is the dog?"
    ],
    "quiz": [
     {
-     "q": "'Eu tenho 20 anos' =",
+     "q": "___ hour",
      "o": [
-      "I have 20 years.",
-      "I am 20 years old.",
-      "I'm with 20."
+      "a",
+      "an",
+      "—"
      ],
      "a": 1,
      "explain": ""
     },
     {
-     "q": "Onde fica a sílaba forte em 'fifteen'?",
+     "q": "Plural de 'child':",
      "o": [
-      "FIF-teen",
-      "fif-TEEN",
-      "igual"
+      "childs",
+      "children",
+      "childes"
      ],
      "a": 1,
      "explain": ""
     }
    ],
-   "speaking_challenge": "Fale 1 minuto sobre o tema 'Números, idade e telefone' usando as palavras do dia.",
-   "writing_prompt": "Escreva 5 frases sobre 'Numbers, age & phone'.",
+   "speaking_challenge": "Fale 1 minuto sobre o tema 'Pronomes, artigos e plural' usando as palavras do dia.",
+   "writing_prompt": "Escreva 5 frases sobre 'Pronouns, articles & plurals'.",
    "culture_fact": ""
   },
   "intermediate": {
-   "theme": "Revisão: Phrasal verbs essenciais",
+   "theme": "Revisão: Modais: must, have to, might",
    "words": [
     {
-     "en": "look for",
-     "pt": "procurar",
+     "en": "may",
+     "pt": "talvez/poder",
      "ipa": "",
      "example": "",
      "example_pt": ""
     },
     {
-     "en": "find out",
-     "pt": "descobrir",
+     "en": "optional",
+     "pt": "opcional",
      "ipa": "",
      "example": "",
      "example_pt": ""
     },
     {
-     "en": "turn off",
-     "pt": "desligar",
+     "en": "allowed to",
+     "pt": "ter permissão para",
      "ipa": "",
      "example": "",
      "example_pt": ""
     },
     {
-     "en": "figure out",
-     "pt": "entender/resolver",
+     "en": "necessary",
+     "pt": "necessário",
      "ipa": "",
      "example": "",
      "example_pt": ""
     },
     {
-     "en": "give up",
-     "pt": "desistir",
+     "en": "rule",
+     "pt": "regra",
      "ipa": "",
-     "example": "Don't give up!",
-     "example_pt": "Não desista!"
+     "example": "",
+     "example_pt": ""
     }
    ],
    "phrase": {
-    "en": "Don't give up!",
-    "pt": "Não desista!",
-    "when": "Usar os 20 phrasal verbs mais comuns da fala."
+    "en": "I have to work tomorrow.",
+    "pt": "Tenho que trabalhar amanhã.",
+    "when": "Expressar obrigação, proibição e possibilidade."
    },
    "idiom": {
-    "en": "Break a leg",
-    "pt": "Boa sorte (antes de apresentação)",
-    "example": "You have an interview today? Break a leg!"
+    "en": "It's up to you",
+    "pt": "Você que sabe / depende de você",
+    "example": "Pizza or sushi? It's up to you."
    },
    "grammar_tip": {
-    "title": "Essential phrasal verbs",
-    "explanation_pt": "Verbo + partícula muda o sentido: give up (desistir), find out (descobrir).",
+    "title": "Modals of obligation & possibility",
+    "explanation_pt": "HAVE TO = obrigação externa; MUST = obrigação forte/pessoal ou regra escrita.",
     "examples": [
-     "Don't give up!",
-     "I found out the truth.",
-     "Can you pick me up at six?"
+     "I have to work tomorrow.",
+     "You mustn't smoke here.",
+     "You don't have to come if you don't want to."
     ]
    },
    "story": {
@@ -162,94 +162,94 @@
     "translation_pt": ""
    },
    "dictation": [
-    "Don't give up!",
-    "I found out the truth.",
-    "Can you pick me up at six?",
-    "We ran out of coffee.",
-    "Let's hang out this weekend."
+    "I have to work tomorrow.",
+    "You mustn't smoke here.",
+    "You don't have to come if you don't want to.",
+    "It might be a good idea.",
+    "She must be exhausted."
    ],
    "quiz": [
     {
-     "q": "'Descobrir' =",
+     "q": "'Você não precisa pagar' =",
      "o": [
-      "find out",
-      "find up",
-      "look out"
-     ],
-     "a": 0,
-     "explain": ""
-    },
-    {
-     "q": "Correta:",
-     "o": [
-      "Turn off it.",
-      "Turn it off.",
-      "Turn of it."
+      "You mustn't pay.",
+      "You don't have to pay.",
+      "You can't pay."
      ],
      "a": 1,
      "explain": ""
+    },
+    {
+     "q": "It ___ rain later. (talvez)",
+     "o": [
+      "might",
+      "must",
+      "has to"
+     ],
+     "a": 0,
+     "explain": ""
     }
    ],
-   "speaking_challenge": "Fale 1 minuto sobre o tema 'Phrasal verbs essenciais' usando as palavras do dia.",
-   "writing_prompt": "Escreva 5 frases sobre 'Essential phrasal verbs'.",
+   "speaking_challenge": "Fale 1 minuto sobre o tema 'Modais: must, have to, might' usando as palavras do dia.",
+   "writing_prompt": "Escreva 5 frases sobre 'Modals of obligation & possibility'.",
    "culture_fact": ""
   },
   "advanced": {
-   "theme": "Revisão: Escrita avançada",
+   "theme": "Revisão: Fluência: pensar em inglês",
    "words": [
     {
-     "en": "evidence",
-     "pt": "evidência",
-     "ipa": "",
-     "example": "This evidence suggests a clear trend.",
-     "example_pt": "Esta evidência sugere uma tendência clara."
-    },
-    {
-     "en": "consequently",
-     "pt": "consequentemente",
-     "ipa": "",
-     "example": "Consequently, prices have risen.",
-     "example_pt": "Consequentemente, os preços subiram."
-    },
-    {
-     "en": "furthermore",
-     "pt": "além disso",
+     "en": "basically",
+     "pt": "basicamente",
      "ipa": "",
      "example": "",
      "example_pt": ""
     },
     {
-     "en": "proofread",
-     "pt": "revisar",
+     "en": "it's on the tip of my tongue",
+     "pt": "está na ponta da língua",
      "ipa": "",
-     "example": "I'll proofread the draft tonight.",
-     "example_pt": "Vou revisar o rascunho hoje à noite."
+     "example": "How can I put it… it's complicated.",
+     "example_pt": "Como posso dizer… é complicado."
     },
     {
-     "en": "essay",
-     "pt": "ensaio/redação",
+     "en": "paraphrase",
+     "pt": "parafrasear",
+     "ipa": "",
+     "example": "",
+     "example_pt": ""
+    },
+    {
+     "en": "roughly",
+     "pt": "aproximadamente",
+     "ipa": "",
+     "example": "",
+     "example_pt": ""
+    },
+    {
+     "en": "fluent",
+     "pt": "fluente",
      "ipa": "",
      "example": "",
      "example_pt": ""
     }
    ],
    "phrase": {
-    "en": "It could be argued that technology isolates people.",
-    "pt": "Pode-se argumentar que a tecnologia isola as pessoas.",
-    "when": "Escrever ensaios, relatórios e textos claros e coesos."
+    "en": "How can I put it… it's complicated.",
+    "pt": "Como posso dizer… é complicado.",
+    "when": "Parar de traduzir mentalmente e manter o inglês para a vida."
    },
    "idiom": {
-    "en": "Get the hang of it",
-    "pt": "Pegar o jeito",
-    "example": "Driving is hard at first, but you'll get the hang of it."
+    "en": "On the same page",
+    "pt": "Na mesma página",
+    "example": "Let's talk to make sure we're on the same page."
    },
    "grammar_tip": {
-    "title": "Advanced writing",
-    "explanation_pt": "Parágrafo: topic sentence → suporte → exemplo → conclusão.",
+    "title": "Fluency: thinking in English",
+    "explanation_pt": "Fillers naturais para ganhar tempo: 'Well…', 'Let me think…', 'How can I put it…'.",
     "examples": [
-     "It could be argued that technology isolates people.",
-     "This evidence suggests a clear trend.",
-     "Consequently, prices have risen."
+     "How can I put it… it's complicated.",
+     "It's on the tip of my tongue.",
+     "It's a kind of tool you use to open bottles."
     ]
    },
    "story": {
@@ -258,36 +258,36 @@
     "translation_pt": ""
    },
    "dictation": [
-    "It could be argued that technology isolates people.",
-    "This evidence suggests a clear trend.",
-    "Consequently, prices have risen.",
-    "In conclusion, both sides have valid points.",
-    "I'll proofread the draft tonight."
+    "How can I put it… it's complicated.",
+    "It's on the tip of my tongue.",
+    "It's a kind of tool you use to open bottles.",
+    "Let me think about that for a second.",
+    "You know what I mean?"
    ],
    "quiz": [
     {
-     "q": "Mais formal:",
+     "q": "'Está na ponta da língua' =",
      "o": [
-      "find out",
-      "discover",
-      "figure out"
-     ],
-     "a": 1,
-     "explain": ""
-    },
-    {
-     "q": "'Consequently' =",
-     "o": [
-      "consequentemente",
-      "constantemente",
-      "conscientemente"
+      "It's on the tip of my tongue.",
+      "It's in my mouth end.",
+      "It's my tongue point."
      ],
      "a": 0,
      "explain": ""
+    },
+    {
+     "q": "Quando não sabe a palavra, o ideal é:",
+     "o": [
+      "parar de falar",
+      "parafrasear",
+      "falar em português"
+     ],
+     "a": 1,
+     "explain": ""
     }
    ],
-   "speaking_challenge": "Fale 1 minuto sobre o tema 'Escrita avançada' usando as palavras do dia.",
-   "writing_prompt": "Escreva 5 frases sobre 'Advanced writing'.",
+   "speaking_challenge": "Fale 1 minuto sobre o tema 'Fluência: pensar em inglês' usando as palavras do dia.",
+   "writing_prompt": "Escreva 5 frases sobre 'Fluency: thinking in English'.",
    "culture_fact": ""
   }
  }
