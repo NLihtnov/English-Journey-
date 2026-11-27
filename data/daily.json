@@ -1,63 +1,63 @@
 {
- "date": "2026-11-26",
+ "date": "2026-11-27",
  "source": "bank",
  "levels": {
   "basic": {
-   "theme": "Revisão: Pronomes, artigos e plural",
+   "theme": "Revisão: Cores, objetos e this/that",
    "words": [
     {
-     "en": "city",
-     "pt": "cidade",
+     "en": "old",
+     "pt": "velho",
      "ipa": "",
      "example": "",
      "example_pt": ""
     },
     {
-     "en": "woman",
-     "pt": "mulher",
+     "en": "white",
+     "pt": "branco",
      "ipa": "",
      "example": "",
      "example_pt": ""
     },
     {
-     "en": "child",
-     "pt": "criança",
+     "en": "cheap",
+     "pt": "barato",
      "ipa": "",
-     "example": "The children are at school.",
-     "example_pt": "As crianças estão na escola."
+     "example": "These apples are cheap.",
+     "example_pt": "Estas maçãs são baratas."
     },
     {
-     "en": "dog",
-     "pt": "cachorro",
+     "en": "new",
+     "pt": "novo",
      "ipa": "",
-     "example": "Where is the dog?",
-     "example_pt": "Onde está o cachorro?"
+     "example": "",
+     "example_pt": ""
     },
     {
-     "en": "book",
-     "pt": "livro",
+     "en": "green",
+     "pt": "verde",
      "ipa": "",
-     "example": "It's an interesting book.",
-     "example_pt": "É um livro interessante."
+     "example": "",
+     "example_pt": ""
     }
    ],
    "phrase": {
-    "en": "I have a car and an old bike.",
-    "pt": "Eu tenho um carro e uma bicicleta velha.",
-    "when": "Usar I/you/he/she/it/we/they, a/an/the e formar o plural."
+    "en": "What is this? — It's a phone.",
+    "pt": "O que é isto? — É um telefone.",
+    "when": "Descrever objetos e apontar coisas perto/longe."
    },
    "idiom": {
-    "en": "Easier said than done",
-    "pt": "Falar é fácil",
-    "example": "Wake up at 5 am every day? Easier said than done."
+    "en": "Under the weather",
+    "pt": "Indisposto",
+    "example": "I'm a bit under the weather today."
    },
    "grammar_tip": {
-    "title": "Pronouns, articles & plurals",
-    "explanation_pt": "A antes de som de consoante (a book), AN antes de som de vogal (an apple, an hour).",
+    "title": "Colors, things & this/that",
+    "explanation_pt": "THIS/THESE = perto; THAT/THOSE = longe.",
     "examples": [
-     "I have a car and an old bike.",
-     "The children are at school.",
-     "It's an interesting book."
+     "What is this? — It's a phone.",
+     "Those shoes are black.",
+     "I like this blue shirt."
     ]
    },
    "story": {
@@ -66,94 +66,94 @@
     "translation_pt": ""
    },
    "dictation": [
-    "I have a car and an old bike.",
-    "The children are at school.",
-    "It's an interesting book.",
-    "They are good people.",
-    "Where is the dog?"
+    "What is this? — It's a phone.",
+    "Those shoes are black.",
+    "I like this blue shirt.",
+    "Is that your bag?",
+    "These apples are cheap."
    ],
    "quiz": [
     {
-     "q": "___ hour",
+     "q": "'Um carro vermelho' =",
      "o": [
-      "a",
-      "an",
-      "—"
+      "a car red",
+      "a red car",
+      "red a car"
      ],
      "a": 1,
      "explain": ""
     },
     {
-     "q": "Plural de 'child':",
+     "q": "Plural de 'that':",
      "o": [
-      "childs",
-      "children",
-      "childes"
+      "thats",
+      "these",
+      "those"
      ],
-     "a": 1,
+     "a": 2,
      "explain": ""
     }
    ],
-   "speaking_challenge": "Fale 1 minuto sobre o tema 'Pronomes, artigos e plural' usando as palavras do dia.",
-   "writing_prompt": "Escreva 5 frases sobre 'Pronouns, articles & plurals'.",
+   "speaking_challenge": "Fale 1 minuto sobre o tema 'Cores, objetos e this/that' usando as palavras do dia.",
+   "writing_prompt": "Escreva 5 frases sobre 'Colors, things & this/that'.",
    "culture_fact": ""
   },
   "intermediate": {
-   "theme": "Revisão: Modais: must, have to, might",
+   "theme": "Revisão: Condicionais 0, 1 e 2",
    "words": [
     {
-     "en": "may",
-     "pt": "talvez/poder",
+     "en": "choice",
+     "pt": "escolha",
      "ipa": "",
      "example": "",
      "example_pt": ""
     },
     {
-     "en": "optional",
-     "pt": "opcional",
+     "en": "imagine",
+     "pt": "imaginar",
      "ipa": "",
      "example": "",
      "example_pt": ""
     },
     {
-     "en": "allowed to",
-     "pt": "ter permissão para",
+     "en": "win",
+     "pt": "ganhar",
      "ipa": "",
      "example": "",
      "example_pt": ""
     },
     {
-     "en": "necessary",
-     "pt": "necessário",
+     "en": "unless",
+     "pt": "a menos que",
      "ipa": "",
-     "example": "",
-     "example_pt": ""
+     "example": "Unless you study, you won't pass.",
+     "example_pt": "A menos que estude, você não vai passar."
     },
     {
-     "en": "rule",
-     "pt": "regra",
+     "en": "otherwise",
+     "pt": "caso contrário",
      "ipa": "",
      "example": "",
      "example_pt": ""
     }
    ],
    "phrase": {
-    "en": "I have to work tomorrow.",
-    "pt": "Tenho que trabalhar amanhã.",
-    "when": "Expressar obrigação, proibição e possibilidade."
+    "en": "If it rains, I'll stay home.",
+    "pt": "Se chover, vou ficar em casa.",
+    "when": "Falar de verdades, possibilidades reais e hipóteses."
    },
    "idiom": {
-    "en": "It's up to you",
-    "pt": "Você que sabe / depende de você",
-    "example": "Pizza or sushi? It's up to you."
+    "en": "Better late than never",
+    "pt": "Antes tarde do que nunca",
+    "example": "You started English at 40? Better late than never!"
    },
    "grammar_tip": {
-    "title": "Modals of obligation & possibility",
-    "explanation_pt": "HAVE TO = obrigação externa; MUST = obrigação forte/pessoal ou regra escrita.",
+    "title": "Zero, first & second conditionals",
+    "explanation_pt": "Zero: If + presente, presente (verdades): 'If you heat ice, it melts'.",
     "examples": [
-     "I have to work tomorrow.",
-     "You mustn't smoke here.",
-     "You don't have to come if you don't want to."
+     "If it rains, I'll stay home.",
+     "If I had more time, I would learn to play the piano.",
+     "If I were you, I'd accept the offer."
     ]
    },
    "story": {
@@ -162,94 +162,94 @@
     "translation_pt": ""
    },
    "dictation": [
-    "I have to work tomorrow.",
-    "You mustn't smoke here.",
-    "You don't have to come if you don't want to.",
-    "It might be a good idea.",
-    "She must be exhausted."
+    "If it rains, I'll stay home.",
+    "If I had more time, I would learn to play the piano.",
+    "If I were you, I'd accept the offer.",
+    "Unless you study, you won't pass.",
+    "What would you do if you were rich?"
    ],
    "quiz": [
     {
-     "q": "'Você não precisa pagar' =",
+     "q": "If I ___ rich, I would buy a boat.",
      "o": [
-      "You mustn't pay.",
-      "You don't have to pay.",
-      "You can't pay."
+      "am",
+      "was/were",
+      "will be"
      ],
      "a": 1,
      "explain": ""
     },
     {
-     "q": "It ___ rain later. (talvez)",
+     "q": "If you study, you ___ pass.",
      "o": [
-      "might",
-      "must",
-      "has to"
+      "would",
+      "will",
+      "would have"
      ],
-     "a": 0,
+     "a": 1,
      "explain": ""
     }
    ],
-   "speaking_challenge": "Fale 1 minuto sobre o tema 'Modais: must, have to, might' usando as palavras do dia.",
-   "writing_prompt": "Escreva 5 frases sobre 'Modals of obligation & possibility'.",
+   "speaking_challenge": "Fale 1 minuto sobre o tema 'Condicionais 0, 1 e 2' usando as palavras do dia.",
+   "writing_prompt": "Escreva 5 frases sobre 'Zero, first & second conditionals'.",
    "culture_fact": ""
   },
   "advanced": {
-   "theme": "Revisão: Fluência: pensar em inglês",
+   "theme": "Revisão: Voz passiva",
    "words": [
     {
-     "en": "basically",
-     "pt": "basicamente",
+     "en": "invented",
+     "pt": "inventado",
      "ipa": "",
      "example": "",
      "example_pt": ""
     },
     {
-     "en": "it's on the tip of my tongue",
-     "pt": "está na ponta da língua",
-     "ipa": "",
-     "example": "How can I put it… it's complicated.",
-     "example_pt": "Como posso dizer… é complicado."
-    },
-    {
-     "en": "paraphrase",
-     "pt": "parafrasear",
+     "en": "produced",
+     "pt": "produzido",
      "ipa": "",
      "example": "",
      "example_pt": ""
     },
     {
-     "en": "roughly",
-     "pt": "aproximadamente",
+     "en": "built",
+     "pt": "construído",
      "ipa": "",
      "example": "",
      "example_pt": ""
     },
     {
-     "en": "fluent",
-     "pt": "fluente",
+     "en": "founded",
+     "pt": "fundado",
+     "ipa": "",
+     "example": "The company was founded in 2010.",
+     "example_pt": "A empresa foi fundada em 2010."
+    },
+    {
+     "en": "required",
+     "pt": "exigido",
      "ipa": "",
      "example": "",
      "example_pt": ""
     }
    ],
    "phrase": {
-    "en": "How can I put it… it's complicated.",
-    "pt": "Como posso dizer… é complicado.",
-    "when": "Parar de traduzir mentalmente e manter o inglês para a vida."
+    "en": "The company was founded in 2010.",
+    "pt": "A empresa foi fundada em 2010.",
+    "when": "Usar a voz passiva em notícias, processos e textos formais."
    },
    "idiom": {
-    "en": "On the same page",
-    "pt": "Na mesma página",
-    "example": "Let's talk to make sure we're on the same page."
+    "en": "Once in a blue moon",
+    "pt": "Muito raramente",
+    "example": "I eat fast food once in a blue moon."
    },
    "grammar_tip": {
-    "title": "Fluency: thinking in English",
-    "explanation_pt": "Fillers naturais para ganhar tempo: 'Well…', 'Let me think…', 'How can I put it…'.",
+    "title": "The passive voice",
+    "explanation_pt": "to be + particípio: 'The house was built in 1990'.",
     "examples": [
-     "How can I put it… it's complicated.",
-     "It's on the tip of my tongue.",
-     "It's a kind of tool you use to open bottles."
+     "The company was founded in 2010.",
+     "English is spoken all over the world.",
+     "The meeting has been cancelled."
     ]
    },
    "story": {
@@ -258,36 +258,36 @@
     "translation_pt": ""
    },
    "dictation": [
-    "How can I put it… it's complicated.",
-    "It's on the tip of my tongue.",
-    "It's a kind of tool you use to open bottles.",
-    "Let me think about that for a second.",
-    "You know what I mean?"
+    "The company was founded in 2010.",
+    "English is spoken all over the world.",
+    "The meeting has been cancelled.",
+    "My car was stolen last night.",
+    "You will be contacted soon."
    ],
    "quiz": [
     {
-     "q": "'Está na ponta da língua' =",
+     "q": "The book ___ in 1899.",
      "o": [
-      "It's on the tip of my tongue.",
-      "It's in my mouth end.",
-      "It's my tongue point."
-     ],
-     "a": 0,
-     "explain": ""
-    },
-    {
-     "q": "Quando não sabe a palavra, o ideal é:",
-     "o": [
-      "parar de falar",
-      "parafrasear",
-      "falar em português"
+      "wrote",
+      "was written",
+      "has write"
      ],
      "a": 1,
      "explain": ""
+    },
+    {
+     "q": "The meeting ___ cancelled.",
+     "o": [
+      "has been",
+      "has",
+      "was be"
+     ],
+     "a": 0,
+     "explain": ""
     }
    ],
-   "speaking_challenge": "Fale 1 minuto sobre o tema 'Fluência: pensar em inglês' usando as palavras do dia.",
-   "writing_prompt": "Escreva 5 frases sobre 'Fluency: thinking in English'.",
+   "speaking_challenge": "Fale 1 minuto sobre o tema 'Voz passiva' usando as palavras do dia.",
+   "writing_prompt": "Escreva 5 frases sobre 'The passive voice'.",
    "culture_fact": ""
   }
  }

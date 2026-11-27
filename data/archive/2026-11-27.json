@@ -1,0 +1,294 @@
+{
+ "date": "2026-11-27",
+ "source": "bank",
+ "levels": {
+  "basic": {
+   "theme": "Revisão: Cores, objetos e this/that",
+   "words": [
+    {
+     "en": "old",
+     "pt": "velho",
+     "ipa": "",
+     "example": "",
+     "example_pt": ""
+    },
+    {
+     "en": "white",
+     "pt": "branco",
+     "ipa": "",
+     "example": "",
+     "example_pt": ""
+    },
+    {
+     "en": "cheap",
+     "pt": "barato",
+     "ipa": "",
+     "example": "These apples are cheap.",
+     "example_pt": "Estas maçãs são baratas."
+    },
+    {
+     "en": "new",
+     "pt": "novo",
+     "ipa": "",
+     "example": "",
+     "example_pt": ""
+    },
+    {
+     "en": "green",
+     "pt": "verde",
+     "ipa": "",
+     "example": "",
+     "example_pt": ""
+    }
+   ],
+   "phrase": {
+    "en": "What is this? — It's a phone.",
+    "pt": "O que é isto? — É um telefone.",
+    "when": "Descrever objetos e apontar coisas perto/longe."
+   },
+   "idiom": {
+    "en": "Under the weather",
+    "pt": "Indisposto",
+    "example": "I'm a bit under the weather today."
+   },
+   "grammar_tip": {
+    "title": "Colors, things & this/that",
+    "explanation_pt": "THIS/THESE = perto; THAT/THOSE = longe.",
+    "examples": [
+     "What is this? — It's a phone.",
+     "Those shoes are black.",
+     "I like this blue shirt."
+    ]
+   },
+   "story": {
+    "title": "",
+    "text": "",
+    "translation_pt": ""
+   },
+   "dictation": [
+    "What is this? — It's a phone.",
+    "Those shoes are black.",
+    "I like this blue shirt.",
+    "Is that your bag?",
+    "These apples are cheap."
+   ],
+   "quiz": [
+    {
+     "q": "'Um carro vermelho' =",
+     "o": [
+      "a car red",
+      "a red car",
+      "red a car"
+     ],
+     "a": 1,
+     "explain": ""
+    },
+    {
+     "q": "Plural de 'that':",
+     "o": [
+      "thats",
+      "these",
+      "those"
+     ],
+     "a": 2,
+     "explain": ""
+    }
+   ],
+   "speaking_challenge": "Fale 1 minuto sobre o tema 'Cores, objetos e this/that' usando as palavras do dia.",
+   "writing_prompt": "Escreva 5 frases sobre 'Colors, things & this/that'.",
+   "culture_fact": ""
+  },
+  "intermediate": {
+   "theme": "Revisão: Condicionais 0, 1 e 2",
+   "words": [
+    {
+     "en": "choice",
+     "pt": "escolha",
+     "ipa": "",
+     "example": "",
+     "example_pt": ""
+    },
+    {
+     "en": "imagine",
+     "pt": "imaginar",
+     "ipa": "",
+     "example": "",
+     "example_pt": ""
+    },
+    {
+     "en": "win",
+     "pt": "ganhar",
+     "ipa": "",
+     "example": "",
+     "example_pt": ""
+    },
+    {
+     "en": "unless",
+     "pt": "a menos que",
+     "ipa": "",
+     "example": "Unless you study, you won't pass.",
+     "example_pt": "A menos que estude, você não vai passar."
+    },
+    {
+     "en": "otherwise",
+     "pt": "caso contrário",
+     "ipa": "",
+     "example": "",
+     "example_pt": ""
+    }
+   ],
+   "phrase": {
+    "en": "If it rains, I'll stay home.",
+    "pt": "Se chover, vou ficar em casa.",
+    "when": "Falar de verdades, possibilidades reais e hipóteses."
+   },
+   "idiom": {
+    "en": "Better late than never",
+    "pt": "Antes tarde do que nunca",
+    "example": "You started English at 40? Better late than never!"
+   },
+   "grammar_tip": {
+    "title": "Zero, first & second conditionals",
+    "explanation_pt": "Zero: If + presente, presente (verdades): 'If you heat ice, it melts'.",
+    "examples": [
+     "If it rains, I'll stay home.",
+     "If I had more time, I would learn to play the piano.",
+     "If I were you, I'd accept the offer."
+    ]
+   },
+   "story": {
+    "title": "",
+    "text": "",
+    "translation_pt": ""
+   },
+   "dictation": [
+    "If it rains, I'll stay home.",
+    "If I had more time, I would learn to play the piano.",
+    "If I were you, I'd accept the offer.",
+    "Unless you study, you won't pass.",
+    "What would you do if you were rich?"
+   ],
+   "quiz": [
+    {
+     "q": "If I ___ rich, I would buy a boat.",
+     "o": [
+      "am",
+      "was/were",
+      "will be"
+     ],
+     "a": 1,
+     "explain": ""
+    },
+    {
+     "q": "If you study, you ___ pass.",
+     "o": [
+      "would",
+      "will",
+      "would have"
+     ],
+     "a": 1,
+     "explain": ""
+    }
+   ],
+   "speaking_challenge": "Fale 1 minuto sobre o tema 'Condicionais 0, 1 e 2' usando as palavras do dia.",
+   "writing_prompt": "Escreva 5 frases sobre 'Zero, first & second conditionals'.",
+   "culture_fact": ""
+  },
+  "advanced": {
+   "theme": "Revisão: Voz passiva",
+   "words": [
+    {
+     "en": "invented",
+     "pt": "inventado",
+     "ipa": "",
+     "example": "",
+     "example_pt": ""
+    },
+    {
+     "en": "produced",
+     "pt": "produzido",
+     "ipa": "",
+     "example": "",
+     "example_pt": ""
+    },
+    {
+     "en": "built",
+     "pt": "construído",
+     "ipa": "",
+     "example": "",
+     "example_pt": ""
+    },
+    {
+     "en": "founded",
+     "pt": "fundado",
+     "ipa": "",
+     "example": "The company was founded in 2010.",
+     "example_pt": "A empresa foi fundada em 2010."
+    },
+    {
+     "en": "required",
+     "pt": "exigido",
+     "ipa": "",
+     "example": "",
+     "example_pt": ""
+    }
+   ],
+   "phrase": {
+    "en": "The company was founded in 2010.",
+    "pt": "A empresa foi fundada em 2010.",
+    "when": "Usar a voz passiva em notícias, processos e textos formais."
+   },
+   "idiom": {
+    "en": "Once in a blue moon",
+    "pt": "Muito raramente",
+    "example": "I eat fast food once in a blue moon."
+   },
+   "grammar_tip": {
+    "title": "The passive voice",
+    "explanation_pt": "to be + particípio: 'The house was built in 1990'.",
+    "examples": [
+     "The company was founded in 2010.",
+     "English is spoken all over the world.",
+     "The meeting has been cancelled."
+    ]
+   },
+   "story": {
+    "title": "",
+    "text": "",
+    "translation_pt": ""
+   },
+   "dictation": [
+    "The company was founded in 2010.",
+    "English is spoken all over the world.",
+    "The meeting has been cancelled.",
+    "My car was stolen last night.",
+    "You will be contacted soon."
+   ],
+   "quiz": [
+    {
+     "q": "The book ___ in 1899.",
+     "o": [
+      "wrote",
+      "was written",
+      "has write"
+     ],
+     "a": 1,
+     "explain": ""
+    },
+    {
+     "q": "The meeting ___ cancelled.",
+     "o": [
+      "has been",
+      "has",
+      "was be"
+     ],
+     "a": 0,
+     "explain": ""
+    }
+   ],
+   "speaking_challenge": "Fale 1 minuto sobre o tema 'Voz passiva' usando as palavras do dia.",
+   "writing_prompt": "Escreva 5 frases sobre 'The passive voice'.",
+   "culture_fact": ""
+  }
+ }
+}
